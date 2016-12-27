@@ -3,6 +3,128 @@ HOUSE RULES
 
 # New Rules
 
+## SPONTANEOUS MAGIC
+One of the biggest annoyances of the IKRPG is the lack of a proper magic system. Spells were clearly just ported over from the wargame without much thought or effort, causing major discontinuities between the D20 version of the game and the current one, never mind making some spellcaster careers useless for anything but combat. Many who came to the game from the P&P RPG, rather than the wargame, find this very unsatisfying.
+
+What’s needed is a supplemental magic system that can complement the current rules without unbalancing the game or causing a dramatic rework of character creation rules. Atlas Games’ [4th ed. Ars Magica](http://www.atlas-games.com/product_tables/AG0204.php) hermetic magic system fits the bill perfectly, with some modifications. 
+
+### System
+Spontaneous spells are organized around Technique-Form templates (in Latin no less, for flavor). For example, the player wants to turn a Khadoran into a lawn chair. The Technique is Muto (“change”) and the Form is Corpus (“body”). All characters have access to all Techniques, but forms are limited by career, as shown below. 
+
+Careers  | Forms
+-------- | --------
+Arcanist, Blackclad, Bokor  |  Animal, Aquam, Auram, Corpus, Herbam, Ignem, Imaginem, Mentem, Terram, Vim
+Advocate of Thamar  |  Corpus, Ignem, Imaginem, Mentem, Vim
+Sorcerer  |  Aquam, Auram, Ignem, Terram
+Priest of Morrow  |  Corpus, Mentem, Vim
+Priest of Menoth  |  Ignem, Mentem, Vim
+Priest of Dhunia  |  Animal, Corpus, Herbam
+Priest of the Devourer  |  Animal, Corpus, Ignem
+Arcane Mechanik, Warcaster  |  Ignem, Terram
+Warlock  | Animal, Ignem
+Gunmage  |  Ignem
+Bloodweaver  |  Corpus
+
+Spontaneous magics should reflect the flavor of a given spellcaster's career choices. Ice Sorcerers, for example, should primarily use combinations such as Creo Aquam and Perdo Ignem to emphasize frozen water. Arcane Mechaniks and Warcasters should cast Terram spells impacting mechanika and steamjack components. Gunmages should only use Ignem effects involving force effects. Etc., etc. Also remember that just because a caster can cast a spell of a certain type, doesn't mean s/he should. Some magics (necromancy, mind control, some illusions) are illegal in most of the Iron Kingdoms, and frequent use would quickly bring the attentions of, e.g., the Order of Illumination in Cygnar or the Greylord’s Covenant in Khador.
+
+Spontaneous Casting is subject to two general requirements.
+
+* A character must be a will weaver, focuser, and harnesser to cast a Spontaneous spell. 
+* A character must have an appropriate Lore skill in order to cast Spontaneous spells. Lore (Arcane) and Lore (Occult) skills impart knowledge of magical theories and practices necessary to cast spontaneous spells of different levels of power; they are not required to cast Rote spells, however. Non-Gifted characters can learn these skills to, e.g., identify supernatural phenomena and spells being cast at them, but they can’t power the magical runes that alter reality.
+
+Spontaneous spells take a Full Round Action to cast in combat, or 1 minute outside of combat.
+
+With incorporation of this rule system, spells in IK are of three non-overlapping types. 
+
+* Spontaneous: Free-form spells cast on the fly, according to the Ars Magica Spontaneous Spell rules. 
+* Rote: The career-specific spells detailed in the various IK books. Drilled into casters of different traditions, they are fast, powerful, and with few exceptions combat oriented.
+* Ritual: Specially designated ritual spells from published IK books.
+
+### Spontaneous Casting Process
+
+1. Determine Technique, Form, and Minimum Lore Skill Level of Effect  
+The player describes the desired spell Effect, then together with the GM decides on an appropriate Technique, Form, and minimum spell level. The Lore Skill level required for a spell is the Ars Magica spell level divided by 10, rounded up to the nearest integer. Note that this has the (intentional) effect of making certain spell effects impossible for IK characters; no resurrection, teleportation, or spontaneous creation of dragons. The Lore Skill level of “Muto Corpus”, per the guidelines on p.125 of Ars Magica, is 40 ÷ 10 = 4.
+
+    Spells described explicitly in the Ars Magica rules are subject to GM modification.
+
+2. Determine Casting Roll Difficulty  
+The Casting Difficulty of the spell is determined according to the following equation.  
+
+    Casting Difficulty = 10 + Min. Lore Skill Level + Modifiers
+
+    Modifiers include Range, Duration, and Targets. For more details on modifiers, see Ars Magica p.103-105.
+        
+    Ranges                |  Durations             |  Targets 
+    --------------------- | ---------------------- | --------------------
+    +0 Personal           |  +0 Momentary          |  +0 Small 
+    +1 Touch/Eye          |  +1 Concentration      |  +1 Individual 
+    +2 Reach/Near (4’)    |  +2 Diameter (<1hr.)   |  +2 Group/Room 
+    +3 Far (10’)          |  +3 Sun (<24 hrs.)     |  +3 Circle/Structure 
+    +4 Sight              |  +4 Moon               |  +4 Boundary 
+    +5 Arcane Connection  |  +5 Season             |  +5 Sight
+                          |  +6 Year               |
+                          |  +7 Perm/Inst          |
+
+    Our “Muto Corpus” has a Difficulty of 20, assuming that the spell targets a single Khadoran within four inches of the caster and remains in effect for 24 hours. At the end of 24 hours, the chair turns back into a very confused Khadoran.
+
+3. Roll for Effect  
+The player makes a Casting Roll, ARC + Lore Skill + 2d6, to determine whether or not the spell is successfully cast. Spells that target any unwilling characters require an additional ARC + 2d6 Targeting Roll against the DEF rating of the target. These rolls are subject to the following modifiers:
+    * Characters that have a crippled Intellect spiral are -2 to both rolls.
+    * Spell effects with Requisites (require more than one Technique or Form) impose a -1 Casting Roll penalty for each Requisite.
+    * Use of an appropriate focus imparts a +1 bonus to the Casting Roll. An appropriate focus may be career specific (a gunmage uses a rune bullet, a stone sorcerer uses a quantity of earth, etc.) or inspired by the dizzying array of foci on page 87 of Ars Magica. Use of a magical or magickal focus increases the bonus to +2.
+    * Up to two assistants may make a Casting Roll at a Difficulty of 15 to provide a +1 bonus to the roll.
+
+4. Incur Fatigue  
+The Fatigue cost of a Spontaneous spell is equal to the Lore Skill level required to cast it. Additional Fatigue may be incurred for boosting a Targeting or damage roll, as normal.
+
+### Odds and Ends
+Conversion of existing Ars Magica spells to IK rules will typically require case by case adjudication from the GM, but the following general guidelines should be helpful.
+
+* Ars Magica doesn't have the special place in its heart for lightning that IK does. To address this, treat the “Ignem” Form as a more general “Energem”, and assume that the Effects of lightning, sonic, and kinetic ('force’) energy spells are mechanically identical to those of fire spells regarding damage amounts, etc.
+
+* For Effects that inflict harm, POW is generally 8 + (damage ÷ 5).
+
+* Magical Healing is subject to the normal Pain of Healing rules. Recovery of a Body Level equates to healing Vitality points equal to the healed character’s stamina.
+
+* Spell descriptions which refer to “demons” affect Undead and Infernals.
+
+### New Abilities
+The following abilities are available to any spell casting career.
+
+*Form Mastery*  
+The caster gains +2 on Casting Rolls when using a Form or Requisite of a specified type. Ability may be taken multiple times, each with a different Form.
+
+*Adept*  
+The caster may reroll a failed Casting Roll. Prerequisite: Lore (Arcane) or Lore (Occult) 3.
+
+*Fast Cast*  
+The caster may cast a Spontaneous spell as a quick action.
+
+*Magical Aptitude*  
+Casting Rolls are boosted. Casting Rolls are +1d6 if the character is of Veteran or higher level.
+
+### Example Spell Effects
+
+*Transmute Khadoran to Lawn Chair*  
+Muto Corpus, Lore (Arcane/Occult) 4, R: short, D: sun, T: indiv, Diff: 20  
+Turn a single human being into an inanimate object for one day. Requires a Targeting Roll.  
+
+*These Are Not the Warjacks You're Looking For*  
+Muto Mentem, Lore (Arcane) 1, R: short, D: sun, T: indiv, Diff: 17  
+Alter’s the target’s perception of the one item in his immediate memory. Requires a Targeting Roll.  
+
+*Where am I?*  
+Intellego Imaginem, Lore (Arcane/Occult) 1, R: personal, D: momentary, T: indiv, Diff: 14  
+Caster knows his approximate distance and compass direction relative to a known location of his/her choosing.  
+
+*Detect Magic*  
+Intellego Vim, Lore (Arcane/Occult) 1, R: self, D: momentary, T: room, Diff: 13  
+Caster immediately knows which objects within the caster's immediate vacinity are magical.  
+
+*Need a Light?*  
+Creo Ignem, Lore (Arcane/Occult) 1, R: touch, D: momentary, T: small, Diff: 12  
+A small spark appears at the tip of the caster's finger, igniting flammable materials found there.  
+
 ## INSANITY
 
 ### Sanity Checks and Loss
@@ -30,9 +152,7 @@ Roll | Effect
 
 Effects designated 'long term' remain until treated by an alienist for a period of 2d6 months; they may also be completely removed with the Heal spell, with all the usual effects of Pain of Healing. Otherwise, effects last 2d6 rounds, or minutes if the character is not in combat. 
 
-### Recovery
-Temporary Sanity may be recovered at the same rate as recovered Vitality. 
-
+### Permanent Sanity Loss
 Sanity may be *permanently* lost in two ways:
 
 1. Rolling double ones on a sanity check results in the permanent loss of one SAN. 
@@ -40,18 +160,17 @@ Sanity may be *permanently* lost in two ways:
 
 When a character reaches zero permanent Sanity, s/he is permanently insane. 
 
-When a character goes up a level (i.e., from hero to veteran or veteran to epic) s/he gains 1d3 permanent Sanity points. 
+### Recovery of Sanity
+Temporary Sanity may be recovered at the same rate as recovered Vitality. Additionally, when a character goes up a level (i.e., from hero to veteran or veteran to epic) s/he gains 1d3 permanent Sanity points. Finally, feat points may spent to regain SAN:
 
-Feat points may spent to regain SAN:
-
-* Get it together: The character regains 1d3 Sanity points. 
+*Get it together*  
+The character regains 1d3 Sanity points. 
 
 ### Additional Rules
 Intellectual characters may take a new Archetype Benefit, Resilient. 
 
 *Resilient*  
 If the character reaches 0 Sanity, s/he may immediately roll 1d6; on a 1-2, the character regains 1d3 Sanity points and does not roll on the insanity effects table. 
-
 
 ## MASS COMBAT 
 Adapted from [this post](http://privateerpressforums.com/showthread.php?228723-Mass-Combat-in-the-Iron-Kingdoms).  
@@ -116,142 +235,14 @@ Over river by steamboat (@ 80% efficiency.)
 16 hours, 50 miles  
 24 hours, 75 miles  
 
-## SPONTANEOUS MAGIC
-One of the biggest annoyances of the IKRPG is the lack of a proper magic system. Spells were clearly just ported over from the wargame without much thought or effort, causing major discontinuities between the D20 version of the game and the current one, never mind making some spellcaster careers useless for anything but combat. Many who came to the game from the P&P RPG, rather than the wargame, find this very unsatisfying.
-
-What’s needed is a supplemental magic system that can complement the current rules without unbalancing the game or causing a dramatic rework of character creation rules. Atlas Games’ [4th ed. Ars Magica](http://www.atlas-games.com/product_tables/AG0204.php) hermetic magic system fits the bill perfectly, with some modifications. 
-
-### System
-Spontaneous spells are organized around Technique-Form templates (in Latin no less, for flavor). For example, the player wants to turn a Khadoran into a lawn chair. The Technique is Muto (“change”) and the Form is Corpus (“body”). All characters have access to all Techniques, but forms are limited by career, as shown below. 
-
-Careers  | Forms
--------- | --------
-Arcanist, Blackclad, Bokor  |  Animal, Aquam, Auram, Corpus, Herbam, Ignem, Imaginem, Mentem, Terram, Vim
-Advocate of Thamar  |  Corpus, Ignem, Imaginem, Mentem, Vim
-Sorcerer  |  Aquam, Auram, Ignem, Terram
-Priest of Morrow  |  Corpus, Mentem, Vim
-Priest of Menoth  |  Ignem, Mentem, Vim
-Priest of Dhunia  |  Animal, Corpus, Herbam
-Priest of the Devourer  |  Animal, Corpus, Ignem
-Arcane Mechanik, Warcaster  |  Ignem, Terram
-Warlock  | Animal, Ignem
-Gunmage  |  Ignem
-Bloodweaver  |  Corpus
-
-Spontaneous magics should reflect the flavor of a given spellcaster's career choices. Ice Sorcerers, for example, should primarily use combinations such as Creo Aquam and Perdo Ignem to emphasize frozen water. Arcane Mechaniks and Warcasters should cast Terram spells impacting mechanika and steamjack components. Gunmages should only use Ignem effects involving force effects. Etc., etc. Also remember that just because a caster can cast a spell of a certain type, doesn't mean s/he should. Some magics (necromancy, mind control, some illusions) are illegal in most of the Iron Kingdoms, and frequent use would quickly bring the attentions of, e.g., the Order of Illumination in Cygnar or the Greylord’s Covenant in Khador.
-
-Spontaneous Casting is subject to two general requirements.
-
-* A character must be a will weaver, focuser, and harnesser to cast a Spontaneous spell. 
-* A character must have an appropriate Lore skill in order to cast Spontaneous spells. Lore (Arcane) and Lore (Occult) skills impart knowledge of magical theories and practices necessary to cast spontaneous spells of different levels of power; they are not required to cast Rote spells, however. Non-Gifted characters can learn these skills to, e.g., identify supernatural phenomena and spells being cast at them, but they can’t power the magical runes that alter reality.
-
-Spontaneous spells take a Full Round Action to cast in combat, or 1 minute outside of combat.
-
-With incorporation of this rule system, spells in IK are of three non-overlapping types. 
-
-* Spontaneous: Free-form spells cast on the fly, according to the Ars Magica Spontaneous Spell rules. 
-* Rote: The career-specific spells detailed in the various IK books. Drilled into casters of different traditions, they are fast, powerful, and with few exceptions combat oriented.
-* Ritual: Specially designated ritual spells from published IK books.
-
-### Spontaneous Casting Process
-
-1. Determine Technique, Form, and Minimum Lore Skill Level of Effect  
-The player describes the desired spell Effect, then together with the GM decides on an appropriate Technique, Form, and minimum spell level. The Lore Skill level required for a spell is the Ars Magica spell level divided by 10, rounded up to the nearest integer. Note that this has the (intentional) effect of making certain spell effects impossible for IK characters; no resurrection, teleportation, or spontaneous creation of dragons. The Lore Skill level of “Muto Corpus”, per the guidelines on p.125 of Ars Magica, is 40 ÷ 10 = 4.
-
-    Spells described explicitly in the Ars Magica rules are subject to GM modification.
-
-2. Determine Casting Roll Difficulty  
-The Casting Difficulty of the spell is determined according to the following equation.  
-
-    Casting Difficulty = 10 + Min. Lore Skill Level + Modifiers
-
-    Modifiers include Range, Duration, and Targets. For more details on modifiers, see Ars Magica p.103-105.
-        
-    Ranges                |  Durations             |  Targets 
-    --------------------- | ---------------------- | --------------------
-    +0 Personal           |  +0 Momentary          |  +0 Small 
-    +1 Touch/Eye          |  +1 Concentration      |  +1 Individual 
-    +2 Reach/Near (4’)    |  +2 Diameter (<1hr.)   |  +2 Group/Room 
-    +3 Far (10’)          |  +3 Sun (<24 hrs.)     |  +3 Circle/Structure 
-    +4 Sight              |  +4 Moon               |  +4 Boundary 
-    +5 Arcane Connection  |  +5 Season             |  +5 Sight
-                          |  +6 Year               |
-                          |  +7 Perm/Inst          |
-
-
-    Our “Muto Corpus” has a Difficulty of 20, assuming that the spell targets a single Khadoran within four inches of the caster and remains in effect for 24 hours. At the end of 24 hours, the chair turns back into a very confused Khadoran.
-
-3. Roll for Effect  
-The player makes a Casting Roll, ARC + Lore Skill + 2d6, to determine whether or not the spell is successfully cast. Spells that target any unwilling characters require an additional ARC + 2d6 Targeting Roll against the DEF rating of the target. These rolls are subject to the following modifiers:
-    * Characters that have a crippled Intellect spiral are -2 to both rolls.
-    * Spell effects with Requisites (require more than one Technique or Form) impose a -1 Casting Roll penalty for each Requisite.
-    * Use of an appropriate focus imparts a +1 bonus to the Casting Roll. An appropriate focus may be career specific (a gunmage uses a rune bullet, a stone sorcerer uses a quantity of earth, etc.) or inspired by the dizzying array of foci on page 87 of Ars Magica. Use of a magical or magickal focus increases the bonus to +2.
-    * Up to two assistants may make a Casting Roll at a Difficulty of 15 to provide a +1 bonus to the roll.
-
-4. Incur Fatigue  
-The Fatigue cost of a Spontaneous spell is equal to the Lore Skill level required to cast it. Additional Fatigue may be incurred for boosting a Targeting or damage roll, as normal.
-
-### Odds and Ends
-Conversion of existing Ars Magica spells to IK rules will typically require case by case adjudication from the GM, but the following general guidelines should be helpful.
-
-* Ars Magica doesn't have the special place in its heart for lightning that IK does. To address this, treat the “Ignem” Form as a more general “Energem”, and assume that the Effects of lightning, sonic, and kinetic ('force’) energy spells are mechanically identical to those of fire spells regarding damage amounts, etc.
-
-* For Effects that inflict harm, POW is generally 8 + (damage ÷ 5).
-
-* Magical Healing is subject to the normal Pain of Healing rules. Recovery of a Body Level equates to healing Vitality points equal to the healed character’s stamina.
-
-* Spell descriptions which refer to “demons” affect Undead and Infernals.
-
-### New Abilities
-The following abilities are available to any spell casting career.
-
-*Form Mastery*  
-The caster gains +2 on Casting Rolls when using a Form or Requisite of a specified type. Ability may be taken multiple times, each with a different Form.
-
-*Adept*  
-The caster may reroll a failed Casting Roll. Prerequisite: Lore (Arcane) or Lore (Occult) 3.
-
-*Fast Cast*  
-The caster may cast a Spontaneous spell as a quick action.
-
-*Magical Aptitude*  
-Casting Rolls are boosted. Casting Rolls are +1d6 if the character is of Veteran or higher level.
-
-### Example Spell Effects
-
-*Transmute Khadoran to Lawn Chair*  
-Muto Corpus, Lore (Arcane/Occult) 4, R: short, D: sun, T: indiv, Diff: 20  
-Turn a single human being into an inanimate object for one day. Requires a Targeting Roll.  
-
-*These Are Not the Warjacks You're Looking For*  
-Muto Mentem, Lore (Arcane) 1, R: short, D: sun, T: indiv, Diff: 17  
-Alter’s the target’s perception of the one item in his immediate memory. Requires a Targeting Roll.  
-
-*Where am I?*  
-Intellego Imaginem, Lore (Arcane/Occult) 1, R: personal, D: momentary, T: indiv, Diff: 14  
-Caster knows his approximate distance and compass direction relative to a known location of his/her choosing.  
-
-*Detect Magic*  
-Intellego Vim, Lore (Arcane/Occult) 1, R: self, D: momentary, T: room, Diff: 13  
-Caster immediately knows which objects within the caster's immediate vacinity are magical.  
-
-*Need a Light?*  
-Creo Ignem, Lore (Arcane/Occult) 1, R: touch, D: momentary, T: small, Diff: 12  
-A small spark appears at the tip of the caster's finger, igniting flammable materials found there.  
-
-# Modifications of Existing Rules
+## DEADLY WAR{NOUN}S
+Physical attacks on warjacks/warbeasts are -1d6 damage. Physical attacks made by warjacks/warbeasts are +1d6 damage. Spells and elemental conditions affect war{noun}s normally, as do artillery weapons.
 
 ## AOE SPELLS
 AOE spells may target an arbitrary point in space. 
 
 ## REALISTIC TRAINING TIMES
 Skills that can be used untrained take (1d6 * new rating) days of practice to reach a new level. Skills requiring training take (2d6 * new rating) weeks of instruction. A base learning time roll may be made once for the entire party during periods of down time.
-
-## HUGE STATURE
-If a weapon has both two-handed and one-handed attack modifiers, the Ogrun may use the weapon one-handed with the (lower) two-handed modified. If the weapon may not usually be used one-handed, the Ogrun may use it one-handed with a -2 penalty.
-
-## DEADLY WAR{NOUN}S
-Physical attacks on warjacks/warbeasts are -1d6 damage. Physical attacks made by warjacks/warbeasts are +1d6 damage. Spells and elemental conditions affect war{noun}s normally, as do artillery weapons.
 
 # Specific Spells, Skills, and Abilities
 
@@ -263,4 +254,7 @@ This ability grants Prowl for 1 round in combat or 1 minute out of combat.
 
 ## PROWL
 This ability grants a +2 to Sneak checks in addition to other effects stated in IKFMF. It does not, however, confer invisibility. Prowling characters can still be seen if they fail a Sneak check; they just can't be hit by ranged attacks from more than 5" away. 
+
+## HUGE STATURE
+If a weapon has both two-handed and one-handed attack modifiers, the Ogrun may use the weapon one-handed with the (lower) two-handed modified. If the weapon may not usually be used one-handed, the Ogrun may use it one-handed with a -2 penalty.
 
