@@ -176,7 +176,7 @@ The Casting Difficulty of the spell is determined according to the following equ
                           |  +7 Perm/Inst          |
 
 
-    Our “Muto Corpus” has a Difficulty of 22, assuming that the spell targets a single Khadoran within four inches of the caster and remains in effect for 24 hours. At the end of 24 hours, the chair turns back into a very confused Khadoran.
+    Our “Muto Corpus” has a Difficulty of 20, assuming that the spell targets a single Khadoran within four inches of the caster and remains in effect for 24 hours. At the end of 24 hours, the chair turns back into a very confused Khadoran.
 
 3. Roll for Effect  
 The player makes a Casting Roll, ARC + Lore Skill + 2d6, to determine whether or not the spell is successfully cast. Spells that target any unwilling characters require an additional ARC + 2d6 Targeting Roll against the DEF rating of the target. These rolls are subject to the following modifiers:
@@ -214,11 +214,27 @@ The caster may cast a Spontaneous spell as a quick action.
 *Magical Aptitude*  
 Casting Rolls are boosted. Casting Rolls are +1d6 if the character is of Veteran or higher level.
 
-### Additional Examples
+### Example Spell Effects
+
+*Transmute Khadoran to Lawn Chair*  
+Muto Corpus, Lore (Arcane/Occult) 4, R: short, D: sun, T: indiv, Diff: 20  
+Turn a single human being into an inanimate object for one day. Requires a Targeting Roll.  
 
 *These Are Not the Warjacks You're Looking For*  
 Muto Mentem, Lore (Arcane) 1, R: short, D: sun, T: indiv, Diff: 17  
 Alter’s the target’s perception of the one item in his immediate memory. Requires a Targeting Roll.
+
+*Detect Magic*
+Intellego Vim, Lore (Arcane/Occult) 1, R: self, D: momentary, T: sight, Diff: 16
+Caster immediately knows which objects within sight are magical. 
+
+*Where am I?*
+Intellego Imaginem, Lore (Arcane/Occult) 1, R: personal, D: momentary, T: indiv, Diff: 14
+Caster knows his approximate distance and compass direction relative to a known location of his/her choosing. 
+
+*Need a Light?*
+Creo Ignem, Lore (Arcane/Occult) 1, R: touch, D: momentary, T: small, Diff: 12
+Caster knows his approximate location relative to a known location of his/her choosing. 
 
 # Modifications of Existing Rules
 
