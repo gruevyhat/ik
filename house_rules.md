@@ -42,14 +42,16 @@ When a character reaches zero permanent Sanity, s/he is permanently insane.
 
 When a character goes up a level (i.e., from hero to veteran or veteran to epic) s/he gains 1d3 permanent Sanity points. 
 
-### Additional Rules
-Intellectual characters may take a new Archetype Benefit, Resilient. 
-
-* Resilient: If the character reaches 0 Sanity, s/he may immediately roll 1d6; on a 1-2, the character regains 1d3 Sanity points and does not roll on the insanity effects table. 
-
 Feat points may spent to regain SAN:
 
 * Get it together: The character regains 1d3 Sanity points. 
+
+### Additional Rules
+Intellectual characters may take a new Archetype Benefit, Resilient. 
+
+*Resilient*  
+If the character reaches 0 Sanity, s/he may immediately roll 1d6; on a 1-2, the character regains 1d3 Sanity points and does not roll on the insanity effects table. 
+
 
 ## MASS COMBAT 
 Adapted from [this post](http://privateerpressforums.com/showthread.php?228723-Mass-Combat-in-the-Iron-Kingdoms).  
@@ -115,32 +117,33 @@ Over river by steamboat (@ 80% efficiency.)
 24 hours, 75 miles  
 
 ## SPONTANEOUS MAGIC
-One of the biggest annoyances of the IKRPG is the lack of a proper magic system. Spells were clearly just ported over from the wargame without much thought or effort, causing major discontinuities between the D20 version of the game and the current one, never mind making some spellcaster career useless for anything but combat. Many who came to the game from the P&P RPG, rather than the wargame, find this very unsatisfying.
+One of the biggest annoyances of the IKRPG is the lack of a proper magic system. Spells were clearly just ported over from the wargame without much thought or effort, causing major discontinuities between the D20 version of the game and the current one, never mind making some spellcaster careers useless for anything but combat. Many who came to the game from the P&P RPG, rather than the wargame, find this very unsatisfying.
 
 What’s needed is a supplemental magic system that can complement the current rules without unbalancing the game or causing a dramatic rework of character creation rules. Atlas Games’ [4th ed. Ars Magica](http://www.atlas-games.com/product_tables/AG0204.php) hermetic magic system fits the bill perfectly, with some modifications. 
 
 ### System
-Spontaneous spells are organized around verb-noun templates (in Latin no less, for flavor). For example, the player wants to turn a Khadoran into a lawn chair. The Technique is Muto (“change”) and the Form is Corpus (“body”). All characters have access to all Techniques, but forms are limited by career, as shown below. 
+Spontaneous spells are organized around Technique-Form templates (in Latin no less, for flavor). For example, the player wants to turn a Khadoran into a lawn chair. The Technique is Muto (“change”) and the Form is Corpus (“body”). All characters have access to all Techniques, but forms are limited by career, as shown below. 
 
-* Arcanist/Blackclad/Bokor: Animal, Aquam, Auram, Corpus, Herbam, Ignem, Imaginem, Mentem, Terram, Vim
-* Advocate of Thamar: Corpus, Ignem, Imaginem, Mentem, Vim
-* Sorcerer: Aquam, Auram, Ignem, Terram
-* Priest of Morrow: Corpus, Mentem, Vim
-* Priest of Menoth: Ignem, Mentem, Vim
-* Priest of Dhunia: Animal, Corpus, Herbam
-* Priest of the Devourer: Animal, Corpus, Ignem
-* Arcane Mechanik: Ignem, Terram
-* Warcaster: Ignem, Terram
-* Warlock: Animal, Ignem
-* Gunmage: Ignem
-* Bloodweaver: Corpus
+Careers  | Forms
+-------- | --------
+Arcanist, Blackclad, Bokor  |  Animal, Aquam, Auram, Corpus, Herbam, Ignem, Imaginem, Mentem, Terram, Vim
+Advocate of Thamar  |  Corpus, Ignem, Imaginem, Mentem, Vim
+Sorcerer  |  Aquam, Auram, Ignem, Terram
+Priest of Morrow  |  Corpus, Mentem, Vim
+Priest of Menoth  |  Ignem, Mentem, Vim
+Priest of Dhunia  |  Animal, Corpus, Herbam
+Priest of the Devourer  |  Animal, Corpus, Ignem
+Arcane Mechanik, Warcaster  |  Ignem, Terram
+Warlock  | Animal, Ignem
+Gunmage  |  Ignem
+Bloodweaver  |  Corpus
 
-Spontaneous magics should reflect the flavor of a given spellcaster's career choices. Ice Sorcerers, for example, should primarily use forms from the Aquam and Perdo Ignem to emphasize frozen water. Arcane Mechaniks and Warcasters should cast Terram spells impacting mechanika and steamjack components. Gunmages should only use Ignem effects involving force effects. Etc. Also remember that just because a caster can cast a spell of a certain type, doesn't mean s/he should. Some magics (necromancy, mind control, some illusions) are illegal in most of the Iron Kingdoms, and frequent use would quickly bring the attentions of, e.g., the Order of Illumination in Cygnar or the Greylord’s Covenant in Khador.
+Spontaneous magics should reflect the flavor of a given spellcaster's career choices. Ice Sorcerers, for example, should primarily use combinations such as Creo Aquam and Perdo Ignem to emphasize frozen water. Arcane Mechaniks and Warcasters should cast Terram spells impacting mechanika and steamjack components. Gunmages should only use Ignem effects involving force effects. Etc., etc. Also remember that just because a caster can cast a spell of a certain type, doesn't mean s/he should. Some magics (necromancy, mind control, some illusions) are illegal in most of the Iron Kingdoms, and frequent use would quickly bring the attentions of, e.g., the Order of Illumination in Cygnar or the Greylord’s Covenant in Khador.
 
 Spontaneous Casting is subject to two general requirements.
 
 * A character must be a will weaver, focuser, and harnesser to cast a Spontaneous spell. 
-* A character must have an appropriate Lore skill in order to cast Spontaneous spells. Lore (Arcane) and Lore (Occult) skills impart knowledge of magical theories and practices necessary to cast spontaneous and ritual spells of different levels of power; they are not required to cast Rote spells, however. Non-Gifted characters can learn these skills to, e.g., identify supernatural phenomena and spells being cast at them, but they can’t power the magical runes that alter reality.
+* A character must have an appropriate Lore skill in order to cast Spontaneous spells. Lore (Arcane) and Lore (Occult) skills impart knowledge of magical theories and practices necessary to cast spontaneous spells of different levels of power; they are not required to cast Rote spells, however. Non-Gifted characters can learn these skills to, e.g., identify supernatural phenomena and spells being cast at them, but they can’t power the magical runes that alter reality.
 
 Spontaneous spells take a Full Round Action to cast in combat, or 1 minute outside of combat.
 
@@ -248,7 +251,7 @@ Skills that can be used untrained take (1d6 * new rating) days of practice to re
 If a weapon has both two-handed and one-handed attack modifiers, the Ogrun may use the weapon one-handed with the (lower) two-handed modified. If the weapon may not usually be used one-handed, the Ogrun may use it one-handed with a -2 penalty.
 
 ## DEADLY WAR{NOUN}S
-Physical attacks on warjacks/warbeasts are -1d6 damage. Physical attacks made by warjacks/warbeasts are +1d6 damage. Spells and elemental conditions affect war{noun}s normally.
+Physical attacks on warjacks/warbeasts are -1d6 damage. Physical attacks made by warjacks/warbeasts are +1d6 damage. Spells and elemental conditions affect war{noun}s normally, as do artillery weapons.
 
 # Specific Spells, Skills, and Abilities
 
