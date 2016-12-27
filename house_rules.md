@@ -222,19 +222,19 @@ Turn a single human being into an inanimate object for one day. Requires a Targe
 
 *These Are Not the Warjacks You're Looking For*  
 Muto Mentem, Lore (Arcane) 1, R: short, D: sun, T: indiv, Diff: 17  
-Alter’s the target’s perception of the one item in his immediate memory. Requires a Targeting Roll.
+Alter’s the target’s perception of the one item in his immediate memory. Requires a Targeting Roll.  
 
-*Detect Magic*
-Intellego Vim, Lore (Arcane/Occult) 1, R: self, D: momentary, T: sight, Diff: 16
-Caster immediately knows which objects within sight are magical. 
+*Where am I?*  
+Intellego Imaginem, Lore (Arcane/Occult) 1, R: personal, D: momentary, T: indiv, Diff: 14  
+Caster knows his approximate distance and compass direction relative to a known location of his/her choosing.  
 
-*Where am I?*
-Intellego Imaginem, Lore (Arcane/Occult) 1, R: personal, D: momentary, T: indiv, Diff: 14
-Caster knows his approximate distance and compass direction relative to a known location of his/her choosing. 
+*Detect Magic*  
+Intellego Vim, Lore (Arcane/Occult) 1, R: self, D: momentary, T: room, Diff: 13  
+Caster immediately knows which objects within the caster's immediate vacinity are magical.  
 
-*Need a Light?*
-Creo Ignem, Lore (Arcane/Occult) 1, R: touch, D: momentary, T: small, Diff: 12
-Caster knows his approximate location relative to a known location of his/her choosing. 
+*Need a Light?*  
+Creo Ignem, Lore (Arcane/Occult) 1, R: touch, D: momentary, T: small, Diff: 12  
+A small spark appears at the tip of the caster's finger, igniting flammable materials found there.  
 
 # Modifications of Existing Rules
 
