@@ -1,32 +1,7 @@
 HOUSE RULES
 ============
 
-# I. Specific Spells, Skills, and Abilities
-
-## SPELL: CHAIN LIGHTNING
-The last sentence of the spell description should read: "Each character the lightning arcs to suffers a POW 10 electrical damage roll *if the original attack roll equals or exceeds his/her DEF*."
-
-## BATTLE PLAN: SHADOW
-This ability grants Prowl for 1 round in combat or 1 minute out of combat. 
-
-## PROWL
-This ability grants a +2 to Sneak checks in addition to other effects stated in IKFMF. It does not, however, confer invisibility. Prowling characters can still be seen if they fail a Sneak check; they just can't be hit by ranged attacks from more than 5" away. 
-
-# II. Modifications of Existing Rules
-
-## AOE SPELLS
-AOE spells may target an arbitrary point in space. 
-
-## REALISTIC TRAINING TIMES
-Skills that can be used untrained take (1d6 * new rating) days of practice to reach a new level. Skills requiring training take (2d6 * new rating) weeks of instruction. A base learning time roll may be made once for the entire party during periods of down time.
-
-## HUGE STATURE
-If a weapon has both two-handed and one-handed attack modifiers, the Ogrun may use the weapon one-handed with the (lower) two-handed modified. If the weapon may not usually be used one-handed, the Ogrun may use it one-handed with a -2 penalty.
-
-## DEADLY WAR{NOUN}S
-Physical attacks on warjacks/warbeasts are -1d6 damage. Physical attacks made by warjacks/warbeasts are +1d6 damage. Spells and elemental conditions affect war{noun}s normally.
-
-# III. New Rules
+# New Rules
 
 ## INSANITY
 
@@ -77,7 +52,7 @@ Feat points may spent to regain SAN:
 * Get it together: The character regains 1d3 Sanity points. 
 
 ## MASS COMBAT 
-(Adapted from [this post](http://privateerpressforums.com/showthread.php?228723-Mass-Combat-in-the-Iron-Kingdoms).) 
+Adapted from [this post](http://privateerpressforums.com/showthread.php?228723-Mass-Combat-in-the-Iron-Kingdoms).  
 
 Opposing forces are rated (1..4) on each of the following mass combat factors. 
 
@@ -102,6 +77,8 @@ In the event of a tie, both sides withdraw with minor casualties.
 Characters may use Unarmed Combat to inflict non-lethal damage. Non-lethal damage is marked on a character sheet with a single slash. When all of a character’s vitality is marked in this manner s/he falls unconscious. Non-lethal damage marks stack with lethal damage marks; lethal damage marks replace non-lethal damage marks.
 
 ## OVERLAND MOVEMENT
+Adapted from [this post](http://privateerpressforums.com/showthread.php?174784-Overland-travel-times-in-IKRPG#post2247625).
+
 Overland by Road, walking, or with a cart.  
 8 hours, 16 miles  
 16 hours, 32 miles (and a hard day’s walk)  
@@ -242,4 +219,29 @@ Casting Rolls are boosted. Casting Rolls are +1d6 if the character is of Veteran
 ‘These Are Not the Warjacks You're Looking For’  
 Muto Mentem, Lore (Arcane) 1, R: short, D: sun, T: indiv, Diff: 17  
 Alter’s the target’s perception of the one item in his immediate memory. Requires a Targeting Roll.
+
+# Modifications of Existing Rules
+
+## AOE SPELLS
+AOE spells may target an arbitrary point in space. 
+
+## REALISTIC TRAINING TIMES
+Skills that can be used untrained take (1d6 * new rating) days of practice to reach a new level. Skills requiring training take (2d6 * new rating) weeks of instruction. A base learning time roll may be made once for the entire party during periods of down time.
+
+## HUGE STATURE
+If a weapon has both two-handed and one-handed attack modifiers, the Ogrun may use the weapon one-handed with the (lower) two-handed modified. If the weapon may not usually be used one-handed, the Ogrun may use it one-handed with a -2 penalty.
+
+## DEADLY WAR{NOUN}S
+Physical attacks on warjacks/warbeasts are -1d6 damage. Physical attacks made by warjacks/warbeasts are +1d6 damage. Spells and elemental conditions affect war{noun}s normally.
+
+# Specific Spells, Skills, and Abilities
+
+## SPELL: CHAIN LIGHTNING
+The last sentence of the spell description should read: "Each character the lightning arcs to suffers a POW 10 electrical damage roll *if the original attack roll equals or exceeds his/her DEF*."
+
+## BATTLE PLAN: SHADOW
+This ability grants Prowl for 1 round in combat or 1 minute out of combat. 
+
+## PROWL
+This ability grants a +2 to Sneak checks in addition to other effects stated in IKFMF. It does not, however, confer invisibility. Prowling characters can still be seen if they fail a Sneak check; they just can't be hit by ranged attacks from more than 5" away. 
 
