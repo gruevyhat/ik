@@ -152,13 +152,13 @@ With incorporation of this rule system, spells in IK are of three non-overlappin
 
 ### Spontaneous Casting Process
 
-1. Determine Technique, Form, and Minimum Lore Skill Level of Effect
+1. Determine Technique, Form, and Minimum Lore Skill Level of Effect  
 The player describes the desired spell Effect, then together with the GM decides on an appropriate Technique, Form, and minimum spell level. The Lore Skill level required for a spell is the Ars Magica spell level divided by 10, rounded up to the nearest integer. Note that this has the (intentional) effect of making certain spell effects impossible for IK characters; no resurrection, teleportation, or spontaneous creation of dragons. The Lore Skill level of “Muto Corpus”, per the guidelines on p.125 of Ars Magica, is 40 ÷ 10 = 4.
 
     Spells described explicitly in the Ars Magica rules are subject to GM modification.
 
-2. Determine Casting Roll Difficulty
-The Casting Difficulty of the spell is determined according to the following equation.
+2. Determine Casting Roll Difficulty  
+The Casting Difficulty of the spell is determined according to the following equation.  
 
     Casting Difficulty = 10 + Min. Lore Skill Level + Modifiers
 
@@ -178,14 +178,14 @@ The Casting Difficulty of the spell is determined according to the following equ
 
     Our “Muto Corpus” has a Difficulty of 22, assuming that the spell targets a single Khadoran within four inches of the caster and remains in effect for 24 hours. At the end of 24 hours, the chair turns back into a very confused Khadoran.
 
-3. Roll for Effect
+3. Roll for Effect  
 The player makes a Casting Roll, ARC + Lore Skill + 2d6, to determine whether or not the spell is successfully cast. Spells that target any unwilling characters require an additional ARC + 2d6 Targeting Roll against the DEF rating of the target. These rolls are subject to the following modifiers:
     * Characters that have a crippled Intellect spiral are -2 to both rolls.
     * Spell effects with Requisites (require more than one Technique or Form) impose a -1 Casting Roll penalty for each Requisite.
     * Use of an appropriate focus imparts a +1 bonus to the Casting Roll. An appropriate focus may be career specific (a gunmage uses a rune bullet, a stone sorcerer uses a quantity of earth, etc.) or inspired by the dizzying array of foci on page 87 of Ars Magica. Use of a magical or magickal focus increases the bonus to +2.
     * Up to two assistants may make a Casting Roll at a Difficulty of 15 to provide a +1 bonus to the roll.
 
-4. Incur Fatigue
+4. Incur Fatigue  
 The Fatigue cost of a Spontaneous spell is equal to the Lore Skill level required to cast it. Additional Fatigue may be incurred for boosting a Targeting or damage roll, as normal.
 
 ### Odds and Ends
@@ -216,7 +216,7 @@ Casting Rolls are boosted. Casting Rolls are +1d6 if the character is of Veteran
 
 ### Additional Examples
 
-‘These Are Not the Warjacks You're Looking For’  
+*These Are Not the Warjacks You're Looking For*  
 Muto Mentem, Lore (Arcane) 1, R: short, D: sun, T: indiv, Diff: 17  
 Alter’s the target’s perception of the one item in his immediate memory. Requires a Targeting Roll.
 
