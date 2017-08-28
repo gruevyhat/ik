@@ -107,63 +107,63 @@ Tharn Racial Transformation: Can transform as a full action or immediately for 1
 
 ### Mighty
 
-Character receives a +2 to Strength and one of the following benefits.
+Character receives a +1 die type to Strength and one of the following benefits.
 
 * Back Swing: Once per turn, you can spend a benny to gain one additional melee attack.
-* Beat Back: When you hit with a melee attack, you may push your target 1 directly away and then advance up to 1.
+* Beat Back: When you hit with a melee attack, you may push your target 1" directly away and then advance up to 1.
 * Bounding Leap: Once during each turn if you don't run or charge, spend a benny to place yourself within 5 of your current location.
-* Counter Charge: When an enemy advances and ends movement within 6 and in LOS, spend a benny to charge.
+* Counter Charge: When an enemy advances and ends movement within 6" and in LOS, spend a benny to charge.
 * Invulnerable: Spend a benny to gain +3 Toughness for one round.
 * Revitalize: Spend a benny to regain a number of vitality points equal to your Vigor.
-* Righteous Anger: When one or more friendly characters are damaged by an enemy attack while in your CMD range, gain +2 Strength and Toughness for one round.
+* Righteous Anger: When one or more friendly characters are damaged by an enemy attack while in your command radius range, gain +2 Strength and Toughness for one round.
 * Shield Breaker: Spend a benny to destroy a shield if you hit with a melee attack.
 * Tough: When you are disabled, roll a D6.  On a 5 or 6, heal 1 vitality point.  You are no longer disabled but you are knocked down.
 * Vendetta: Spend a benny and name an enemy.  Gain boosted attack rolls against that enemy.
 
 ### Skilled
 
-Character receives a +2 to Agility and one of the following benefits.
+Character receives a +1 die type to Agility and one of the following benefits.
 
 * Ambidextrous: You do not suffer penalties to your attack roll with a second weapon while using Two-Weapon Fighting.
-* Cagey: When knocked down, immediately move up to 2 (no free strikes).  You are not auto-hit with melee and do not take DEF penalty.  Stand up without forfeiting movement or action.
+* Cagey: When knocked down, immediately move up to 2" (no free strikes).  You are not auto-hit with melee and do not take DEF penalty.  Stand up without forfeiting movement or action.
 * Defensive Strike: When an enemy advances and ends movement in your melee range, spend a benny to make a melee attack.
-* Deft: You gain boosted Agility rolls.
+* Deft: Non-combat Agility skill rolls are boosted.
 * Disarm: After hitting an enemy with non-spray/non-AOE ranged/melee attack, spend a benny to disarm the target.
 * Flawless Timing: Spend a benny and name an enemy.  Next time that enemy directly hits you, he misses instead.
-* Preternatural Awareness: You gain boosted Initiative rolls and enemies never gain back strike bonuses.
-* Sidestep: When you hit with an enemy with a melee weapon, advance up to 2.  You cannot be targeted by free strikes during this move.
+* Preternatural Awareness: Draw two initiative cards and take the higher; enemies never gain back strike bonuses.
+* Sidestep: When you hit with an enemy with a melee weapon, advance up to 2".  You cannot be targeted by free strikes during this move.
 * Swashbuckler: Once during each turn, spend a benny to gain 360 degree front arc and make melee attack against each target in melee range.
-* Untouchable: Spend a benny to gain +3 DEF for one round.
-* Virtuoso: Choose a military skill.  When making a non-AOE attack with a weapon with that skill, gain die to attack and damage and discard low die.
+* Untouchable: Spend a benny to penalize all enemy attacks by -2 for one round.
+* Virtuoso: Choose a type of weapon.  When making a non-AOE attack with a weapon of that type, gain +1d4 to attack and damage.
 
 ### Intellectual/Cunning
 
-Character receives a +2 to Smarts and one of the following benefits.
+Character receives a +1 die type to Smarts and one of the following benefits.
 
-* Battlefield Coordinator: While in his CMD range, friendly characters do not suffer firing into melee penalties with ranged/magic and cannot hit friendly characters if they miss.
-* Genius: You gain boosted Smarts rolls.
+* Battlefield Coordinator: While in his command radius range, friendly characters do not suffer firing into melee penalties with ranged/magic and cannot hit friendly characters if they miss.
+* Genius: You gain boosted Knowledge, Repair, and Notice rolls.
 * Hyper Perception: You gain boosted PER rolls.
-* Perfect Plot: Spend a benny and character's following your plans gain an additional die on non-combat rolls for the day.
+* Perfect Plot: Spend a benny and character's following your plans roll a d8 wild card die for the day.
 * Photographic Memory: You have photographic memory.
-* Plan of Action: At the start of combat, spend a benny to grant +2 to initiative and +2 to attack rolls during the first round of combat.
+* Plan of Action: At the start of combat, spend a benny to redraw an initiative card of 4 or below and gain +2 to attack rolls during the first round of combat.
 * Prescient: Spend a benny to win initiative and take the first turn.  If two or more people use this, they make initiative rolls to see which goes first.
 * Quick Thinking: Once per round, spend a benny to make one attack or quick action at the start of another character's turn.
-* Savant: Can attempt to use skills untrained at a -2 to skill roll.
+* Savant: Can attempt to use skills untrained at 1d4.
 * Unconventional Warfare: Spend a benny to turn the environment against the enemy.
 
 ### Gifted
 
 Character begins with the Arcane Background Edge of his/her choice and one of the following benefits.
 
-* Blood Boon: When you destroy a living character with a melee attack, instead of gaining a benny he can immediately cast a spell with a cost of 3 or lower without spending fury points or generating fatigue. This spell does not require a quick action.
-* Combat Caster: When you make a magic attack roll, gain an additional die.  Discard the lowest die of each roll.
+* Blood Boon: When you destroy a living character with a melee attack, you can immediately cast a spell with a power of 3 or lower. This spell does not require a quick action.
+* Combat Caster: You gain +1d4 on offensive arcane skill rolls.
 * Dominator: Spend a benny during your turn to double your control area for one round.
-* Fast Caster: Gain one extra quick action each activation that can only be used to cast a spell.
-* Magic Sensitivity: Automatically sense when another character casts a spell within 50' per point of ARC.  Focusers can sense focuses in same detection range.
-* Additional Study: Gain an additional spell from one of your career spell lists.  This benefit can be taken multiple times, but you cannot exceed twice your Smarts in spells known.
-* Powerful Caster: Spend a benny when you cast a spell to increase the RNG by 2.  Does not affect CTRL or SP spells.
-* Quick Cast: Spend a benny to immediately cast one upkeep spell at the start of combat.  Do not pay the COST.
-* Rune Reader: Identify any spell cast in line of sight.  Learn the type of magic cast and tradition of caster.
+* Fast Caster: Gain one extra action each activation that can only be used to cast a spell.
+* Magic Sensitivity: Automatically sense when another character casts a spell within 50' per die type of Spirit.
+* Additional Study: Gain an additional power.
+* Powerful Caster: Spend a benny to double the range of a spell.
+* Quick Cast: Spend a benny to immediately cast one spell at the start of combat.  Do not pay the power point cost.
+* Rune Reader: Identify any spell cast in line of sight.  Learn the type of magic cast and arcane background of the caster.
 * Strength of Will: After a failed fatigue roll, spend a benny to instead automatically succeed.
 * Warding Circle: Spend 15 minutes to create a warded circle.
 
@@ -172,180 +172,1353 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 
 ### Alchemist
 
-* Career Restrictions: None
-* Ability Bonus: None
+* Restrictions: None
 * Starting Edges: Grenadier, Poison Resistance
 * Possible Edges: Bomber, Brew Master, Fast Cook, Field Alchemist, Fire in the Hole!, Free Style, Grenadier, Poison Resistance
+* Starting Skills: Knowledge (Alchemy) d6, Healing d6; Fighting [Hand Weapon] d6, Throwing d6
+* Possible Skills: Knowledge (Alchemy) d12, Knowledge (Any Craft) d12, Knowledge (Forgery) d8, General Skills d12, Healing d12, Persuasion [Negotiation] d12, Investigation [Research] d12; Fighting [Hand Weapon] d8, Throwing d12, Fighting [Unarmed Combat] d8
 * Starting Connections: None
-* Starting Skills: Alchemy d6, Medicine d6, Fighting (Hand Weapon) d6, Throwing d6
-* Possible Skills: Alchemy d12, Craft (Any) d12, Fighting (Hand Weapon) d8, Fighting (Unarmed) d8, Forgery d8, General Skills d12, Medicine d12, Persuasion d12, Research d12, Throwing d12
-* Starting Spells: None
-* Spell List: None
-* Starting Money: 50gc
 * Starting Assets: alchemist's leather, gas mask, traveling alchemist's kit, any five alchemical grenades, grenadier's bandolier
+* Starting Money: 50
 
-### Allegiant (Order of the Fist) 
+### Allegiant (Order of the Fist)
 
-* Career Restrictions: Cutthroat, Investigator, Priest (Menoth), Ranger, Scrutator, Spy, Warcaster, Warcaster (Protectorate) 
-* Ability Bonus: None
+* Restrictions: Cutthroat, Investigator, Priest (Menoth), Ranger, Scrutator, Spy, Warcaster, Warcaster (Protectorate)
 * Starting Edges: Flesh of Steel, Shifting Sands Stance, Hardened Strike
-* Possible Edges: Acrobatics, Chain Attack (Body Slam), Cicular Vision, Fist of God, Fleet Foot, Flesh of Steel, Flying Fists, Hardened Strike, Iron Will, Precision Strike, Reed in the Wind, Serpent Strike, Shifting Sands Stance, Stady, Trip, Waylay, Whirlwind
+* Possible Edges: Acrobatics, Chain Attack: Body Slam, Cicular Vision, Fist of God, Fleet Foot, Flesh of Steel, Flying Fists, Hardened Strike, Iron Will, Precision Strike, Reed in the Wind, Serpent Strike, Shifting Sands Stance, Steady, Trip, Waylay, Whirlwind
+* Starting Skills: Notice d6, Jump d6, Stealth [Sneak] d6; Fighting [Unarmed Combat] d6
+* Possible Skills: General Skills d12, Persuasion [Interrogation] d10, Knowledge (Law) d10, Stealth [Sneak] d12, Survival d12; Fighting [Hand Weapon] d10, Fighting [Unarmed Combat] d12
 * Starting Connections: Order of the Fist
-* Starting Skills: Fighting (Unarmed) d6, Notice d6, Jump d6, Stealth d6
-* Possible Skills: Fighting (Hand Weapon) d10, Fighting (Unarmed) d12, General Skills d12, Interrogation d10, Law d10, Stealth d12, Survival d12
-* Starting Spells: None
-* Spell List: None
-* Starting Money: None
-* Starting Assets: None
+* Starting Assets: none
+* Starting Money: 0
 
-###  Arcane Mechanik
+### Arcane Mechanik (Vassal of Menoth)
 
-* Career Restrictions: None
-* Ability Bonus: None
-* Starting Edges: Inscribe Formulae 
+* Restrictions: Alchemist, Arcanist, Field Mechanik, Priest (Menoth),  Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Arcanist (Greylord)
+* Starting Edges: Inscribe Formulae
 * Possible Edges: 'Jack Marshall, Ace Commander, Arcane Engineer, Drive: Assault, Drive: Pronto, Inscribe Formulae, Resourceful, Steamo
+* Starting Skills: Knowledge (Gunsmithing) d6, Knowledge (Metalworking) d6, Knowledge (Mechanikal Engineering) d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Rifle] d6
+* Possible Skills: Intimidation [Command] d6, Knowledge (Any Craft) d12, Knowledge (Cryptography) d10, General Skills d12, Knowledge (Mechanikal Engineering) d12, Persuasion [Negotiation] d8, Investigation [Research] d10; Fighting [Hand Weapon] d8, Shooting [Light Artillery] d8, Shooting [Rifle] d8
+* Starting Connections: Vassals of Menoth
+* Starting Assets: rune etching kit, Vassal Armor
+* Starting Money: 50
+
+### Arcane Mechanik
+
+* Restrictions: None
+* Starting Edges: Inscribe Formulae
+* Possible Edges: 'Jack Marshall, Ace Commander, Arcane Engineer, Drive: Assault, Drive: Pronto, Inscribe Formulae, Resourceful, Steamo
+* Starting Skills: Knowledge (Gunsmithing) d6, Knowledge (Metalworking) d6, Knowledge (Mechanikal Engineering) d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Rifle] d6
+* Possible Skills: Intimidation [Command] d6, Knowledge (Any Craft) d12, Knowledge (Cryptography) d10, General Skills d12, Knowledge (Mechanikal Engineering) d12, Persuasion [Negotiation] d8, Investigation [Research] d10; Fighting [Hand Weapon] d8, Shooting [Light Artillery] d8, Shooting [Rifle] d8
 * Starting Connections: None
-* Starting Skills: Fighting (Hand Weapon) d6 or Shooting (Rifle) d6, Craft (Gunsmithing) d6, Craft (Metalworking) d6, Mechanikal Engineering d6
-* Possible Skills: Command d6, Craft (Any) d12, Cryptography d10, Fighting (Hand Weapon) d8, General Skills d12, Mechanikal Engineering d12, Persuasion d8, Research d10, Shooting (Artillery) d8, Shooting (Rifle) d8
-* Starting Spells: Arcantrik Bolt, Polarity Shield
-* Spell List: Arcane Mechanik
-* Starting Money: 50gc
-* Starting Assets: rune etching kit, mechanika weapon or suit of armor worth up to 750 gc, including the housing, power source, and rune plate
+* Starting Assets: rune etching kit, mechanika weapon or suit of armor worth up to 750 gc, including the housing, power source, and rune plate.
+* Starting Money: 50
+
+### Arcanist (Greylord)
+
+* Restrictions: Alchemist, Arcane Mechanik, Aristocrat, Explorer, Horseman, Investigator, Military Officer, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Spy, Warcaster, Warcaster (Khadoran)
+* Starting Edges: Great Power
+* Possible Edges: Arcane Defenses, Arcane Scholar, Great Power, University Education
+* Starting Skills: Knowledge (Arcane) d6, Investigation [Research] d6; None
+* Possible Skills: Knowledge (Any Craft) d8, Knowledge (Etiquette) d8, General Skills d12, Persuasion [Negotiation] d8, Persuasion [Oratory] d8, Investigation [Research] d12; None
+* Starting Connections: Greylord Covenant
+* Starting Assets: None
+* Starting Money: 75
+
+### Arcanist (Illuminated)
+
+* Restrictions: None
+* Starting Edges: Great Power
+* Possible Edges: Arcane Defenses, Arcane Scholar, Great Power, University Education
+* Starting Skills: Knowledge (Arcane) d6, Investigation [Research] d6; None
+* Possible Skills: Knowledge (Any Craft) d8, Knowledge (Etiquette) d8, General Skills d12, Persuasion [Negotiation] d8, Persuasion [Oratory] d8, Investigation [Research] d12; None
+* Starting Connections: Order of Illumination
+* Starting Assets: None
+* Starting Money: 75
+
+### Arcanist (Trident)
+
+* Restrictions: Arcane Mechanik, Aristocrat, Explorer, Soldier (Marine), Military Officer, Warcaster (Ordic), Pirate, Priest (Morrow), Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm)
+* Starting Edges: Great Power
+* Possible Edges: Arcane Defenses, Arcane Scholar, Great Power, University Education
+* Starting Skills: None; Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Knowledge (Any Craft) d8, Knowledge (Etiquette) d8, General Skills d12, Persuasion [Negotiation] d8, Persuasion [Oratory] d8, Investigation [Research] d12; Fighting [Hand Weapon] d10, Shooting [Pistol] d10
+* Starting Connections: Ordic Military
+* Starting Assets: None
+* Starting Money: 75
+
+### Arcanist
+
+* Restrictions: None
+* Starting Edges: Great Power
+* Possible Edges: Arcane Defenses, Arcane Scholar, Great Power, University Education
+* Starting Skills: Knowledge (Arcane) d6, Investigation [Research] d6; None
+* Possible Skills: Knowledge (Any Craft) d8, Knowledge (Etiquette) d8, General Skills d12, Persuasion [Negotiation] d8, Persuasion [Oratory] d8, Investigation [Research] d12; None
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Archer
+
+* Restrictions: None
+* Starting Edges: Adjust Aim, Blur of Motion, Dual Shot (Archery)
+* Possible Edges: Adjust Aim, Arcing Shot, Blur of Motion, Crackshot, Dual Shot (Archery), Fast Draw, Keen Eyed, Marksman, Return Fire, Saddle Shot, Shootist, Snap Fire, Targeteer
+* Starting Skills: Notice d6, Stealth [Sneak] d6, Survival d6; Shooting [Archery] d6
+* Possible Skills: General Skills d12, Stealth [Sneak] d10, Survival d10, Tracking d10,Knowledge (Any Craft)(Fletcher) d12; Shooting [Archery] d12
+* Starting Connections: None
+* Starting Assets: Bow, Quiver of 10 arrows (any type)
+* Starting Money: 25
+
+### Aristocrat
+
+* Restrictions: None
+* Starting Edges: Good Breeding, Language, Privilege
+* Possible Edges: Advisor, Appraise, Battle Plan: Call to Action, Expert Rider, Good Breeding, Language, Natural Leader, Poison Resistance, Privilege, Rallying Cry, Swift Rider
+* Starting Skills: Intimidation [Command] d6, Knowledge (Etiquette) d6; Fighting [Hand Weapon] d6, Choose one: Shooting [Archery] d6, Shooting [Pistol] d6, Shooting [Rifle] d6
+* Possible Skills: Persuasion [Bribery] d12, Intimidation [Command] d12, Knowledge (Cryptography) d8, Persuasion [Deception] d12, Knowledge (Etiquette) d12, General Skills d12, Knowledge (Law) d12, Persuasion [Negotiation] d12, Persuasion [Oratory] d12, Persuasion [Seduction] d12; Shooting [Archery] d8, Fighting [Hand Weapon] d10, Lance d10, Shooting [Pistol] d8, Shooting [Rifle] d10
+* Starting Connections: Nobility
+* Starting Assets: None
+* Starting Money: 200
+
+### Artillerist
+
+* Restrictions: None
+* Starting Edges: Battle Plan: Close Fire, Scorched Earth
+* Possible Edges: Advisor, Battle Plan: Close Fire, Battle Plan: Orchestrate Fire, Bomber, Double Powder Ration, Grenadier, Hit the Deck!, Scorched Earth, Test the Wind
+* Starting Skills: Intimidation [Command] d6, Notice d6, Driving d6; Heavy Artillery d6, Shooting [Light Artillery] d6, Shooting [Pistol] d6, Shooting [Rifle] d6
+* Possible Skills: Knowledge (Craft Ordnance) d12, Intimidation [Command] d10, General Skills d12, Knowledge (Rope Use) d12, Survival d10; Fighting [Hand Weapon] d10, Heavy Artillery d12, Shooting [Light Artillery] d12, Shooting [Pistol] d10, Shooting [Rifle] d10, Throwing d10
+* Starting Connections: None
+* Starting Assets: Deck Gun (with powder and ten rounds)
+* Starting Money: 75
+
+### Assault Kommando
+
+* Restrictions: Military Officer, Warcaster, Warcaster (Khadoran), Ranger, Rifleman, Soldier
+* Starting Edges: Defensive Line, Onslaught
+* Possible Edges: Battle Plan: Reconnaissance, Defensive Line, Gunfighter, Load Bearing, Onslaught, Quick Work, Relentless Charge, Signal Language, Two-Weapon Fighting
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Hand Weapon] d6, Shooting [Rifle] d6, and Fighting [Shield] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Cryptography) d8, General Skills d12, Persuasion [Interrogation] d10, Healing d10, Survival d10; Fighting [Hand Weapon] d10, Shooting [Light Artillery] d10, Shooting [Rifle] d12, Fighting [Shield] d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: Assault Kommando armour, Vislovski carbine (powder and ten rounds), assault shield, three strangle gass grenade launcher rounds
+* Starting Money: 0
+
+### Berserker
+
+* Restrictions: None
+* Starting Edges: Berserk, Relentless Charge
+* Possible Edges: Blood Quenched, Berserk, Blood Thirst, Hyper Aggressive, Overtake, Relentless Charge, Savage Strike, Two-Weapon Fighting
+* Starting Skills: Intimidation d6, Survival d6; Choose two: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Throwing d6, Fighting [Unarmed Combat] d6
+* Possible Skills: General Skills d12, Survival d12; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Throwing d12, Fighting [Unarmed Combat] d12
+* Starting Connections: Character's Tribe
+* Starting Assets: Leather Armor
+* Starting Money: 25
+
+### Blackclad
+
+* Restrictions: None
+* Starting Edges: Aegis, Long-Lived
+* Possible Edges: Aegis, Artificer, Camouflage, Disease Resistance, Dominating Presence, Immunity: Cold, Immunity: Corrosion, Immunity: Electricity, Immunity: Fire, Iron Will, Language, Light Cavalry, Long-Lived, Mount Attack (Skirovik mountain goat), Natural Leader, Pathfinder, Stone Scavenger, Stonecutter, Trained Rider (Skirovik mountain goat)
+* Starting Skills: Knowledge (Orboros) d6, Persuasion [Negotiation] d6, Survival d6; Fighting [Great Weapon] d6
+* Possible Skills: Persuasion [Bribery] d12, Intimidation [Command] d12, Knowledge (Cryptography) d12, Persuasion [Deception] d12, Stealth [Disguise] d10, General Skills d12, Persuasion [Interrogation] d12, Investigation d12, Healing d10, Survival [Navigation] d12, Persuasion [Negotiation] d12, Persuasion [Oratory] d12, Investigation [Research] d12, Knowledge (Rope Use) d10, Stealth [Sneak] d10, Survival d12, Knowledge (Craft Wold) d12; Fighting [Great Weapon] d8, Fighting [Hand Weapon] d8, Fighting [Unarmed Combat] d8
+* Starting Connections: Circle Orboros
+* Starting Assets: Custom Battle Armor, Druid Voulge, Cloak and Robes of a Blackclad
+* Starting Money: 0
+
+### Bloodtracker
+
+* Restrictions: None
+* Starting Edges: Ambush and Specialization (Fighting Claw)
+* Possible Edges: Acrobatics, Ambush, Dodger, Fast Draw, Fleet Foot, Hunter, Knife Thrower, Pathfinder, Roll with It, Signal Language, Specialization (Fighting Claw), Traceless Path, Weapon Master (Javelin)
+* Starting Skills: Notice d6, Stealth [Sneak] d6, Tracking d6; Fighting [Hand Weapon] d6, Throwing d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Cryptography) d6, Stealth [Escape Artist] d12, General Skills d12, Survival [Navigation] d10, Stealth [Sneak] d12, Survival d12, Tracking d12,Knowledge (Any Craft)(Tharn equipment) d10; Fighting [Hand Weapon] d12, Throwing d12, Fighting [Unarmed Combat] d10
+* Starting Connections: Character's Tribe
+* Starting Assets: Bloodtracker fighting claw, 5 javelins, javelin quiver, Tharn leathers
+* Starting Money: 0
+
+### Bloodweaver
+
+* Restrictions: None
+* Starting Edges: Blood Rites, Empower Weapon
+* Possible Edges: Anatomical Precision, Blood Spiller, Blood Trade, Empower Weapon, Gang, Haruspex, Inflict Pain, Shadow Magic, Two-Weapon Fighting
+* Starting Skills: Notice d6, Knowledge (Devourer Wurm) d6, Stealth [Sneak] d6; Fighting [Hand Weapon] d6
+* Possible Skills: General Skills d12, Healing d10, Stealth [Sneak] d12, Survival d10,Knowledge (Any Craft)(Tharn equipment) d10; Fighting [Hand Weapon] d12, Fighting [Unarmed Combat] d10
+* Starting Connections: Character's Tribe
+* Starting Assets: Sacral blade, Tharn leathers
+* Starting Money: 0
+
+### Bokor
+
+* Restrictions: None
+* Starting Edges: Great Power
+* Possible Edges: Death Mastery, Empower Weapon, Ghost Sight, Grave Man, Great Power, Haruspex, Possession, Soul Taker, Spirit Guide, Unhallowed
+* Starting Skills: Notice d6, Intimidation d6, Knowledge (Kossk) d6, Knowledge (Undead) d6; Fighting [Unarmed Combat] d6
+* Possible Skills: Knowledge (Alchemy) d8, Intimidation [Command] d10, Knowledge (Cryptography) d10, Persuasion [Deception] d12, General Skills d12, Persuasion [Interrogation] d12, Healing d8, Survival [Navigation] d10, Persuasion [Oratory] d8, Stealth [Sneak] d10, Survival d10; Fighting [Great Weapon] d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 50
+
+### Bone Grinder
+
+* Restrictions: None
+* Starting Edges: Bone Grinder, Disease Resistance
+* Possible Edges: Anatomical Precision, Bone Grinder, Brew Master, Disease Resistance, Inflict Pain, Meat Alchemy, Vivisectionist
+* Starting Skills: Knowledge (Alchemy) d6, Knowledge (Skinner) d6, Knowledge (Extraordinary Zoology) d6, Healing d6; Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Knowledge (Alchemy) d12, General Skills d12, Investigation d8, Healing d12, Survival [Navigation] d8, Knowledge (Rope Use) d10, Survival d10, Tracking d10, Knowledge (Skinner) d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10
+* Starting Connections: None
+* Starting Assets: Apothecary Kit, Skinning Tools, and any one bone grinder fetish
+* Starting Money: 25
+
+### Bounty Hunter
+
+* Restrictions: None
+* Starting Edges: Binding, Take Down
+* Possible Edges: Binding, Crossbowman, Head-Butt, Language (Five Cant), Pursuit, Roll With It, Take Down, Waylay
+* Starting Skills: Notice d6, Intimidation d6, Knowledge (Rope Use) d6, Tracking d6; Choose two: Shooting [Crossbow] d6, Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Rifle] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Persuasion [Bribery] d8, Persuasion [Deception] d8, Stealth [Disguise] d8, General Skills d12, Persuasion [Interrogation] d8, Knowledge (Law) d8, Persuasion [Negotiation] d12, Knowledge (Rope Use) d12, Stealth [Sneak] d10, Streetwise d12, Tracking d12; Shooting [Crossbow] d10, Fighting [Hand Weapon] d8, Shooting [Pistol] d8, Shooting [Rifle] d10, Fighting [Unarmed Combat] d12
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Brigand (Swamp Gobber Raider)
+
+* Restrictions: None
+* Starting Edges: Ambush, Gunfighter
+* Possible Edges: Ambush, Appraise, Backstab, Binding, Camouflage, Dodger, Fall Back, Fast Draw, Fast Reload, Find Cover, Fleet Foot, Gunfighter, Onslaught, Relentless Charge, Specialization (Grappling Pistol), Waylay
+* Starting Skills: Notice d6, Driving d6, Intimidation d6, Stealth [Sneak] d6; Choose Two: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Rifle] d6, Throwing d6
+* Possible Skills: Persuasion [Bribery] d12, Intimidation [Command] d8, Persuasion [Deception] d12, Stealth [Disguise] d10, Stealth [Escape Artist] d12, General Skills d12, Lock Picking d10, Survival [Navigation] d8, Persuasion [Negotiation] d10, Stealth [Pick Pocket] d10, Knowledge (Rope Use) d10, Stealth [Sneak] d12, Streetwise d8, Survival d8, Knowledge (Any Craft) d8; Shooting [Archery] d10, Shooting [Crossbow] d10, Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Shooting [Pistol] d10, Shooting [Rifle] d10, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Choose One: Criminal Gang, Character's Tribe
+* Starting Assets: Grappling Pistol or Swamp Gobbers Bellows with 5 canisters of bellows gas
+* Starting Money: 25
+
+### Brigand
+
+* Restrictions: None
+* Starting Edges: Find Cover, Onslaught
+* Possible Edges: Ambush, Appraise, Backstab, Binding, Camouflage, Dodger, Fall Back, Fast Draw, Fast Reload, Find Cover, Fleet Foot, Gunfighter, Onslaught, Relentless Charge, Waylay
+* Starting Skills: Notice d6, Driving d6, Intimidation d6, Stealth [Sneak] d6; Choose two: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Rifle] d6, Throwing d6
+* Possible Skills: Persuasion [Bribery] d12, Intimidation [Command] d8, Persuasion [Deception] d12, Stealth [Disguise] d10, Stealth [Escape Artist] d12, General Skills d12, Lock Picking d10, Survival [Navigation] d8, Persuasion [Negotiation] d10, Stealth [Pick Pocket] d10, Knowledge (Rope Use) d10, Stealth [Sneak] d12, Streetwise d8, Survival d8, Knowledge (Any Craft) d8; Shooting [Archery] d10, Shooting [Crossbow] d10, Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Shooting [Pistol] d10, Shooting [Rifle] d10, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 75
+
+### Bushwhacker
+
+* Restrictions: None
+* Starting Edges: Crackshot, Fast Reload
+* Possible Edges: Ambush, Crackshot, Dual Shot (Rifle), Fast Draw, Fast Reload, Go to Ground, Keen Eyed, Marksman, Night Fighter, Return Fire, Shootist, Sniper, Swift Hunter, Targeteer
+* Starting Skills: Athletics (Climbing) d6, Notice d6, Stealth [Sneak] d6, Survival d6; Fighting [Hand Weapon] d6, Shooting [Rifle] d6
+* Possible Skills: Intimidation [Command] d8, General Skills d12, Survival [Navigation] d10, Stealth [Sneak] d12, Survival d10, Knowledge (Gunsmithing) d10; Fighting [Hand Weapon] d10, Shooting [Rifle] d12
+* Starting Connections: None
+* Starting Assets: Ammo Bandolier, Heavy Rifle or Repeating Rifle, Powder and Ammunition for 10 shots
+* Starting Money: 50
+
+### Chieftan
+
+* Restrictions: None
+* Starting Edges: Battle Plan: Take Cover, Natural Leader, Team Leader
+* Possible Edges: Battle Commander, Battle Plan: Battlefield Coordination, Battle Plan: Call to Action, Battle Plan: Coordinated Strike, Battle Plan: Take Cover, Cavalry Charge, Combat Rider, Defender, Expert Rider, Language, Natural Leader, Rallying Cry, Team Leader
+* Starting Skills: Intimidation [Command] d6, Knowledge (Tribal) d6, Persuasion [Oratory] d6, Survival d6; Choose two: Shooting [Archery] d6, Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Throwing d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d12, Persuasion [Deception] d12, General Skills d12, Investigation d12, Survival [Navigation] d12, Persuasion [Negotiation] d12, Persuasion [Oratory] d12, Persuasion [Seduction] d10, Stealth [Sneak] d8, Survival d10; Shooting [Archery] d12, Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Throwing d12, Fighting [Unarmed Combat] d12
+* Starting Connections: Character's Tribe
+* Starting Assets: Symbol of Office (Iron Crown, Wolf Skin Cloak, etc…)
+* Starting Money: 100
+
+### Croak Conjoined Twin
+
+* Restrictions: None
+* Starting Edges: Conjoined
+* Possible Edges: Conjoined, Empower Weapon, Great Power, Haruspex, Powerful Attack (magical), Share the Load
+* Starting Skills: Notice d6, Knowledge (Arcane) d6, Survival d6; Choose One: Fighting [Hand Weapon] d6, Throwing d6
+* Possible Skills: General Skills d12, Survival d8; Fighting [Hand Weapon] d8, Throwing d8
+* Starting Connections: Croak Tribe
+* Starting Assets: None
+* Starting Money: 75
+
+### Crucible Guard
+
+* Restrictions: None
+* Starting Edges: Find Cover, Sentry
+* Possible Edges: 'Jack Marshall, Cautious Advance, Cavalry Charge, Disease Resistance, Fast Reload, Find Cover, Grenadier, Hit the Deck!, Language, Ride-By Attack, Roll With It, Saddle Shot, Sentry
+* Starting Skills: Notice d6, Driving d6, Healing d6, Survival d6; Shooting [Rifle] d6, Throwing d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Healing d10, Survival [Navigation] d8, Stealth [Sneak] d8, Survival d10; Shooting [Crossbow] d10, Fighting [Great Weapon] d12, Shooting [Light Artillery] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Shooting [Rifle] d12, Fighting [Shield] d8, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Golden Crucible
+* Starting Assets: Crucible armor, 250gc worth of grenades, Crucible Arms Model 603
+* Starting Money: 0
+
+### Cutthroat
+
+* Restrictions: None
+* Starting Edges: Anatomical Precision, Backstab, Prowl
+* Possible Edges: Anatomical Precision, Backstab, Blood Spiller, Camouflage, Chain Attack: Bleed Out, Fast Draw, Language (Five Cant), Prowl, Specialization (Assassin Blade), Two-Weapon Fighting, Waylay
+* Starting Skills: Intimidation d6, Stealth [Sneak] d6, Streetwise d6; Fighting [Hand Weapon] d6, Choose one: Shooting [Crossbow] d6, Throwing d6, Fighting [Unarmed Combat] d6
+* Possible Skills: General Skills d12, Persuasion [Interrogation] d8, Stealth [Sneak] d12, Streetwise d12; Shooting [Crossbow] d8, Fighting [Hand Weapon] d12, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Dhunian Paragon (Fall)
+
+* Restrictions: None
+* Starting Edges: Dhunia's Strike
+* Possible Edges: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
+* Starting Skills: Intimidation d6, Knowledge (Dhunian) d6, Healing d6, Survival d6, Athletics (Swimming) d6; Choose two: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Fighting [Shield] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Persuasion [Interrogation] d8, Healing d8, Persuasion [Negotiation] d8, Persuasion [Oratory] d12, Persuasion [Seduction] d8, Survival d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Fighting [Shield] d10, Fighting [Unarmed Combat] d12
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 75
+
+### Dhunian Paragon (Spring)
+
+* Restrictions: None
+* Starting Edges: Dhunia's Strike
+* Possible Edges: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
+* Starting Skills: Intimidation d6, Knowledge (Dhunian) d6, Healing d6, Survival d6, Athletics (Swimming) d6; Choose two: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Fighting [Shield] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Persuasion [Interrogation] d8, Healing d8, Persuasion [Negotiation] d8, Persuasion [Oratory] d12, Persuasion [Seduction] d8, Survival d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Fighting [Shield] d10, Fighting [Unarmed Combat] d12
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 75
+
+### Dhunian Paragon (Summer)
+
+* Restrictions: None
+* Starting Edges: Dhunia's Strike, Summer's Wrath
+* Possible Edges: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
+* Starting Skills: Intimidation d6, Knowledge (Dhunian) d6, Healing d6, Survival d6, Athletics (Swimming) d6; Choose two: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Fighting [Shield] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Persuasion [Interrogation] d8, Healing d8, Persuasion [Negotiation] d8, Persuasion [Oratory] d12, Persuasion [Seduction] d8, Survival d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Fighting [Shield] d10, Fighting [Unarmed Combat] d12
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 75
+
+### Dhunian Paragon (Winter)
+
+* Restrictions: None
+* Starting Edges: Dhunia's Strike, Winter's Respite
+* Possible Edges: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
+* Starting Skills: Intimidation d6, Knowledge (Dhunian) d6, Healing d6, Survival d6, Athletics (Swimming) d6; Choose two: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Fighting [Shield] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Persuasion [Interrogation] d8, Healing d8, Persuasion [Negotiation] d8, Persuasion [Oratory] d12, Persuasion [Seduction] d8, Survival d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Fighting [Shield] d10, Fighting [Unarmed Combat] d12
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 75
+
+### Doom Reaver
+
+* Restrictions: Cutthroat, Horseman, Pirate, Ranger, Soldier, Thief
+* Starting Edges: Abomination, Berserk, Bloodlust, Fearless
+* Possible Edges: Abomination, Berserk, Bloodlust, Fearless, Feasome Howl, Iron Will, Language (Orgoth), Precision Strike, Relentless Charge, Silence
+* Starting Skills: Notice d6, Intimidation d6; Fighting [Great Weapon] d6
+* Possible Skills: General Skills d12, Survival d10, Tracking d10; Fighting [Great Weapon] d12, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: Fellblade
+* Starting Money: 0
+
+### Duelist
+
+* Restrictions: None
+* Starting Edges: Parry, Riposte
+* Possible Edges: Acrobatics, Fast Draw, Gunfighter, Parry, Precision Strike, Quick Work, Riposte, Roll With It, Two-Weapon Fighting
+* Starting Skills: Gambing d6, Intimidation d6, Athletics (Jumping) d6; Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Knowledge (Etiquette) d8, General Skills d12, Knowledge (Law) d8, Persuasion [Oratory] d8, Persuasion [Seduction] d10, Streetwise d8; Fighting [Hand Weapon] d12, Shooting [Pistol] d12, Throwing d10, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Exemplar
+
+* Restrictions: Man-at-Arms, Military Officer, Ranger, Soldier, Warcaster, Warcaster (Protectorate)
+* Starting Edges: Aegis
+* Possible Edges: Aegis, Chain Attack: Smite, Divine Fortitude, Imperishable Conviction, Iron Will, Load Bearing, Precision Strike, Relentless Advance, Restoration, Sanguine Bond, two-Weapon Fighting
+* Starting Skills: Intimidation [Command] d6, Knowledge (Menite faith); Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Healing d8, Survival [Navigation] d8, Survival d8; Shooting [Crossbow] d10, Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Lance d12, Fighting [Shield] d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Exemplar Order
+* Starting Assets: Exemplar plate and one weapon: Blazing sword, halberd (consecrated) , or relic blade.
+* Starting Money: 0
+
+### Explorer
+
+* Restrictions: None
+* Starting Edges: Big Game Hunter, Language, Port of Call
+* Possible Edges: Battle Plan: Reconnaissance, Big Game Hunter, Diseases Resistance, Expert Rider, Language, Natural Leader, Poison Resistance, Port of Call, Signal Language, Swift Rider
+* Starting Skills: Notice d6, Healing d6, Survival [Navigation] d6, Survival d6; Choose one: Shooting [Archery] d6 Fighting [Hand Weapon] d6 Shooting [Pistol] d6, Shooting [Rifle] d6
+* Possible Skills: Intimidation [Command] d12, Knowledge (Any Craft) d8, Knowledge (Cryptography) d8, Knowledge (Etiquette) d8, General Skills d12, Healing d8, Survival [Navigation] d12, Persuasion [Negotiation] d12, Knowledge (Rope Use) d12, Survival d12; Shooting [Archery] d8, Shooting [Crossbow] d8, Fighting [Hand Weapon] d8, Shooting [Pistol] d8, Shooting [Rifle] d10, Throwing d8, Fighting [Unarmed Combat] d8
+* Starting Connections: Patron
+* Starting Assets: map case, spyglass
+* Starting Money: 150
+
+### Fell Caller
+
+* Restrictions: None
+* Starting Edges: Fell Call: Signal Call, Fell Call: Sonic Blast
+* Possible Edges: Battle Plan: Call to Action, Fell Call: Cacophony, Fell Call: Call of Defiance, Fell Call: Ground Shaker, Fell Call: Heroic Ballad, Fell Call: Reverberation, Fell Call: Signal Call, Fell Call: Sonic Blast, Legacy of Bragg, Natural Leader
+* Starting Skills: Intimidation [Command] d6, Knowledge (Fell Calling) d8, Knowledge (Trollkin) d6, Persuasion [Oratory] d6; Choose one: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d12, Knowledge (Fell Calling) d12, General Skills d12, Persuasion [Oratory] d12, Persuasion [Seduction] d8; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Fennblade
+
+* Restrictions: None
+* Starting Edges: Hard, Relentless Advance, Specialization (Hooked Great Sword)
+* Possible Edges: Cleave, Dual Fighter, Hard, Iron Will, Load Bearing, Precision Strike, Relentless Advance, Relentless Charge, Set Defense, Snag & Slash, Specialization (Hooked Great Sword)
+* Starting Skills: Intimidation [Command] d6, Notice d6, Survival d6; Fighting [Great Weapon] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Survival d10; Fighting [Great Weapon] d12, Fighting [Unarmed Combat] d10
+* Starting Connections: Trollkin Kriel
+* Starting Assets: Hooked Great Sword
+* Starting Money: 75
+
+### Field Mechanik (Rhulic)
+
+* Restrictions: None
+* Starting Edges: Bodge, Hit the Deck!, Rhulic 'Jack Marshal
+* Possible Edges: 'Jack Marshall, Ace Commander, Bodge, Dodger, Drive: Ancillary Attack, Drive: Assault, Drive: Off Road, Drive: Pronto, Hit the Deck!, Iron Sentinel, Scrounge, Steamo, Tune Up
+* Starting Skills: Intimidation [Command] d6, Knowledge (Metalworking) d6, Knowledge (Mechanikal Engineering) d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Any Craft) d12, General Skills d12, Knowledge (Mechanikal Engineering) d12, Persuasion [Negotiation] d10; Fighting [Hand Weapon] d8, Shooting [Pistol] d8
+* Starting Connections: None
+* Starting Assets: mechanik's tool kit, Grundback Runner light warjack (p. 66) with either a Grundback light cannon (p. 66) or a hail shot cannon (p. 67) weapon system instead of a light laborjack with up to 200 gc of weapons
+* Starting Money: 25
+
+### Field Mechanik
+
+* Restrictions: None
+* Starting Edges: 'Jack Marshall, Bodge, Hit the Deck!
+* Possible Edges: 'Jack Marshall, Ace Commander, Bodge, Dodger, Drive: Ancillary Attack, Drive: Assault, Drive: Off Road, Drive: Pronto, Hit the Deck!, Iron Sentinel, Scrounge, Steamo, Tune Up
+* Starting Skills: Intimidation [Command] d6, Knowledge (Metalworking) d6, Knowledge (Mechanikal Engineering) d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Any Craft) d12, General Skills d12, Knowledge (Mechanikal Engineering) d12, Persuasion [Negotiation] d10; Fighting [Hand Weapon] d8, Shooting [Pistol] d8
+* Starting Connections: None
+* Starting Assets: mechanik's tool kit, light laborjack with up to 200 gc of weapons
+* Starting Money: 25
+
+### Guide
+
+* Restrictions: None
+* Starting Edges: Advance Move, Language
+* Possible Edges: Advance Move, Applied Knowledge, Battle Plan: Double Time, Dodger, Forager, Language, Mark Target, Survivalist, Traceless Path, Tracker
+* Starting Skills: Knowledge (Extraordinary Zoology) d6, Survival [Navigation] d6, Survival d6; Choose two: Shooting [Archery] d6, Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Rifle] d6, Throwing d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Healing d8, Survival [Navigation] d12, Persuasion [Negotiation] d10, Survival d12, Tracking d12; Shooting [Archery] d10, Fighting [Great Weapon] d8, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Shooting [Rifle] d10, Throwing d10, Fighting [Unarmed Combat] d8
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 75
+
+### Gun Mage (Amethyst Rose)
+
+* Restrictions: None
+* Starting Edges: Craft Rune Shot, Fast Reload
+* Possible Edges: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed
+* Starting Skills: Notice d6, Intimidation d6; Choose one: Shooting [Pistol] d6, Shooting [Rifle] d6
+* Possible Skills: General Skills d12, Persuasion [Seduction] d8; Shooting [Pistol] d12, Shooting [Rifle] d12
+* Starting Connections: Loyal Order of the Amethyst Rose
+* Starting Assets: ammo bandolier, dual magelock pistol (with powder and 10 rounds of ammunition), rune shot casting kit
+* Starting Money: 25
+
+### Gun Mage (Arcane Tempest)
+
+* Restrictions: Gun Mage (Arcane Tempest), Aristocrat, Horseman, Military Officer, Pistoleer, Ranger, Rifleman, Soldier, Spy, Warcaster, Warcaster (Cygnaran)
+* Starting Edges: Craft Rune Shot, Fast Reload
+* Possible Edges: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed, Runesmith
+* Starting Skills: Notice d6, Intimidation d6; Choose one: Shooting [Pistol] d6, Shooting [Rifle] d6
+* Possible Skills: General Skills d12, Persuasion [Seduction] d8; Shooting [Pistol] d12, Shooting [Rifle] d12
+* Starting Connections: Cygnaran military
+* Starting Assets: Armored great coat, ammo bandolier, magelock pistol or magelock rifle (with powder and 10 rounds of ammunition), rune shot casting kit
+* Starting Money: 25
+
+### Gun Mage
+
+* Restrictions: None
+* Starting Edges: Craft Rune Shot, Fast Reload
+* Possible Edges: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed
+* Starting Skills: Notice d6, Intimidation d6; Choose one: Shooting [Pistol] d6, Shooting [Rifle] d6
+* Possible Skills: General Skills d12, Persuasion [Seduction] d8; Shooting [Pistol] d12, Shooting [Rifle] d12
+* Starting Connections: None
+* Starting Assets: ammo bandolier, magelock pistol or magelock rifle (with powder and 10 rounds of ammunition), rune shot casting kit
+* Starting Money: 25
+
+### Guttersnipe
+
+* Restrictions: None
+* Starting Edges: Lost in the Crowd, Low Breeding, Perfect Timing
+* Possible Edges: Astute, Camouflage, Disease Resistance, Dodger, Find Cover, Flash Theif, Hit 'em Low, Language, Lost in the Crowd, Low Breeding, Perfect Timing, Roll With It, Scoping It Out
+* Starting Skills: Persuasion [Deception] d6, Stealth [Escape Artist] d6, Stealth [Sneak] d6, Streetwise d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Sling d6, Throwing d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Persuasion [Persuasion [Bribery]] d12, Persuasion [Deception] d12, Stealth [Disguise] d12, Stealth [Escape Artist] d12, General Skills d12, Persuasion [Negotiation] d12, Stealth [Pick Pocket] d12, Stealth [Sneak] d12, Streetwise d12; Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Sling d10, Throwing d10, Unarmed d10
+* Starting Connections: Black Market
+* Starting Assets: None
+* Starting Money: 50
+
+### Highwayman
+
+* Restrictions: None
+* Starting Edges: Ambush, Saddle Shot
+* Possible Edges: Ambush, Appraise, Binding, Expert Rider, Fast Draw, Fast Reload, Light Cavalry, Prowl, Ride-By Attack, Saddle Shot, Swift Hunter, Swift Rider, Traceless Path, Two-Weapon Fighting, Waylay
+* Starting Skills: Animal Handling d6, Notice d6, Intimidation d6, Riding d6; Fighting [Hand Weapon] d6, Choose one: Shooting [Archery] d6, Shooting [Crossbow] d6, Shooting [Pistol] d6
+* Possible Skills: Persuasion [Bribery] d8, Persuasion [Deception] d10, Stealth [Disguise] d8, General Skills d12, Persuasion [Interrogation] d8, Persuasion [Negotiation] d12, Knowledge (Rope Use) d12, Persuasion [Seduction] d12, Stealth [Sneak] d12, Survival d8; Shooting [Archery] d10, Shooting [Crossbow] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: mask, riding horse, tack
+* Starting Money: 75
+
+### Horseman
+
+* Restrictions: None
+* Starting Edges: Cavalry Charge, Combat Rider
+* Possible Edges: Cavalry Charge, Combat Rider, Expert Rider, Mounted: Counter Charge, Ride-by Attack, Saddle Shot, Swift Rider, Trained Rider (any)
+* Starting Skills: Riding d6; Choose three: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Lance d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Survival [Navigation] d10; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d8, Lance d12, Shooting [Pistol] d8, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: Warhorse with tack and heavy barding
+* Starting Money: 25
+
+### Huntsman
+
+* Restrictions: None
+* Starting Edges: Camouflage, Harry
+* Possible Edges: Big Game Hunter, Camouflage, Cautious Advance, Crossbowman, Dual Shot (archery), Dual Shot (rifle), Harry, Hunter, Hunting Ground, Keen Eyed, Knife Thrower, Prey
+* Starting Skills:Knowledge (Any Craft)(Skinning) d6, Knowledge (Extraordinary Zoology) d6, Survival d6, Tracking d6; Choose two: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Hand Weapon] d6, Shooting [Rifle] d6, Throwing d6
+* Possible Skills: General Skills d12, Survival [Navigation] d8, Stealth [Sneak] d8, Survival d12, Tracking d12,Knowledge (Any Craft)(Fletcher) d8, Knowledge (Gunsmithing) d8, Knowledge (Skinner) d8; Shooting [Archery] d12, Shooting [Crossbow] d12, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Shooting [Rifle] d12, Throwing d12
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 100
+
+### Investigator
+
+* Restrictions: None
+* Starting Edges: Astute, Language
+* Possible Edges: Anatomical Precision, Astute, Iron Will, Language, Prowl, Signal Language, Truth Reader
+* Starting Skills: Notice d6, Knowledge (Forensics) d6, Persuasion [Interrogation] d6, Knowledge (Law) d6, Healing d6, Stealth [Sneak] d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Knowledge (Cryptography) d12, Persuasion [Deception] d12, Knowledge (Etiquette) d8, Knowledge (Forensics) d12, General Skills d12, Persuasion [Interrogation] d12, Knowledge (Law) d12, Healing d8, Persuasion [Negotiation] d10, Investigation [Research] d12, Stealth [Sneak] d12, Streetwise d12; Fighting [Hand Weapon] d8, Shooting [Pistol] d8, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 100
+
+### Iron Fang
+
+* Restrictions: Aristocrat, Military Officer, Soldier, Warcaster, Warcaster (Khadoran), Horseman
+* Starting Edges: Fast Rearm (Blasting Pike), Specialization (Blasting Pike)
+* Possible Edges: Defensive Line, Fast Arm (Blasting Pike), Hyper Awareness, Load Bearing, Precision Strike, Relentless Charge, Rock Solid, Specialization (Blasting Pike), Swift Rider
+* Starting Skills: Intimidation [Command] d6, Survival d6; Fighting [Great Weapon] d6, Fighting [Shield] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Survival d8; Fighting [Great Weapon] d12, Lance d12, Fighting [Shield] d12, Fighting [Unarmed Combat] d10
+* Starting Connections: Khadoran Military
+* Starting Assets: blasting pike (with a spear head and 10 blasting heads), Iron Fang full plate, shield
+* Starting Money: 25
+
+### Knight
+
+* Restrictions: None
+* Starting Edges: Cleave, Defender
+* Possible Edges: Cavalry Charge, Cleave, Combat Rider, Defender, Defensive Line, Expert Rider, Iron Will, Load Bearing, Natural Leader, Precision Strike, Press the Attack, Relentless Charge, Ride-By Attack, Shield Slam
+* Starting Skills: Intimidation [Command] d6, Knowledge (Etiquette) d6, Knowledge (Knightly Order) d6; Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Fighting [Shield] d6
+* Possible Skills: Intimidation [Command] d12, Knowledge (Etiquette) d8, General Skills d12, Knowledge (Law) d8; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Lance d12, Fighting [Shield] d12, Fighting [Unarmed Combat] d10
+* Starting Connections: Knightly Order
+* Starting Assets: None
+* Starting Money: 100
+
+### Kriel Champion
+
+* Restrictions: None
+* Starting Edges: Defensive Line, Iron Will, Load Bearing
+* Possible Edges: Bodyguard, Defensive Line, Iron Will, Load Bearing, Natural Leader, Overtake, Relentless Charge, Retaliatory Strike, Rock Solid, Shield Guard, Shield Slam, Two-Weapon Fighting
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Persuasion [Oratory] d8, Survival d10, Knowledge (Metalworking) d10; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Fighting [Shield] d10, Throwing d10, Fighting [Unarmed Combat] d12
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 100
+
+### Labor Korune
+
+* Restrictions: None
+* Starting Edges: Iron Will, Low Breeding
+* Possible Edges: Jack Marshall, Battle Plan: Call to Action, Brawler, Drive: Pronto, Gang, Heave-Ho, Iron Will, Language, Low Breeding, Natural Leader, Rallying Cry
+* Starting Skills: Intimidation [Command] d6, Persuasion [Negotiation] d6, Streetwise d6, Choose one: Knowledge (Any Craft) d6, Knowledge (Metalworking) d6; Fighting [Unarmed Combat] d6
+* Possible Skills: Persuasion [Bribery] d10, Intimidation [Command] d12,Knowledge (Any Craft)d12, Persuasion [Deception] d8, Knowledge (Etiquette) d8, General Skills d12, Knowledge (Mechanikal Engineering) d8, Healing d8, Persuasion [Negotiation] d12, Streetwise d12; Fighting [Unarmed Combat] d12, Shooting [Pistol] d8
+* Starting Connections: Worker's Union
+* Starting Assets: None
+* Starting Money: 75
+
+### Long Rider
+
+* Restrictions: None
+* Starting Edges: Bull Rush, Cavalry Charge, Trained Rider (Bison)
+* Possible Edges: Bull Rush, Cavalry Charge, Combat Rider, Expert Rider, Follow Up, Line Breaker, Load Bearing, Mounted: Counter Charge, Ride-by-Attack
+* Starting Skills: Animal Handling d6, Knowledge (Trollkin) d6, Riding d6; Fighting [Shield] d6, Choose Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: General Skills d12, Intimidation d12, Survival d10; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d10, Fighting [Shield] d12, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: Bison, Tack and Harness
+* Starting Money: 75
+
+### Mage Hunter
+
+* Restrictions: None
+* Starting Edges: Arcane Assassin, Iron Will
+* Possible Edges: Arcane Assassin, Camouflage, Crackshot, Crossbowman, Fast Draw, Fast Reload, Iron Will, Mage Killer, Parry, Quick Work, Shadow Magic, Traceless Path
+* Starting Skills: Athletics (Climbing) d6, Athletics (Jumping) d6, Stealth [Sneak] d6, Tracking d6; Fighting [Hand Weapon] d6, Choose one: Shooting [Archery] d6, Shooting [Crossbow] d6
+* Possible Skills: Persuasion [Deception] d8, Stealth [Disguise] d8, General Skills d12, Knowledge (Rope Use) d10, Stealth [Sneak] d12, Survival d8, Tracking d12; Shooting [Archery] d12, Shooting [Crossbow] d12, Fighting [Hand Weapon] d12, Throwing d8
+* Starting Connections: Retribution of Scyrah
+* Starting Assets: None
+* Starting Money: 75
+
+### Man-O-War
+
+* Restrictions: Aristocrat, Field Mechanik, Horseman, Man-at-Arms, Military Officer, Soldier
+* Starting Edges: Ironhead, Load Bearing
+* Possible Edges: Cleave, Defensive Line, Girded, Head-Butt, Ironhead, Load Bearing, Man of Iron, Shield Slam, Steady, Steam Jockey
+* Starting Skills: Intimidation [Command] d6, Knowledge (Mechanikal Engineering) d6; Fighting [Great Weapon] d6, Shooting [Light Artillery] d6, Fighting [Shield] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Knowledge (Mechanikal Engineering) d8; Fighting [Great Weapon] d12, Light Artillary d12, Fighting [Shield] d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Khadoran Military
+* Starting Assets: Man-O-War armour, and one of the following options; Annihilation blade and Man-O-War shield cannon (power & ten shots); Bombardier grenade cannon, Man-O-War ammo bandalier, four cannon grenades; Ice Maul
+* Starting Money: 0
+
+### Man-at-Arms
+
+* Restrictions: None
+* Starting Edges: Defensive Line, Shield Guard
+* Possible Edges: Bodyguard, Cleave, Defensive Line, Girded, Iron Will, Load Bearing, Retaliatory Strike, Set Defense, Shield Guard, Shield Slam, Specialization (Halberd), Specialization (Spear)
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Great Weapon] d6, Fighting [Shield] d6, and Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Metalworking) d8, General Skills d12; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Fighting [Shield] d12, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 100
+
+### Military Officer
+
+* Restrictions: None
+* Starting Edges: Battle Plan: Call to Action, Natural Leader, Team Leader
+* Possible Edges: 'Jack Marshall, Ace Commander, Battle Commander, Battle Plan: Call to Action, Battle Plan: Coordinated Strike, Battle Plan: Desperate Pace, Battle Plan: Go to Ground, Cavalry Charge, Defender, Drive: Assault, Drive: Pronto, Expert Rider, Good Breeding, Natural Leader, Port of Call, Ride-By Attack, Saddle Shot, Signal Language, Team Leader
+* Starting Skills: Intimidation [Command] d6, Healing d6, Survival [Navigation] d6; Fighting [Hand Weapon] d6, Choose one: Fighting [Great Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d12, Knowledge (Cryptography) d12, Knowledge (Etiquette) d12, General Skills d12, Persuasion [Interrogation] d12, Knowledge (Law) d12, Healing d12, Survival [Navigation] d12, Persuasion [Oratory] d12; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Shooting [Pistol] d12
+* Starting Connections: None
+* Starting Assets: officer's uniform
+* Starting Money: 100
+
+### Mist Speaker
+
+* Restrictions: None
+* Starting Edges: Conniver
+* Possible Edges: Advisor, Backstab, Conniver, Dodger, Sucker!
+* Starting Skills: Persuasion [Bribery] d6, Persuasion [Deception] d6, Notice d6, Stealth [Sneak] d6; Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Persuasion [Bribery] d12, Intimidation [Command] d10, Persuasion [Deception] d12, Stealth [Escape Artist] d10, General Skills d12, Persuasion [Interrogation] d10, Investigation d10, Persuasion [Negotiation] d12, Persuasion [Oratory] d10, Persuasion [Seduction] d8, Stealth [Sneak] d10, Survival d10, Knowledge (Any Craft) d8; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 50
+
+### Monster Hunter
+
+* Restrictions: None
+* Starting Edges: Big Game Hunter, Hunting Ground, Precision Strike
+* Possible Edges: Anatomical Precision, Big Game Hunter, Binding, Camouflage, Deadly Skill, Dismember, Exterminator, Hunting Ground, Pathfinder, Poison Resistance, Precision Strike, Skilled Trapper, Staredown, Survivalist
+* Starting Skills: Knowledge (Extraordinary Zoology) d6, Survival d6, Tracking d6; Fighting [Hand Weapon] d6, Choose one: Shooting [Archery] d6, Shooting [Crossbow] d6, Shooting [Pistol] d6, Shooting [Rifle] d6
+* Possible Skills: Stealth [Escape Artist] d10, General Skills d12, Investigation d8, Survival [Navigation] d10, Persuasion [Negotiation] d10, Investigation [Research] d10, Knowledge (Rope Use) d10, Stealth [Sneak] d12, Survival d12, Tracking d12, Knowledge (Skinner) d12; Shooting [Archery] d12, Shooting [Crossbow] d12, Fighting [Great Weapon] d10, Fighting [Hand Weapon] d12, Shooting [Pistol] d10, Shooting [Rifle] d12, Throwing d10, Fighting [Unarmed Combat] d12
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 100
+
+### Paladin (Order of the Wall)
+
+* Restrictions: Aristocrat, Horseman, Investigator, Man-at-Arms, Military Officer, Priest (Menoth), Ranger, Soldier, Warcaster, Warcaster (Protectorate)
+* Starting Edges: Specialization (Firebrand), Stone-and-Mortar Stance
+* Possible Edges: Fearless, Iron Will, Load Bearing, Impervious Wall Stance, Natural Leader, Precision Strike, Retaliatory Strike, Specialization (Firebrand), Stone-and-Mortar Stance
+* Starting Skills: Intimidation [Command] d6, Knowledge (Etiquette) d6, Knowledge (Menite Faith); Fighting [Great Weapon] d6, Fighting [Shield] d6
+* Possible Skills: Intimidation [Command] d6, Knowledge (Etiquette) d8, General Skills d12; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Fighting [Shield] d12, Fighting [Unarmed Combat] d12
+* Starting Connections: Order of the Wall
+* Starting Assets: Firebrand, Full plate, and Shield
+* Starting Money: 0
+
+### Pirate
+
+* Restrictions: None
+* Starting Edges: Gang, Steady, Specialization (Cutlass)
+* Possible Edges: Binding, Disease Resistance, Gang, Gunfighter, Head-Butt, Language, Port of Call, Quick Work, Specialization (Cutlass), Steady, Sucker!, Waylay
+* Starting Skills: Athletics (Climbing) d6, Intimidation d6, Knowledge (Sailing) d6, Athletics (Swimming) d6; Fighting [Hand Weapon] d6, Choose one: Shooting [Pistol] d6, Throwing d6
+* Possible Skills: Intimidation [Command] d8, Persuasion [Deception] d10, General Skills d12, Survival [Navigation] d12, Persuasion [Negotiation] d8, Knowledge (Rope Use) d12, Knowledge (Sailing) d12; Fighting [Hand Weapon] d10, Shooting [Light Artillery] d8, Shooting [Pistol] d10, Shooting [Rifle] d8, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Pistoleer
+
+* Restrictions: None
+* Starting Edges: Fast Draw, Gunfighter, Return Fire
+* Possible Edges: Chain Attack: Pin Down, Dodger, Fast Draw, Fast Reload, Gunfighter, Return Fire, Swift Hunter, Targeteer, Two-Weapon Fighting
+* Starting Skills: Notice d6, Intimidation d6, Stealth [Sneak] d6; Shooting [Pistol] d6
+* Possible Skills: Knowledge (Gunsmithing) d12, General Skills d12, Stealth [Sneak] d10; Shooting [Pistol] d12
+* Starting Connections: None
+* Starting Assets: ammo bandolier, either a hand cannon (with 10 ammo) or a pair of 2x pistol (repeating) (each with 1 ammo wheel and 10 ammo)
+* Starting Money: 50
+
+### Priest (Cyriss)
+
+* Restrictions: None
+* Starting Edges: Enigma Cipher, Genius
+* Possible Edges: Blaster, Bodge, Choir, Clockwork Transcendence, Enigma Cipher, Inscribe Formulae, Language, Vessel Upgrade
+* Starting Skills: Knowledge (Cyriss) d6, Knowledge (Mechanikal Engineering) d6; Fighting [Hand Weapon] d6
+* Possible Skills: Knowledge (Alchemy) d10, Intimidation [Command] d10,Knowledge (Any Craft)(any) d12, Knowledge (Cryptography) d12, General Skills d12, Knowledge (Mechanikal Engineering) d12, Investigation [Research] d12; Fighting [Hand Weapon] d10
+* Starting Connections: Convergence of Cyriss
+* Starting Assets: Optifex armor, Tuning Kit
+* Starting Money: 0
+
+### Priest (Menoth)
+
+* Restrictions: None
+* Starting Edges: Dispel
+* Possible Edges: Choir, Dispel, Language, Natural Leader, Rallying Cry, University Education
+* Starting Skills: Knowledge (Menite Faith) d6, Persuasion [Oratory] d6; Choose one: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d8, Knowledge (Cryptography) d8, Knowledge (Etiquette) d12, General Skills d12, Knowledge (Law) d12, Healing d12, Persuasion [Negotiation] d12, Persuasion [Oratory] d12, Investigation [Research] d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Fighting [Shield] d8
+* Starting Connections: Menite Temple
+* Starting Assets: None
+* Starting Money: 75
+
+### Priest (Morrow)
+
+* Restrictions: None
+* Starting Edges: Empower
+* Possible Edges: Choir, Empower, Language, Natural Leader, Rallying Cry, University Education
+* Starting Skills: Knowledge (Morrowan Faith) d6, Healing d6; Choose one: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d8, Knowledge (Cryptography) d8, Knowledge (Etiquette) d12, General Skills d12, Knowledge (Law) d12, Healing d12, Persuasion [Negotiation] d12, Persuasion [Oratory] d12, Investigation [Research] d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Fighting [Shield] d8
+* Starting Connections: Morrowan Church
+* Starting Assets: None
+* Starting Money: 75
+
+### Priest (Nyssor)
+
+* Restrictions: None
+* Starting Edges: Empower Weapon
+* Possible Edges: Astute, Cold Steel, Empower Weapon, Immunity: Cold, Natural Leader, Snow-Wreathed
+* Starting Skills: Knowledge (Metalworking) d6, Knowledge (Faith of Nyssor) d6, Knowledge (Nyss) d6, Survival d6; Fighting [Great Weapon] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Metalworking) d12, General Skills d12, Persuasion [Interrogation] d10, Healing d8, Survival [Navigation] d10, Persuasion [Negotiation] d10, Persuasion [Oratory] d10, Investigation [Research] d8, Survival d10; Fighting [Great Weapon] d10
+* Starting Connections: Fane of Nyssor
+* Starting Assets: Nyss claymore, Nyss leather armor
+* Starting Money: 50
+
+### Pugilist
+
+* Restrictions: None
+* Starting Edges: Brawler, Hulking Presence
+* Possible Edges: Brawler, Defender, Flying Fists, Grappler, Head-Butt, Heave-Ho, Hulking Presence, Rock Solid, Trip, Waylay
+* Starting Skills: Noticed6, Intimidation d6, Streetwise d6; Fighting [Hand Weapon] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Persuasion [Bribery] d10, Knowledge (Etiquette) d10, General Skills d12, Persuasion [Interrogation] d8, Intimidation d12, Knowledge (Law) d8,  Persuasion [Negotiation] d10, Persuasion [Seduction] d8, Streetwise d12; Fighting [Hand Weapon] d10, Fighting [Unarmed Combat] d12
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 100
+
+### Raider
+
+* Restrictions: Cutthroat, Duelist, Gun Mage, Military Officer, Pirate, Pistoleer, Ranger, Warcaster, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm)
+* Starting Edges: Specialization (Lacerator)
+* Possible Edges: Ambush, Battle Plan: Call to Action, Boarding Action, Disease Resistance, Gang, Precision Strike, Ram, Roll with It, Specialization (Lacerator), Sprint
+* Starting Skills: Intimidation d6, Athletics (Jumping) d6, Knowledge (Sailing) d6, Athletics (Swimming) d6; Fighting [Hand Weapon] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d8, General Skills d12, Survival [Navigation] d10, Knowledge (Rope Use) d12, Knowledge (Sailing) d10; Fighting [Hand Weapon] d12, Shooting [Pistol] d10, Throwing d10, Fighting [Unarmed Combat] d12
+* Starting Connections: Black Feet
+* Starting Assets: Lacerator, Leather Armor
+* Starting Money: 0
 
 ### Ranger
 
-* Career Restrictions: None
-* Ability Bonus: None
-* Starting Edges: Camouflage, Pathfinder 
-* Possible Edges: Battle Plan (Go to Ground), Battle Plan (Reconnaissance), Battle Plan (Shadow), Camouflage, Disease Resistance, Fast Reload, Light Cavalry, Night Fighter, Pathfinder, Prowl, Saddle Shot, Signal Language, Swift Hunter, Swift Rider, Traceless Path
+* Restrictions: None
+* Starting Edges: Camouflage, Pathfinder
+* Possible Edges: Battle Plan: Go to Ground, Battle Plan: Reconnaissance, Battle Plan: Shadow, Camouflage, Disease Resistance, Fast Reload, Light Cavalry, Night Fighter, Pathfinder, Prowl, Saddle Shot, Signal Language, Swift Hunter, Swift Rider, Traceless Path
+* Starting Skills: Notice d6, Stealth [Sneak] d6, Survival d6, Tracking d6; Fighting [Hand Weapon] d6, Choose one: Shooting [Archery] d6, Shooting [Crossbow] d6, Shooting [Pistol] d6, Shooting [Rifle] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Any Craft) d8, Knowledge (Cryptography) d6, General Skills d12, Healing d10, Survival [Navigation] d12, Knowledge (Rope Use) d12, Stealth [Sneak] d12, Survival d12, Tracking d12; Shooting [Archery] d12, Shooting [Crossbow] d10, Fighting [Hand Weapon] d8, Shooting [Pistol] d8, Shooting [Rifle] d12, Throwing d12, Fighting [Unarmed Combat] d10
 * Starting Connections: None
-* Starting Skills: Fighting (Hand Weapon) d6, Shooting (Archery or Crossbow or Pistol or Rifle) d6, Notice d6, Stealth d6, Survival d6, Tracking d6
-* Possible Skills: Command d10, Craft (Any) d8, Cryptography d6, General Skills d12, Medicine d10, Navigation d12, Rope Use d12, Stealth d12, Survival d12, Tracking d12
-* Starting Spells: None
-* Spell List: None
-* Starting Money: 75gc 
 * Starting Assets: None
+* Starting Money: 75
 
-### Gun Mage 
+### Raptor
 
-* Career Restrictions: None
-* Ability Bonus: None
-* Starting Edges: Craft Rune Shot, Fast Reload 
-* Possible Edges: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed
+* Restrictions: None
+* Starting Edges: Saddle Shot, Trained Rider (Ulk)
+* Possible Edges: Beast Handler, Cavalry Fighter, Evasive Rider, Expert Rider, Light Cavalry, Mount Attack (Ulk), Opening Salvo, Saddle Shot, Swift Rider, Trained Rider (Ulk)
+* Starting Skills: Animal Handling d6, Riding d6, Survival d6; Shooting [Archery] d6, Fighting [Great Weapon] d6
+* Possible Skills: Intimidation [Command] d8, General Skills d12, Survival [Navigation] d10, Survival d10, Tracking d12; Shooting [Archery] d10, Fighting [Great Weapon] d10, Fighting [Unarmed Combat] d8
+* Starting Connections: Nyss Shard
+* Starting Assets: Nyss Leather Armor, Ulk with Tack and Harness
+* Starting Money: 50
+
+### Ravager
+
+* Restrictions: None
+* Starting Edges: Heart Eater, Treewalker
+* Possible Edges: Consume Essence, Disease Resistance, Fearless, Heart Eater, Hyper Awareness, Overtake, Pathfinder, Specialization (Tharn Axe), Specialization (Tharn Bow), Sprint, Treewalker
+* Starting Skills: Athletics (Climbing) d6, Notice d6, Athletics (Jumping) d6, Survival d6; Choose two: Shooting [Archery] d6, Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Survival [Navigation] d10, Stealth [Sneak] d8, Survival d12, Tracking d10,Knowledge (Any Craft)(Tharn equipment) d12; Shooting [Archery] d12, Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Throwing d10, Fighting [Unarmed Combat] d12
+* Starting Connections: Character's Tribe
+* Starting Assets: Tharn Leathers, Tharn Axe Or Tharn Bow with a Quiver of 10 Arrows
+* Starting Money: 0
+
+### Reclaimer
+
+* Restrictions: Arcanist, Field Mechanik, Investigator, Priest (Menoth), Soldier, Warcaster, Warcaster (Protectorate), Arcane Mechanik (Vassal of Menoth)
+* Starting Edges: Oath of Silence, Reclaim, Signal Language, Whipsers of the Creator
+* Possible Edges: Communion, Fearless, Gatekeeper, Immunity: Fire, Oath of Silence, Reclaim, Signal Language, Soulstorm, Urcaen's Gate, Whispers of the Creator
+* Starting Skills: Knowledge (Cryptography) d6, Knowledge (Menite Faith), Knowledge (Urcaen); Fighting [Great Weapon] d6
+* Possible Skills: Knowledge (Cryptography) d10, General Skills d12; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d10
+* Starting Connections: Reclaiment Order
+* Starting Assets: Reclaimant's mask, ten grave markers, Reclaimant torch
+* Starting Money: 0
+
+### Rifleman
+
+* Restrictions: None
+* Starting Edges: Crackshot, Dual Shot, Marksman
+* Possible Edges: Crackshot, Dual Shot, Fast Reload, Marksman, Night Fighter, Return Fire, Saddle Shot, Sniper, Swift Hunter, Targeteer
+* Starting Skills: Athletics (Climbing) d6, Notice d6, Survival d6; Shooting [Rifle] d6
+* Possible Skills: Knowledge (Gunsmithing) d12, General Skills d12, Survival d10; Shooting [Rifle] d12
 * Starting Connections: None
-* Starting Skills: Shooting (Rifle or Pistol) d6, Notice d6, Persuasion d6
-* Possible Skills: Shooting (Rifle) d12, Shooting (Pistol) d12, Notice d6, General Skills d12, Persuasion d8
-* Starting Spells: Rune Shot: Accuracy, Rune Shot: Brutal, Rune Shot: Thunderbolt 
-* Spell List: Gun Mage
-* Starting Money: 25 
-* Starting Assets: ammo bandolier, magelock pistol or magelock rifle (with powder and 10 rounds of ammunition), rune shot casting kit
+* Starting Assets: ammo bandolier, and a rifle (heavy) or rifle (repeating) (with powder and 10 ammo)
+* Starting Money: 50
 
-###  
+### Ryssovass
 
-* Career Restrictions: None
-* Ability Bonus: None
-* Starting Edges: 
-* Possible Edges: 
-* Starting Connections: 
-* Starting Skills: 
-* Possible Skills: 
-* Starting Spells: 
-* Spell List: None
-* Possible Spells: 
-* Starting Money: 
-* Starting Assets: 
+* Restrictions: None
+* Starting Edges: Defender, Specialization (Nyss Great Sword)
+* Possible Edges: Blade Shield (Nyss Great Sword), Cleave, Defender, Defensive Line, Fearless, Load Bearing, Precision Strike, Relentless Charge, Renowned, Retaliatory Strike, Set Defense, Specialization (Nyss Great Sword)
+* Starting Skills: Intimidation [Command] d6, Notice d6, Intimidation d6, Survival d6; Fighting [Great Weapon] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Survival d10, Knowledge (Metalworking) d12; Fighting [Great Weapon] d12, Fighting [Unarmed Combat] d10
+* Starting Connections: Nyss Shard
+* Starting Assets: Nyss Great Sword, Ryssovass Plate Armor
+* Starting Money: 0
+
+### Scout (Pyg Burrower)
+
+* Restrictions: None
+* Starting Edges: Go to Ground, Tunneling
+* Possible Edges: Battle Plan: Reconnaissance, Battle Plan: Shadow, Camouflage, Disease Resistance, Expert Rider, Fast Reload, Go to Ground, Knife Thrower, Light Cavalry, Night Fighter, Pathfinder, Prowl, Pursuit, Signal Language, Skilled Trapper, Specialization (Slug Gun), Survivalist, Swift Hunter, Swift Rider, Traceless Path, Tunneling
+* Starting Skills: Notice d6, Stealth [Sneak] d6, Survival d6, Tracking d6; Choose Two: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Rifle] d6, Throwing d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Cryptography) d6, General Skills d12, Investigation d10, Healing d10, Survival [Navigation] d12, Knowledge (Rope Use) d12, Stealth [Sneak] d12, Survival d12, Tracking d12, Knowledge (Any Craft) d8; Shooting [Archery] d10, Shooting [Crossbow] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Shooting [Rifle] d10, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: Custom Battle Armor, Pickaxe or Shovel
+* Starting Money: 40
+
+### Scout
+
+* Restrictions: None
+* Starting Edges: Pathfinder, Survivalist
+* Possible Edges: Battle Plan: Reconnaissance, Battle Plan: Shadow, Camouflage, Disease Resistance, Expert Rider, Fast Reload, Knife Thrower, Light Cavalry, Night Fighter, Pathfinder, Prowl, Pursuit, Signal Language, Skilled Trapper, Survivalist, Swift Hunter, Swift Rider, Traceless Path
+* Starting Skills: Notice d6, Stealth [Sneak] d6, Survival d6, Tracking d6; Choose two: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Rifle] d6, Throwing d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d10,Knowledge (Any Craft)(any) d8, Knowledge (Cryptography) d6, General Skills d12, Investigation d10, Healing d10, Survival [Navigation] d12, Knowledge (Rope Use) d12, Stealth [Sneak] d12, Survival d12, Tracking d12; Shooting [Archery] d10, Shooting [Crossbow] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Shooting [Rifle] d10, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Scrutator
+
+* Restrictions: Allegiant (Order of the Fist), Investigator, Military Officer, Priest (Menoth), Warcaster, Warcaster (Protectorate)
+* Starting Edges: Authority, Torture
+* Possible Edges: Authority, Battle Plan: Call of Action, Dominating Presence, Iron Will, Language, Natural Leader, Rallying Cry, Torture
+* Starting Skills: Notice d6, Persuasion [Interrogation] d6, Intimidation d6, Knowledge (Law) d6, Knowledge (Menoth Faith); Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Persuasion [Interrogation] d12, Knowledge (Law) d12, Healing d8, Persuasion [Negotiation] d12, Persuasion [Oratory] d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10
+* Starting Connections: Temple of Menoth
+* Starting Assets: Scrutator's masked helm, a Wrack
+* Starting Money: 100
+
+### Searforge Trader
+
+* Restrictions: None
+* Starting Edges: Appraise, Counter Offer
+* Possible Edges: Always a Deal to be Made, Appraise, Conniver, Counter Offer, Language, Port of Call, Silver Tongued
+* Starting Skills: Persuasion [Bribery] d6, Knowledge (Law) d6, and Persuasion [Negotiation] d6; Choose Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Persuasion [Bribery] d12, Intimidation [Command] d8, Persuasion [Deception] d12, Knowledge (Etiquette) d12 General Skills d12, Knowledge (Law) d12, Survival [Navigation] d12, Persuasion [Negotiation] d12, Persuasion [Oratory] d10, Survival d8; Fighting [Hand Weapon] d10, Shooting [Pistol] d10
+* Starting Connections: Searforge Commission
+* Starting Assets: 50gc per month income
+* Starting Money: 150
+
+### Seeker
+
+* Restrictions: None
+* Starting Edges: Cover Identity, Language, Team Player, University Education
+* Possible Edges: Advisor, Cover Identity, Instructor, Iron Will, Language, Power of Truth, Team Leader, Team Player, University Education
+* Starting Skills: Persuasion [Deception] d6, Stealth [Disguise] d6, Knowledge (Etiquette) d6, Persuasion [Negotiation]d6, Knowledge d6, Investigation [Research] d6; Choose Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Persuasion [Bribery] d10, Knowledge (Cryptography) d12, Persuasion [Deception] d12, Stealth [Disguise] d8, Knowledge (Etiquette) d12, General Skills d12, Healing d8, Survival [Navigation] d12, Persuasion [Oratory] d12, Investigation [Research] d12, Streetwise d8, Survival d8; Fighting [Hand Weapon] d8, Shooting [Pistol] d8
+* Starting Connections: Seekers
+* Starting Assets: None
+* Starting Money: 100
+
+### Shaman (Devourer Wurm)
+
+* Restrictions: None
+* Starting Edges: Blood Trade
+* Possible Edges: Aegis, Blood Trade, Disease Resistance, Flesh of Steel, Gift of the Beast, Poison Resistance, Staredown, Survivalist
+* Starting Skills: Intimidation [Command] d6, Knowledge (Devourer) d6, Survival d6; Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d10, Persuasion [Deception] d12, Stealth [Disguise] d10, Stealth [Escape Artist] d10, General Skills d12, Persuasion [Interrogation] d10, Healing d8, Survival [Navigation] d10, Persuasion [Negotiation] d8, Persuasion [Oratory] d8, Stealth [Sneak] d10, Survival d10; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 75
+
+### Shaman (Dhunia)
+
+* Restrictions: None
+* Starting Edges: Balm of Dhunia
+* Possible Edges: Balm of Dhunia, Charmer, Dispel, Fate Blessed, Natural Leader
+* Starting Skills: Animal Handling d6, Intimidation [Command] d6, Knowledge (Dhunian) d6, Persuasion [Oratory] d6; Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Healing d10, Persuasion [Negotiation] d12, Persuasion [Oratory] d12, Survival d8, Knowledge (Stoneworking) d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10
+* Starting Connections: Character's Tribe
+* Starting Assets: None
+* Starting Money: 75
+
+### Skinwalker
+
+* Restrictions: Berserker, Chieftan, Scout, Shaman (Devourer), Warlock (Circle), Warrior, Wolf of Orboros, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm)
+* Starting Edges: Warpborn
+* Possible Edges: Fearless, Hunting Howl, Hyper Regeneration, Jaws of the Beast, Life Drinker, Load Bearing, Pursuit, Relentless Advance, Retaliatory Strike, Warpborn
+* Starting Skills: Notice d6, Intimidation d6, Survival d6, Tracking d6; Fighting [Great Weapon] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: General Skills d12, Survival d12, Tracking d12; Fighting [Great Weapon] d12, Fighting [Unarmed Combat] d12
+* Starting Connections: Choose One: Connections (Circle Orboros), Connections (Human Tribe), Connections (Wolves Of Orboros)
+* Starting Assets: Skinwalker Full Plate
+* Starting Money: 50
+
+### Slaughterhouser
+
+* Restrictions: None
+* Starting Edges: Fearless, Specialization (Halberd)
+* Possible Edges: Broad Stroke, Cleave, Fearless, Finisher, Gang, Hack, Load Bearing, Precision Strike, Relentless Charge, Specialization (Halberd)
+* Starting Skills: Intimidation [Command] d6, Notice d6, Intimidation d6; Fighting [Great Weapon] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Survival d10; Fighting [Great Weapon] d12, Fighting [Unarmed Combat] d10
+* Starting Connections: Thornfall Alliance
+* Starting Assets: Halberd, Full Plate Armor
+* Starting Money: 25
+
+### Soldier (Marine)
+
+* Restrictions: None
+* Starting Edges: Boarding Action, and Choose either Specilization (Cutlass) or Specialization (Gaff Spear)
+* Possible Edges: 'Jack Marshall, Cautious Advance, Cavalry Charge, Disease Resistance, Fast Reload, Find Cover, Grenadier, Hit the Deck!, Language, Ride-By Attack, Roll With It, Saddle Shot, Sentry, Specilization (Cutlass), Specialization (Gaff Spear)
+* Starting Skills: Notice d6, Athletics (Jumping) d6, Healing d6, Knowledge (Sailing) d6; Choose two: Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Crossbow] d6, Fighting [Great Weapon] d6, Shooting [Rifle] d6, Throwing d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Healing d10, Survival [Navigation] d8, Stealth [Sneak] d8, Knowledge (Sailing) d10, Survival d10; Shooting [Crossbow] d10, Fighting [Great Weapon] d12, Shooting [Light Artillery] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Shooting [Rifle] d12, Fighting [Shield] d8, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 100
+
+### Soldier
+
+* Restrictions: None
+* Starting Edges: Find Cover, Sentry
+* Possible Edges: 'Jack Marshall, Cautious Advance, Cavalry Charge, Disease Resistance, Fast Reload, Find Cover, Grenadier, Hit the Deck!, Language, Ride-By Attack, Roll With It, Saddle Shot, Sentry
+* Starting Skills: Notice d6, Driving d6, Healing d6, Survival d6; Choose two: Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Crossbow] d6, Fighting [Great Weapon] d6, Shooting [Rifle] d6, Throwing d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Healing d10, Survival [Navigation] d8, Stealth [Sneak] d8, Survival d10; Shooting [Crossbow] d10, Fighting [Great Weapon] d12, Shooting [Light Artillery] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Shooting [Rifle] d12, Fighting [Shield] d8, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 100
+
+### Sorcerer (Fire)
+
+* Restrictions: None
+* Starting Edges: Immunity: Fire
+* Possible Edges: Camouflage, Dodger, Elemental Mastery, Immunity (Fire), Traceless Path
+* Starting Skills: Notice d6, Survival d6; Choose one: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Hand Weapon] d6
+* Possible Skills: General Skills d12, Stealth [Sneak] d10, Survival d10; Shooting [Archery] d10, Shooting [Crossbow] d10, Fighting [Hand Weapon] d10, Throwing d8, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Sorcerer (Ice)
+
+* Restrictions: None
+* Starting Edges: Immunity: Cold
+* Possible Edges: Camouflage, Dodger, Elemental Mastery, Immunity (Cold), Traceless Path
+* Starting Skills: Notice d6, Survival d6; Choose one: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Hand Weapon] d6
+* Possible Skills: General Skills d12, Stealth [Sneak] d10, Survival d10; Shooting [Archery] d10, Shooting [Crossbow] d10, Fighting [Hand Weapon] d10, Throwing d8, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Sorcerer (Stone)
+
+* Restrictions: None
+* Starting Edges: None
+* Possible Edges: Camouflage, Dodger, Elemental Mastery, Traceless Path
+* Starting Skills: Notice d6, Survival d6; Choose one: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Hand Weapon] d6
+* Possible Skills: General Skills d12, Stealth [Sneak] d10, Survival d10; Shooting [Archery] d10, Shooting [Crossbow] d10, Fighting [Hand Weapon] d10, Throwing d8, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Sorcerer (Storm)
+
+* Restrictions: None
+* Starting Edges: None
+* Possible Edges: Camouflage, Dodger, Elemental Mastery, Traceless Path
+* Starting Skills: Notice d6, Survival d6; Choose one: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Hand Weapon] d6
+* Possible Skills: General Skills d12, Stealth [Sneak] d10, Survival d10; Shooting [Archery] d10, Shooting [Crossbow] d10, Fighting [Hand Weapon] d10, Throwing d8, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Spy
+
+* Restrictions: None
+* Starting Edges: Battle Plan: Shadow, Cover Identity, Language
+* Possible Edges: Battle Plan: Shadow, Cover Identity, Iron Will, Language, Poison Resistance, Prowl, Signal Language, Truth Reader, Waylay
+* Starting Skills: Intimidation [Command] d6, Persuasion [Deception] d6, Notice d6, Stealth [Disguise] d6, Stealth [Sneak] d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Throwing d6
+* Possible Skills: Persuasion [Bribery] d12, Intimidation [Command] d10, Knowledge (Cryptography) d12, Persuasion [Deception] d12, Stealth [Disguise] d12, Stealth [Escape Artist] d12, Knowledge (Etiquette) d12, Knowledge (Forgery) d12, General Skills d12, Persuasion [Interrogation] d12, Knowledge (Law) d12, Lock Picking d8, Persuasion [Negotiation] d12, Persuasion [Seduction] d12, Stealth [Sneak] d12, Streetwise d12; Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Intelligence Network
+* Starting Assets: forged identity papers
+* Starting Money: 100
+
+### Stormblade
+
+* Restrictions: Aristocrat, Knight, Man-at-Arms, Military Officer, Soldier, Warcaster, Warcaster (Cygnaran)
+* Starting Edges: Blaster, Specialization (Storm Glaive)
+* Possible Edges: 'Jack Marshall, Blaster, Close Shot, Load Bearing, Quick Work, Relentless Charge, Specialization (Storm Glaive)
+* Starting Skills: Intimidation [Command] d6, Notice d6, Knowledge (Etiquette) d6; Fighting [Great Weapon] d6
+* Possible Skills: Intimidation [Command] d12, Knowledge (Etiquette) d8, General Skills d12, Healing d8; Fighting [Great Weapon] d12
+* Starting Connections: Cygnarian Military
+* Starting Assets: Storm Glaive and Storm Knight armor
+* Starting Money: 0
+
+### Stormsmith
+
+* Restrictions: None
+* Starting Edges: Specialization (Stormcaller and Lightning Rod), Weatherman, Weather Vane
+* Possible Edges: Electromancer, Eye of the Storm, Hit the Deck!, Maestro, Specialization (Stormcaller and Lightning Rod), Storm Booster, Weatherman, Weather Vane
+* Starting Skills: Knowledge (Mechanikal Engineering) d6, Knowledge (Stormsmithing) d6; Fighting [Great Weapon] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Knowledge (Mechanikal Engineering) d10, Knowledge (Stormsmithing) d12; Fighting [Great Weapon] d8, Fighting [Hand Weapon] d8
+* Starting Connections: Cygnaran military
+* Starting Assets: Stormsmith armor, Stormcaller and Lightning rod
+* Starting Money: 0
+
+### Thamarite Advocate
+
+* Restrictions: None
+* Starting Edges: Corruptor, Imbue Weapon, Language (Telgesh)
+* Possible Edges: Black Tongue, Corruptor, Dark Scribe, Ghost Shield, Grave Man, Haruspex, Imbue Weapon, Inscribe Thrall Rune, Iron Will, Language, Necromancer, Shadow Magic, Soul Taker, Soul Thief
+* Starting Skills: Knowledge (Thamarite) d6, Choose two: Persuasion [Deception] d6, Knowledge (Etiquette) d6, Knowledge(any) d6,  Investigation [Research] d6, Persuasion [Seduction] d6,Knowledge (Any Craft)(Thrall); Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Persuasion [Bribery] d12, Knowledge (Craft Thrall) d12), Knowledge (Cryptography) d12, Persuasion [Deception] d12, Stealth [Disguise] d12, Knowledge (Etiquette) d10, General Skills d12, Persuasion [Interrogation] d8, Knowledge (Law) d12, Healing d8, Persuasion [Negotiation] d12, Persuasion [Oratory] d12, Investigation [Research] d12, Persuasion [Seduction] d12, Stealth [Sneak] d10, Streetwise d10,; Fighting [Hand Weapon] d10, Shooting [Pistol] d10
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 100
+
+### Thief
+
+* Restrictions: None
+* Starting Edges: Conniver, Dodger
+* Possible Edges: Appraise, Camouflage, Card Sharp, Conniver, Dodger, Fleet Foot, Get Away, Language (Five Cant), Parry, Prowl, Traceless Path
+* Starting Skills: Persuasion [Bribery] d6, Persuasion [Deception] d6, Stealth [Escape Artist] d6, Lock Picking d8, Stealth [Pick Pocket] d8, Stealth [Sneak] d6, Streetwise d6; Choose one: Fighting [Hand Weapon] d6, Throwing d6
+* Possible Skills: Persuasion [Bribery] d12, Knowledge (Any Craft) d8, Persuasion [Deception] d12, Stealth [Disguise] d12, Stealth [Escape Artist] d12, Knowledge (Etiquette) d6, Knowledge (Forgery) d12, General Skills d12, Knowledge (Law) d8, Lock Picking d12, Persuasion [Negotiation] d12, Stealth [Pick Pocket] d12, Stealth [Sneak] d12, Streetwise d12; Fighting [Hand Weapon] d10, Shooting [Pistol] d8, Throwing d10, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: thief's tools
+* Starting Money: 75
+
+### Tinker
+
+* Restrictions: None
+* Starting Edges: Scrapper, Tinkering
+* Possible Edges: Appraise, Conniver, Demolish, Jury Rig, Scavenger, Scrapper, Tinkering
+* Starting Skills: Knowledge (Any Craft) d6, Persuasion [Negotiation] d6, Streetwise d6; Choose One: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Persuasion [Deception] d12, General Skills d12, Persuasion [Negotiation] d12, Streetwise d12, Survival d8, Knowledge (Any Craft) d12; Fighting [Hand Weapon] d8, Shooting [Pistol] d10
+* Starting Connections: None
+* Starting Assets: Tinker's Kit
+* Starting Money: 85
+
+### Trapper
+
+* Restrictions: None
+* Starting Edges: Astute, Cautious Trapper
+* Possible Edges: Astute, Brutal Trapper, Camouflage, Cautious Advance, Cautious Trapper, Hidden Traps, Prowl, Skilled Trapper
+* Starting Skills: Notice d6, Knowledge (Extraordinary Zoology)d6, Knowledge (Rope Use) d6, Survival d6; Fighting [Hand Weapon] d6, Choose One: Shooting [Archery] d6, Shooting [Rifle] d6
+* Possible Skills: General Skills d12, Knowledge (Rope Use) d12, Stealth [Sneak] d8, Survival d12; Shooting [Archery] d10, Fighting [Hand Weapon] d8, Shooting [Rifle] d10
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 75
+
+### Trencher
+
+* Restrictions: Military Officer, Ranger, Rifleman, Soldier, Warcaster, Artillerist
+* Starting Edges: Bayonet Charge, Dig In
+* Possible Edges: 'Jack Marshall, Anatomical Precision, Bayonet Charge, Bomber, Dig In, Fire in the Hole!, Grenadier, Hit the Deck!, Relentless Charge, Specialization (Bayonet)
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Great Weapon] d6, Shooting [Rifle] d6, Throwing d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Persuasion [Interrogation] d10, Healing d10, Stealth [Sneak] d10, Survival d10; Fighting [Great Weapon] d10, Shooting [Light Artillery] d12, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Shooting [Rifle] d12, Throwing d12, Fighting [Unarmed Combat] d10
+* Starting Connections: Cygnarian Military
+* Starting Assets: ammo bandolier, bayonet (rifle), entrenching spade, rifle (military), 3 smoke grenades, trencher medium infantry armor
+* Starting Money: 25
+
+### Urban Nomad
+
+* Restrictions: None
+* Starting Edges: Adaptable (Urban)
+* Possible Edges: Adaptable (Urban), Archer, Crackshot, Fast Reload, Keen Eyed, Marksman, Night Fighter, Roll With It, Signal Language, Street Survivor, Swift Hunter, Targeteer
+* Starting Skills: Athletics (Climbing) d6, Athletics (Jumping) d6, Stealth [Sneak] d6, Survival d6; Shooting [Archery] d6, Fighting [Great Weapon] d6
+* Possible Skills: Persuasion [Bribery] d12, Stealth [Escape Artist] d12, General Skills d12, Survival [Navigation] d8, Stealth [Sneak] d12, Survival d12; Shooting [Archery] d12, Fighting [Great Weapon] d12, Fighting [Hand Weapon] d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: Nyss Claymore, Nyss Bow
+* Starting Money: 0
+
+### Warcaster (Cygnaran)
+
+* Restrictions: Arcane Mechanik, Arcanist, Field Mechanik, Knight, Mant-at-Arms, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Stormblade, Trencher, Gun Mage, Gun Mage (Arcane Tempest), Aristocrat, Horseman, Military Officer, Pistoleer, Ranger, Rifleman, Soldier
+* Starting Edges: Bond
+* Possible Edges: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Fighting [Unarmed Combat] d8
+* Starting Connections: Cygnaran military
+* Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
+* Starting Money: 0
+
+### Warcaster (Cyriss)
+
+* Restrictions: None
+* Starting Edges: Bond, Convergence Warcaster
+* Possible Edges: Blaster, Bond,Clockwork Transcendence, Convergence Warcaster, Field Marshal: Celestial Harmony, Field Marshal: Magical Attack, Field Marshal: Shield Guard, Overpower, Vessel Upgrade
+* Starting Skills: Notice d6, Knowledge (Mechanikal Engineering); Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Any Craft) d10, General Skills d12, Knowledge (Mechanikal Engineering) d10, Investigation [Research] d10; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10
+* Starting Connections: Convergence of Cyriss
+* Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon, or mechanika hand cannon.  Item starts Bonded.
+* Starting Money: 0
+
+### Warcaster (Khadoran)
+
+* Restrictions: Arcanist (Greylord), Alchemist, Arcane Mechanik, Aristocrat, Explorer, Horseman, Investigator, Military Officer, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Spy, Assault Kommando, Iron Fang, Soldier
+* Starting Edges: Bond
+* Possible Edges: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Fighting [Unarmed Combat] d8
+* Starting Connections: Khadoran Military
+* Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
+* Starting Money: 0
+
+### Warcaster (Llaelese)
+
+* Restrictions: None
+* Starting Edges: Bond
+* Possible Edges: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
+* Starting Money: 0
+
+### Warcaster (Ordic)
+
+* Restrictions: Arcane Mechanik, Arcanist, Aristocrat, Artillerist, Duelist, Explorer, Field Mechanik, Horseman, Man-at-Arms, Military Officer, Pirate, Priest (Morrow), Soldier, Soldier (Marine), Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm)
+* Starting Edges: Bond
+* Possible Edges: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Fighting [Unarmed Combat] d8
+* Starting Connections: Ordic Military
+* Starting Assets: Choose one: Suit of Warcaster Armor (light), Warcaster Armor (medium) or Warcaster Armor (Naval), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
+* Starting Money: 0
+
+### Warcaster (Protectorate)
+
+* Restrictions: Allegiant (Order of the Fist), Cutthroat, Duelist, Exemplar, Field Mechanik, Paladin (Order of the Wall), Priest (Menoth), Reclaimer, Scrutator
+* Starting Edges: Bond
+* Possible Edges: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Fighting [Unarmed Combat] d8
+* Starting Connections: Protectorate Military
+* Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
+* Starting Money: 0
+
+### Warcaster (Rhulic)
+
+* Restrictions: None
+* Starting Edges: Bond, Rhulic Warcaster
+* Possible Edges: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader, Rhulic Warcaster
+* Starting Skills: Intimidation [Command] d6, Notice d6; Choose two: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Rifle] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Fighting [Unarmed Combat] d8
+* Starting Connections: Dwarven Clan
+* Starting Assets: Choose one: Suit of Warcaster Armor (light or medium), mechanika hand weapon, or mechanika hand cannon.  Item starts Bonded.
+* Starting Money: 0
+
+### Warcaster
+
+* Restrictions: None
+* Starting Edges: Bond
+* Possible Edges: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Starting Skills: Intimidation [Command] d6, Notice d6; Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Fighting [Unarmed Combat] d8
+* Starting Connections: None
+* Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
+* Starting Money: 0
+
+### Warlock (Circle)
+
+* Restrictions: None
+* Starting Edges: Warlock Bond, Resonance: Wold
+* Possible Edges: Beast Handler, Calm, Earth Magic, Empower Weapon, Field Marshal: Magical Weapon, Field Marshal: Relentless Charge, Pack Hunter, Pathfinder, Resonance: Devourer Warbeast, Resonance: Wold, Stone Warder, Warlock Bond, Wold Mastery
+* Starting Skills: Animal Handling d6, Intimidation [Command] d6, Choose One: Knowledge (Devourer Wurm) d6, Knowledge (Orboros) d6; Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Stealth [Sneak] d10, Survival d10; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Character's Tribe
+* Starting Assets: medium-based Devourer warbeast or medium-based Wold
+* Starting Money: 25
+
+### Warlock (Farrow)
+
+* Restrictions: None
+* Starting Edges: Resonance: Farrow Warbeast, Warlock Bond
+* Possible Edges: Empower Weapon, Field Marshal: Counter Charge, Field Marshal: Hog Wild, Goad, Maltreatment, Resonance: Farrow Warbeast, Souie!, Warlock Bond
+* Starting Skills: Animal Handling d6, Intimidation [Command] d6, Survival d6; Choose Two: Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Shooting [Pistol] d6, Shooting [Rifle] d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d10, Persuasion [Deception] d10, General Skills d12, Persuasion [Negotiation] d10, Streetwise d10, Survival d10; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Shooting [Pistol] d10, Shooting [Rifle] d10, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: medium-based Farrow warbeast or two razor boar warbeasts
+* Starting Money: 25
+
+### Warlock (Swamp)
+
+* Restrictions: None
+* Starting Edges: Resonance: Swamp Warbeast, Warlock Bond
+* Possible Edges: Empower Weapon, Field Marshal: Counter Charge, Field Marshal: Magical Attack, Field Marshal: Poltergeist, Maltreatment, Resonance: Swamp Warbeast, Spirit Eater, Warlock Bond
+* Starting Skills: Animal Handling d6, Notice d6; Fighting [Unarmed Combat] d6, Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Survival d10; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: medium-based Swamp warbeast
+* Starting Money: 25
+
+### Warlock (Trollkin)
+
+* Restrictions: None
+* Starting Edges: Resonance: Trollblood Warbeast, Warlock Bond
+* Possible Edges: Empower Weapon, Field Marshal: Regenerate, Field Marshal: Relentless Charge, Field Marshal: Unyielding, Goad, Resonance: Trollblood Warbeast, Troll Speaker, Warlock Bond
+* Starting Skills: Animal Handling d6, Intimidation [Command] d6, Notice d6; Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d12, General Skills d12, Survival d10; Fighting [Great Weapon] d10, Fighting [Hand Weapon] d10, Throwing d10, Fighting [Unarmed Combat] d10
+* Starting Connections: Character's Tribe
+* Starting Assets: medium-based Trollblood warbeast
+* Starting Money: 25
+
+### Warrior
+
+* Restrictions: None
+* Starting Edges: Fast Draw, Roll with It
+* Possible Edges: Cautious Advance, Cavalry Charge, Crossbowman, Fast Draw, Fast Reload, Find Cover, Gunner, Head-Butt, Knife Thrower, Load Bearing, Quick Work, Roll with It, Sentry, Shield Guard, Shootist, Specialization (any), Two-Weapon Fighting
+* Starting Skills: Intimidation [Command] d6, Notice d6, Gambling d6, Riding d6; Choose three: Shooting [Archery] d6, Shooting [Crossbow] d6, Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6, Shooting [Light Artillery] d6, Shooting [Rifle] d6, Fighting [Shield] d6, Throwing d6, Fighting [Unarmed Combat] d6
+* Possible Skills: Intimidation [Command] d10,Knowledge (Any Craft)(any) d10, General Skills d12, Persuasion [Interrogation] d10, Healing d10, Persuasion [Negotiation] d10, Survival d10; Shooting [Archery] d10, Shooting [Crossbow] d12, Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Shooting [Light Artillery] d10, Shooting [Pistol] d10, Shooting [Rifle] d10, Fighting [Shield] d10, Throwing d10, Fighting [Unarmed Combat] d12
+* Starting Connections: None
+* Starting Assets: None
+* Starting Money: 100
+
+### Wolf Rider
+
+* Restrictions: None
+* Starting Edges: Scout, Trained Rider (Duskwolf)
+* Possible Edges: Beast Handler, Expert Rider, Light Cavalry, Mount Attack (Duskwolf), Scent, Signal Howls, Swift Rider, Trained Rider (Duskwolf), Wolf Protector
+* Starting Skills: Animal Handling d6, Survival [Navigation] d6, Riding d6, Survival d6, Tracking d6; Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: General Skills d12, Survival d12, Tracking d12; Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12, Throwing d12, Fighting [Unarmed Combat] d10
+* Starting Connections: None
+* Starting Assets: duskwolf with tack
+* Starting Money: 75
+
+### Wolf of Orboros
+
+* Restrictions: Bone Grinder, Brigand, Chieftan, Monster Hunter, Scout, Shaman (Devourer), Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Warlock (Circle), Warrior, Wolf Rider
+* Starting Edges: Dual Shot (Crossbow), Specialization (Cleft weapon)
+* Possible Edges: Battle Plan: Brutal Charge, Bayonet Charge, Cleave, Crossbowman, Dual Shot (Crossbow), Fast Reload, Hunter, Load Bearing, Pathfinder, Precision Strike, Set Defense, Specialization (Cleft Weapon)
+* Starting Skills: Notice d6, Survival d6, Tracking d6; Shooting [Crossbow] d6, Fighting [Great Weapon] d6, Fighting [Hand Weapon] d6
+* Possible Skills: Intimidation [Command] d10, General Skills d12, Survival [Navigation] d10, Stealth [Sneak] d10, Survival d10, Tracking d10; Shooting [Crossbow] d12, Fighting [Great Weapon] d12, Fighting [Hand Weapon] d12
+* Starting Connections: Wolves Of Orboros
+* Starting Assets: Full Plate Armor, Wolf Pelt, Cleft Spear or Dual Crossbow with a Quiver of 10 Bolts
+* Starting Money: 0
 
 
 ## Traits
 
 ### Attributes
 
+New characters use the normal SW attributes. Existing characters can be converted according to the following conventions. 
+
+* Physique ==round up to nearest even number==> Vigor die type
+* Speed => Pace
+* Strength ==round up to nearest even number==> Strength die type
+* max(Agility, Prowess, Poise) ==round up to nearest even number==> Agility die type
+* Intellect ==round up to nearest even number==> Smarts die type
+* max(Arcane, Perception) ==round up to nearest even number==> Spirit die type
 
 
 ### Skills
 
-#### New Skills
+A number of IK skills don't exist in SW. To retain the feel of IK, these skills are retained as specializations (SWD p. 95). Note that spcialization is always indicated in this document with square brackets "[]" distinct from the more general "type of" notation shown with parentheses "()", as in "Knowledge (Etiquette) d6". Specializations include:
 
-
-#### Modifications to SW Skills
-
+* Fighting: Great Weapon, Hand Weapon, Unarmed Combat
+* Intimidation: Command
+* Persuasion: Deception, Oratory, Seduction, Bribery
+* Shooting: Archery, Crossbow, Pistol, Rifle, Light Artillery
+* Stealth: Sneak, Disguise, Pick Pockets, Escape Artist
+* Survival: Navigation
 
 
 ## Edges and Hinderances
 
 ### Abilities as Edges
 
-* Abomination: The Character gains Terror [This Char's willpower +4] in battle. This Terror affect both friendly and enemy chars. Can reroll Intimidation rolls, can only reroll once as a result of Abomination.
-* Ace Commander: This character gains an additional quick action each turn that can be used only to drive a 'jack.
-* Acrobatics: The character can advance through other characters if he has enough movement to move completely past their bases. The character also gains a +3 on Jumping skill rolls.
+* Abomination: The Character provokes a Terror check in battle at a -2 penalty. This Terror affect both friendly and enemy chars. Can reroll Intimidation rolls, can only reroll once as a result of Abomination.
+* Ace Commander: This character gains an additional action each turn that can be used only to drive a 'jack.
+* Acrobatics: The character can move through other characters if he has enough movement to move completely past their bases. The character also gains a +3 on Jumping skill rolls.
 * Adaptable (Urban): In an urban environment, Character can reroll failed Climbing and Jumping rolls. Each roll can only be rerolled once as a result of Adaptable (Urban)
 * Adjust Aim: If this character misses with a bow ranged attack, he gains +2 to his next ranged attack roll with a bow that turn.
-* Advance Move: At the start of combat before initiative is rolled, this character can make a full advance.
-* Advisor: While B2B with this character, friendly characters gain +1 to their Command Range.
-* Aegis: This character is immune to continuous effects.
-* Always a Deal to be Made: When making a deal that involves buying or selling goods or services using Negotiation, treat any result worse than Fail as Fail
-* Ambush: During the first round of an encounter, this character gains boosted attack and damage rolls against enemies that have not yet activated.
-* Anatomical Precision: When the character hits a living target with a melee attack but the damage roll fails to exceed the target's Toughness, the target suffers d3 damage points instead of the damage rolled.
-* Applied KnowlEdge: When a friendly character in this character's command range hits a target with an attack, the friendly character chooses the branch of the target's life spiral or the column of the target's damage grid that is hit, if applicable.
+* Advance Move: At the start of combat before initiative is rolled, this character can make a full move.
+* Advisor: While B2B with this character, friendly characters gain +1" to their command radius.
+* Aegis: This character is immune to continuous elemental damage.
+* Always a Deal to be Made: +2 Negotiation when making a deal that involves buying or selling goods or services.
+* Ambush: During the first round of an encounter, this character gains +2 to attack and damage rolls against enemies that have not yet activated.
+* Anatomical Precision: Attacks against living targets with melee attacks gain +2 AP.
+
+// * Applied Knowledge: When a friendly character in this character's command range hits a target with an attack, the friendly character chooses the branch of the target's life spiral or the column of the target's damage grid that is hit, if applicable.
+
 * Appraise: You have a sharp eye, especially where values are concerned. You can judge the value of most fine goods with an inspection. Good fakes might require a Notice roll to spot.
-* Arcane Assassin: When making attacks, this character ignores focus points overboosting the target's power field and spell effects adding to its Toughness or DEF.
-* Arcane Defenses: This character gains +3 Toughness against magic attacks.
+* Arcane Assassin: When making attacks, this character ignores spell effects adding to armor or parry.
+* Arcane Defenses: This character gains +2 Toughness against magic attacks.
 * Arcane Engineer: The character can re-roll failed Mechanikal Engineering rolls.
-* Arcane Precision: When this character forfeits his movement to aim with a ranged weapon, he ignores stealth that turn.
+* Arcane Precision: When this character aims with a ranged weapon, he ignores magical effects that obsure vision.
 * Arcane Rider: This character does not suffer the firing from horseback penalty when making magic attacks while mounted.
-* Arcane Scholar: The character can have a number of spells equal to his Smarts x3.
-* Archer: Character can forfeit his movement to make one additional ranged attack with a bow
-* Arcing Shot: When making a ranged attack with a bow, this character can ignore intervening characters and cover, except those within 6 feet (1˝) of the target.
-* Artificer: This character can create wolds (p. 254).
+* Arcane Scholar: The character gains an additional Power.
+* Archer: Character can forfeit his movement to make one additional ranged attack with a bow at no penalty.
+* Arcing Shot: When making a ranged attack with a bow, this character can ignore intervening characters and cover, except those within 1" of the target.
+* Artificer: This character can create wolds.
 * Astute: The character can re-roll failed Notice rolls.
-* Authority: A character with this ability gains +2 on social skill rolls when dealing with other Menties.
+* Authority: A character with this ability gains +2 on social skill rolls when dealing with characters s/he mentors.
 * Backstab: This character gains an additional die on his back strike damage rolls.
-* Balm of Dhunia: This character can reroll failed Animal Handling and Medicine skill rolls. Each failed roll can be rerolled only once as a result of Balm of Dhunia.
+* Balm of Dhunia: This character can reroll failed Knowledge (Animal Handling) and Healing skill rolls. Each failed roll can be rerolled only once as a result of Balm of Dhunia.
 * Battle Commander: This character can use one battle plan during each of his turns without spending a benny.
-* Battle Plan (Battlefield Coordination: Spend 1 benny to use. Quick Action. For one round), while in this character's command range, friendly characters do not suffer the firing into melee penalty for ranged attacks and spells and do not have a chance to hit friendly characters when they miss with ranged or magic attacks while firing into melee.
-* Battle Plan (Brutal Charge: Spend 1 benny to use. Quick Action. When a character uses this battle plan), each friendly character who follows his orders gains Brutal Charge for one round. (A character with Brutal Charge gains +2 to his charge attack damage rolls).
-* Battle Plan (Call to Action): Spend 1 benny to use. Quick Action. When you use this battle plan, each friendly character in your command range under his command may immediately stand up or go prone.
-* Battle Plan (Close Fire): Spend 1 benny to use. Quick Action. When you use this battle plan, friendly characters do not suffer blast damage from ranged attacks made by this char or friendly char in this characters command range.
-* Battle Plan (Coordinated Strike): Spend 1 benny to use during a surprise round.  Quick Action.  Each friendly in CMD can immediately make one attack.  After these attacks, the surprise round ends and the characters are detected.
-* Battle Plan (Desperate Pace): Spend 1 benny to use Battle Plan (Desperate Pace. Using a battle plan is a quick action. When a character uses this battle plan), each friendly character who follows the character's orders gains +2″ of movement for one round.
-* Battle Plan (Desperate Pace): Spend 1 benny to use. Quick Action.  When a character uses this Battle Plan, each friendly character who follows the character's orders gains +2 movement for one round.
-* Battle Plan (Double Time): Spend 1 benny to use. Using a battle plan is a quick action. When a character uses this battle plan, each friendly character in his command range can immediately make a full advance.
-* Battle Plan (Go to Ground): Spend 1 benny to use.  Quick Action.  Each friendly character gains Cover, does not suffer Blast damage, and does not block LOS until he moves, is placed, or is engaged.
-* Battle Plan (Orchestrate Fire,Spend 1 benny to use.  Quick Action.  Each friendly characters in command range gain +2 on artillery ranged attack rolls. Only last for one round.)
-* Battle Plan (Reconnaissance,Spend 1 benny to use.  Quick Action.  You and each friendly character who starts their activation in his CMD gains the Pathfinder ability.  Battle Plan): Reconnaissance lasts for one round.
-* Battle Plan (Shadow): Spend 1 benny to use.  Quick Action.  When a character uses this Battle Plan, each friendly character who follows his orders gains Prowl for one round.
-* Battle Plan (Take Cover): Spend 1 benny to use during a surprise round.  Quick Action.  Each friendly in CMD can immediately make one attack.  After these attacks, the surprise round ends and the characters are detected.
-* Bayonet Charge: When you charge with ranged weapon that has a Bayonet, after moving but before making charge attack, make one ranged attack targeting charge target.  See page 158 for more.
-* Beast Handler,This character can reroll failed Animal Handling skill rolls. Each failed roll can be rerolled only once as a result of Beast Handler.
+* Battle Plan (Battlefield Coordination): Spend 1 benny to use. Free action. For one round, while in this character's command range, friendly characters do not have a chance to hit friendly characters when they miss with ranged or magic attacks while firing into melee.
+* Battle Plan (Brutal Charge): Spend 1 benny to use. Free action. When a character uses this battle plan, each friendly character who follows his orders gains Brutal Charge for one round. (A character with Brutal Charge gains +2 to his charge attack damage rolls).
+* Battle Plan (Call to Action): Spend 1 benny to use. Free Action. When you use this battle plan, each friendly character in your command range under his command may immediately stand up or go prone.
+* Battle Plan (Close Fire): Spend 1 benny to use. Free Action. When you use this battle plan, friendly characters do not suffer damage from area of effect attacks made by this char or friendly char in this characters command range.
+* Battle Plan (Coordinated Strike): Spend 1 benny to use during a surprise round. Free Action. Each friendly in command radius can immediately make one attack. After these attacks, the surprise round ends and the characters are detected.
+* Battle Plan (Desperate Pace): Spend 1 benny to use. Free Action. When a character uses this Battle Plan, each friendly character who follows the character's orders gains +2 movement for one round.
+* Battle Plan (Double Time): Spend 1 benny to use. Free action. When a character uses this battle plan, each friendly character in his command range can immediately make a full advance.
+
+// * Battle Plan (Go to Ground): Spend 1 benny to use. Free Action. Each friendly character gains Cover, does not suffer Blast damage, and does not block LOS until he moves, is placed, or is engaged.
+
+* Battle Plan (Orchestrate Fire): Spend 1 benny to use. Free Action. Each friendly character in command range gains +2 on artillery ranged attack rolls. Only last for one round.
+* Battle Plan (Reconnaissance): Spend 1 benny to use. Free Action. You and each friendly character who starts their activation in his command radius gains the Pathfinder ability. Lasts for one round.
+* Battle Plan (Shadow): Spend 1 benny to use. Free Action. When a character uses this Battle Plan, each friendly character who follows his orders gains Prowl for one round.
+* Battle Plan (Take Cover): Spend 1 benny to use during a surprise round. Free Action. Each friendly in command radius can immediately make one attack. After these attacks, the surprise round ends and the characters are detected.
+* Bayonet Charge: When you charge with ranged weapon that has a Bayonet, after moving but before making charge attack, make one free ranged attack targeting charge target.
+* Beast Handler: This character can reroll failed Knowledge (Animal Handling) skill rolls. Each failed roll can be rerolled only once as a result of Beast Handler.
 * Berserk: When this char incapacitates or destroys one or more other chars with a melee attack during his turn, immediately after the attack is resolved he must make one additional melee attack against another char in his melee range.
-* Berserk: When this char incaps or destroys one or more chars this turn with melee attacks, Imediately after the attack is resolved char must make a melee attack against another char in melee range.
-* Big Game Hunter: When a character with Big Game Hunter makes a melee or ranged attack against an natural animal or beast native to the wilds of Immoren, he gains a bonus on attack rolls equal to his Survival skill.
-* Binding: When the character ties up, manacles or otherwise restrains another character with some form of restraints, add +3 to the skill roll difficulty for the bound character to escape.
-* Black Tongue,Gain additional die on social rolls against infernals. Discard the lowest die in each roll.
-* Blade Shield (Nyss Great Sword): When this character is armed with the specified weapon, he and friendly characters B2B with him gain +2 DEF against ranged attacks originating in their front arcs.
-* Blaster,The character gains +2 to hit with electrical ranged attacks.
+
+// * Big Game Hunter: When a character with Big Game Hunter makes a melee or ranged attack against an natural animal or beast native to the wilds of Immoren, he gains a bonus on attack rolls equal to his Survival skill.
+
+* Binding: When the character ties up, manacles or otherwise restrains another character with some form of restraints, the bound character suffers a -2 skill roll penalty to escape.
+* Black Tongue: Gain +1d4 on social rolls against infernals.
+* Blade Shield (Nyss Great Sword): When this character is armed with the specified weapon, he and friendly characters B2B with him gain +2 Parry against attacks originating in their front arcs.
+* Blaster: The character gains +2 to hit with electrical ranged attacks.
 * Blood Quenched: This character gains a cumulative +1 Strength and Toughness for each living enemy he destroys with a melee attack during his activation. This bonus lasts for one round.
-* Blood Rites: At Hero level, this character gains +2 to her sacral blade damage rolls. At Veteran level, she gains +3 to her sacral blade damage rolls. At Epic level, she gains +4 to her sacral blade damage rolls.
-* Blood Ritual: Each time this character makes a melee attack or damage roll during her activation, she can suffer d3 damage points to boost the roll. This damage is suffered before the roll is made.
+* Blood Rites: At Novice level, this character gains +2 to her sacral blade damage rolls. At Veteran level, she gains +3 to her sacral blade damage rolls. At Legendary level, she gains +4 to her sacral blade damage rolls.
+
+// * Blood Ritual: Each time this character makes a melee attack or damage roll during her activation, she can suffer d3 damage points to boost the roll. This damage is suffered before the roll is made.
+
 * Blood Spiller: The character gains +2 on damage rolls against living characters.
 * Blood Thirst: When this character charges a living character, this character gains +2˝ movement.
-* Blood Trade: This character can upkeep spells by suffering d3 damage points per spell instead of spending fury points or gaining a fatigue point.
-* Bloodlust: Char retains reason rather than losing himself to complete madness. Char's willpower is not reduced as a result of wielding a fellblade, and char never becomes a slave to the weapon.
-* Blur of Motion: Each time this character makes a ranged attack with a bow, he can immediately nock another arrow from his quiver without using a quick action.
-* Boarding Action: Character can use Jumpung to make a jump as a quick action instead of a full action after making a Full Advance.
-* Bodge: The character can make temporary repairs to a steamjack in the midst of combat.  See page 299.
+
+// * Blood Trade: This character can upkeep spells by suffering d3 damage points per spell instead of spending fury points or gaining a fatigue point.
+
+* Bloodlust: Char retains reason rather than losing himself to complete madness. Char's sanity is not reduced as a result of wielding a fellblade, and char never becomes a slave to the weapon.
+* Blur of Motion: Each time this character makes a ranged attack with a bow, he can immediately nock another arrow from his quiver without using an action.
+
+// * Boarding Action: Character can use Jumpung to make a jump as a quick action instead of a full action after making a Full Advance.
+
+* Bodge: The character can make temporary repairs to a steamjack in the midst of combat.
 * Bodyguard: The character is not limited to the number of times it can use Shield Guard each round.
 * Bomber: When this character's grenade ranged attacks deviates, you can reroll the deviation and/or the direction of deviation.  A roll can only be rerolled once as a result of Bomber.
 * Bond: Bond to warcaster armor, steamjack, or a mechanika weapon.  See page 158 of the Core Rulebook.
-* Bone Grinder: This character can create bone grinder fetishes (p. 348).
+* Bone Grinder: This character can create bone grinder fetishes.
 * Brawler: When using an improvised melee weapon, Character can use Unarmed Combat skill instead of Hand Weapon Skill for the attack roll.
 * Brew Master: You can reroll failed Alchemy rolls.  Each failed roll can be rerolled only once as a result of Brew Master.
 * Broad Stroke: When this character makes his first Great Weapon melee attack during his turn each round, he can spend 1 benny to make a thresher attack. A character making a thresher attack makes one melee attack against each character in his LOS and in his melee range.
-* Brutal Trapper: Traps constructed by this character gain boosted damage rolls.
-* Bull Rush: When Riding a mount this character may make slam power attacks. Use the mount's POW for the Slam's POW. After resolving slam, character may make 1 normal melee attack 
-* Calm: While in this character's command range, friendly warbeasts gain +1 THR.
-* Camouflage: Gain +2 DEF when benefiting from concealment/cover.
-* Card Sharp: Add an extra die to your Gambling rolls and drop the lowest die result.  Difficulty of the Detect Skill roll to notice the cheating is the cheating character's Gambling skill.
+* Brutal Trapper: Traps constructed by this character gain +2 to damage rolls.
+
+// * Bull Rush: When Riding a mount this character may make slam power attacks. Use the mount's POW for the Slam's POW. After resolving slam, character may make 1 normal melee attack 
+// * Calm: While in this character's command range, friendly warbeasts gain +1 THR.
+
+* Camouflage: Gain +2 Parry when benefiting from concealment/cover.
+* Card Sharp: Add +1d4 extra die to your Gambling rolls.  Difficulty of the Notice skill roll to notice the cheating is the cheating character's Gambling skill.
+
+================
+
 * Careful Practitioner: When this character would suffer damage due to a failed ritual, this character suffers a damage roll with half the normal POW instead.
 * Cautious Advance: The character gains one extra quick action each turn that can be used only to Take Cover.
 * Cautious Trapper: If this character fails to disarm a trap, it does not cause the trap to trigger.
@@ -379,7 +1552,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Dark Scribe: Can create thralls in half the time
 * Deadly Skill: A character that is damaged by an attack made by this character loses Tough, cannot heal or be healed, and cannot transfer damage for one round.
 * Death Mastery: If a living char is destroyed in this character's CTRL, this char can immediately spend a benny to animate it. Destroyed char permanently becomes a swamp shambler (p. 402) under this char's control. See p. 158 Unleashed.
-* Defender: Once per round, when a friendly within your CMD is hit with an enemy attack, immediately after the attack is resolved you can advance toward the enemy character, up to 2" and make a melee attack.
+* Defender: Once per round, when a friendly within your command radius is hit with an enemy attack, immediately after the attack is resolved you can advance toward the enemy character, up to 2" and make a melee attack.
 * Defensive Line: While this character is B2B with one more friendly characters, he gains +1 Toughness.  While the character is B2B with one or more friendly character who also have the ability, the bonus increases to +2.
 * Demolish: This character gains boosted damage rolls against constructs and structures. At the Veteran level, this character gains an additional die on damage rolls against constructs and structures instead of boosted rolls.
 * Dhunia's Strike: Quick action to pray to Dhunia. The next melee attack made by this character this turn is considered to be made with a magical weapon, and  can reroll the damage roll. Damage can be rerolled only once as a result of this ability.
@@ -413,7 +1586,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Eye of the Storm: The character's command over elements is such that he can now protect those around him from the fury of the storm. While operating a stormcaller and lightning rod, this character and friendly characters in his command range gain Immunity: Electicity
 * Fabricator: Reroll failed Mechanikal Engineering rolls to repair or dismantle steam-powered armor. Each roll can be rerolled only once as a result of Fabricator. Additionally, her armor regains an additional point when she repairs damage.
 * Fall Back: At the end of this character's turn, if he destroyed one or more enemies with ranged attacks that turn he can make a full advance.
-* Fall's Shielding Wind: Once per round, when a friendly char takes damage from a ranged or magic attack while in CMD, this char can spend 1 FP to reduce the damage by half, rounded up. The FP is spent after the damage roll has been made.
+* Fall's Shielding Wind: Once per round, when a friendly char takes damage from a ranged or magic attack while in command radius, this char can spend 1 FP to reduce the damage by half, rounded up. The FP is spent after the damage roll has been made.
 * Fast Cook: You can create alchemical items in half the normal time.
 * Fast Draw: +2 Initiative.  Gain Additional Quick Action on first round of combat each encounter, used only to draw weapon.
 * Fast Rearm: You gain one extra Quick Action each turn that can be used only to rearm a weapon of the type noted.  
@@ -555,9 +1728,9 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Prowl: The character gains Stealth (p. 220) while within terrain that provides concealment, the AOE of a spell that grants concealment, or the AOE of a cloud effect.
 * Pursuit: Use 1 benny.  Designates one enemy.  For encounter, when that enemy ends his movement you can make a full advance.
 * Quick Work: When you kill one or more enemies with a melee attack during your combat action, immediately after that attack is resolved, make a ranged attack with a loaded weapon.
-* Rallying Cry: Spend a benny.  For one round this character's CMD is doubled and friendly characters in his CMD, including this character, become fearless.
+* Rallying Cry: Spend a benny.  For one round this character's command radius is doubled and friendly characters in his command radius, including this character, become fearless.
 * Ram: When this char hits an enemy with her horns, target is knocked down and can be pushed 1˝ directly away from this char. This char can immediately adv. directly toward target, up to distance pushed.
-* Reclaim: When a Menite char is destroyed in the Reclaimer's CMD range, the Relcaimer can erect a grave marker to gain soul tokens. Char can have up to 5 soul tokens at a time and can spend them to boost attack & damage rolls. If Will Weaver can spend them to remove fatigue. If focuser they act like focus.
+* Reclaim: When a Menite char is destroyed in the Reclaimer's command radius range, the Relcaimer can erect a grave marker to gain soul tokens. Char can have up to 5 soul tokens at a time and can spend them to boost attack & damage rolls. If Will Weaver can spend them to remove fatigue. If focuser they act like focus.
 * Reed in the Wind: This character cannot be targeted by free strikes.
 * Relentless Advance: When this character is damaged by an enemy attack, he gains +2 SPD for one round.
 * Relentless Advance: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character gains +2SPD for one round.
@@ -590,9 +1763,9 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Scoping It Out: The character can spend 1 benny to use any time during his turn. When used friendly characters in command area gain a quick action that can only be used to take cover.
 * Scorched Earth: This character gains +2 on ranged attack blast damage rolls.
 * Scrabble: This character gains an additional die on Climbing skill rolls.
-* Scrapper: Full action to turn weapon or armor into 1 scrap token. Up to 3 scrap tokens at the Hero level, 4 at the Veteran level, and 5 at the Epic level. Spend 1 scrap token to reroll a failed Craft skill roll to build or repair non-magical items.
+* Scrapper: Full action to turn weapon or armor into 1 scrap token. Up to 3 scrap tokens at the Hero level, 4 at the Veteran level, and 5 at the Legendary level. Spend 1 scrap token to reroll a failed Craft skill roll to build or repair non-magical items.
 * Scrounge: Given a day to find the parts in a town or settlement, you can find any part needed (or something close enough he can Bodge).  You can purchase steamjack parts, weapons, and gear for half price.
-* Self-Sacrifice: If friendly living char in this char's CMD suffers dam, this char can spend 1 FP to take the dam. instead. After the damage, this char regains d3 vitality if not incapacitated by the attack. See Wild Adventures p. 27.
+* Self-Sacrifice: If friendly living char in this char's command radius suffers dam, this char can spend 1 FP to take the dam. instead. After the damage, this char regains d3 vitality if not incapacitated by the attack. See Wild Adventures p. 27.
 * Sentry: Once per round when an enemy is placed in or moves into the LOS of this character, this character can immediately make one attack, targeting that enemy.
 * Serpent Strike: The character's kick unarmed melee attacks gain Reach.
 * Set Defense: When this character is armed with a weapon that has reach, an enemy in this character's front arc suffers -2 on charge, slam power attack, and impact attack rolls against him.
@@ -613,8 +1786,8 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Sniper: When this character forfeits his movement to aim during his turn, the character's first ranged attack that turn gains boosted damage.
 * Snow-Wreathed: While outdoors during his turn, this character can spend a benny to use this ability. As long as he remains outdoors, the character gains concealment for the duration of the encounter.
 * Souie!: This character can use this ability during his turn as a quick action. When he uses ability, warbeasts in his battlegroup that are outside his control area immediately make a full advance directly toward this character.
-* Soul Taker: Gain 1 soul token when a living creature destroyed in CMD area. Soul tokens can be used as Feat Points, Focus, Fury, or to reduce Fatigue Points. Can have a max of 3 at a time.
-* Soul Thief: Quick action: Try to steal a soul token from a character in CMD rng. Contested willpower roll, Fail: nothing happens, Suceed: take soul token from target. Can't have more than 3 soul tokens from ability.
+* Soul Taker: Gain 1 soul token when a living creature destroyed in command radius area. Soul tokens can be used as Feat Points, Focus, Fury, or to reduce Fatigue Points. Can have a max of 3 at a time.
+* Soul Thief: Quick action: Try to steal a soul token from a character in command radius rng. Contested willpower roll, Fail: nothing happens, Suceed: take soul token from target. Can't have more than 3 soul tokens from ability.
 * Soulstorm: While this character has one or more soul tokens, enemy characters not of the Menite faith entering or ending their turns within 2 of him immediately suffer d3 damage points.
 * Specialization: The character does not suffer attack roll penalties when attacking with a weapon of the type chosen.
 * Spirit Eater: This character can reave fury points from enemy warbeasts it destroys with a melee attack. Other characters cannot reave fury points from enemy warbeasts destroyed by this character.
