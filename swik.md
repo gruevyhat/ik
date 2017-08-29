@@ -132,23 +132,23 @@ Character receives a +1 die type to Agility and one of the following benefits.
 * Flawless Timing: Spend a benny and name an enemy.  Next time that enemy directly hits you, he misses instead.
 * Preternatural Awareness: Draw two initiative cards and take the higher; enemies never gain back strike bonuses.
 * Sidestep: When you hit with an enemy with a melee weapon, advance up to 2".  You cannot be targeted by free strikes during this move.
-* Swashbuckler: Once during each turn, spend a benny to gain 360 degree front arc and make melee attack against each target in melee range.
-* Untouchable: Spend a benny to penalize all enemy attacks by -2 for one round.
+* Swashbuckler: Once during each turn, spend a benny to make melee attack against each target in melee range.
+* Untouchable: Spend a benny to penalize all enemy attacks against you by -2 for one round.
 * Virtuoso: Choose a type of weapon.  When making a non-AOE attack with a weapon of that type, gain +1d4 to attack and damage.
 
 ### Intellectual/Cunning
 
 Character receives a +1 die type to Smarts and one of the following benefits.
 
-* Battlefield Coordinator: While in his command radius range, friendly characters do not suffer firing into melee penalties with ranged/magic and cannot hit friendly characters if they miss.
-* Genius: You gain boosted Knowledge, Repair, and Notice rolls.
-* Hyper Perception: You gain boosted PER rolls.
+* Battlefield Coordinator: While in his command radius range, friendly characters cannot hit friendly characters if they miss.
+* Genius: You gain +1d6 to Knowledge and Repair rolls.
+* Hyper Perception: You gain +1d6 to Notice and Investigation rolls.
 * Perfect Plot: Spend a benny and character's following your plans roll a d8 wild card die for the day.
 * Photographic Memory: You have photographic memory.
 * Plan of Action: At the start of combat, spend a benny to redraw an initiative card of 4 or below and gain +2 to attack rolls during the first round of combat.
 * Prescient: Spend a benny to win initiative and take the first turn.  If two or more people use this, they make initiative rolls to see which goes first.
-* Quick Thinking: Once per round, spend a benny to make one attack or quick action at the start of another character's turn.
-* Savant: Can attempt to use skills untrained at 1d4.
+* Quick Thinking: Once per round, spend a benny to make one action at the start of another character's turn.
+* Savant: Can use any Smarts skill untrained at 1d4.
 * Unconventional Warfare: Spend a benny to turn the environment against the enemy.
 
 ### Gifted
@@ -156,7 +156,7 @@ Character receives a +1 die type to Smarts and one of the following benefits.
 Character begins with the Arcane Background Edge of his/her choice and one of the following benefits.
 
 * Blood Boon: When you destroy a living character with a melee attack, you can immediately cast a spell with a power of 3 or lower. This spell does not require a quick action.
-* Combat Caster: You gain +1d4 on offensive arcane skill rolls.
+* Combat Caster: You gain +1d6 on offensive arcane skill rolls.
 * Dominator: Spend a benny during your turn to double your control area for one round.
 * Fast Caster: Gain one extra action each activation that can only be used to cast a spell.
 * Magic Sensitivity: Automatically sense when another character casts a spell within 50' per die type of Spirit.
@@ -165,7 +165,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Quick Cast: Spend a benny to immediately cast one spell at the start of combat.  Do not pay the power point cost.
 * Rune Reader: Identify any spell cast in line of sight.  Learn the type of magic cast and arcane background of the caster.
 * Strength of Will: After a failed fatigue roll, spend a benny to instead automatically succeed.
-* Warding Circle: Spend 15 minutes to create a warded circle.
+* Warding Circle: Spend 15 minutes to create a warded circle. Undead and Infernal entities may not enter the circle.
 
 
 ## Careers
@@ -197,8 +197,8 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Restrictions: Alchemist, Arcanist, Field Mechanik, Priest (Menoth),  Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Arcanist (Greylord)
 * Starting Edges: Inscribe Formulae
 * Possible Edges: 'Jack Marshall, Ace Commander, Arcane Engineer, Drive: Assault, Drive: Pronto, Inscribe Formulae, Resourceful, Steamo
-* Starting Skills: Knowledge (Gunsmithing) d6, Knowledge (Metalworking) d6, Knowledge (Mechanikal Engineering) d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Rifle] d6
-* Possible Skills: Intimidation [Command] d6, Knowledge (Any Craft) d12, Knowledge (Cryptography) d10, General Skills d12, Knowledge (Mechanikal Engineering) d12, Persuasion [Negotiation] d8, Investigation [Research] d10; Fighting [Hand Weapon] d8, Shooting [Light Artillery] d8, Shooting [Rifle] d8
+* Starting Skills: Knowledge (Gunsmithing) d6, Knowledge (Metalworking) d6, Repair [Mechanikal Engineering] d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Rifle] d6
+* Possible Skills: Intimidation [Command] d6, Knowledge (Any Craft) d12, Knowledge (Cryptography) d10, General Skills d12, Repair [Mechanikal Engineering] d12, Persuasion [Negotiation] d8, Investigation [Research] d10; Fighting [Hand Weapon] d8, Shooting [Light Artillery] d8, Shooting [Rifle] d8
 * Starting Connections: Vassals of Menoth
 * Starting Assets: rune etching kit, Vassal Armor
 * Starting Money: 50
@@ -208,8 +208,8 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Restrictions: None
 * Starting Edges: Inscribe Formulae
 * Possible Edges: 'Jack Marshall, Ace Commander, Arcane Engineer, Drive: Assault, Drive: Pronto, Inscribe Formulae, Resourceful, Steamo
-* Starting Skills: Knowledge (Gunsmithing) d6, Knowledge (Metalworking) d6, Knowledge (Mechanikal Engineering) d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Rifle] d6
-* Possible Skills: Intimidation [Command] d6, Knowledge (Any Craft) d12, Knowledge (Cryptography) d10, General Skills d12, Knowledge (Mechanikal Engineering) d12, Persuasion [Negotiation] d8, Investigation [Research] d10; Fighting [Hand Weapon] d8, Shooting [Light Artillery] d8, Shooting [Rifle] d8
+* Starting Skills: Knowledge (Gunsmithing) d6, Knowledge (Metalworking) d6, Repair [Mechanikal Engineering] d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Rifle] d6
+* Possible Skills: Intimidation [Command] d6, Knowledge (Any Craft) d12, Knowledge (Cryptography) d10, General Skills d12, Repair [Mechanikal Engineering] d12, Persuasion [Negotiation] d8, Investigation [Research] d10; Fighting [Hand Weapon] d8, Shooting [Light Artillery] d8, Shooting [Rifle] d8
 * Starting Connections: None
 * Starting Assets: rune etching kit, mechanika weapon or suit of armor worth up to 750 gc, including the housing, power source, and rune plate.
 * Starting Money: 50
@@ -412,7 +412,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Starting Assets: Ammo Bandolier, Heavy Rifle or Repeating Rifle, Powder and Ammunition for 10 shots
 * Starting Money: 50
 
-### Chieftan
+### Chieftain
 
 * Restrictions: None
 * Starting Edges: Battle Plan: Take Cover, Natural Leader, Team Leader
@@ -571,8 +571,8 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Restrictions: None
 * Starting Edges: Bodge, Hit the Deck!, Rhulic 'Jack Marshal
 * Possible Edges: 'Jack Marshall, Ace Commander, Bodge, Dodger, Drive: Ancillary Attack, Drive: Assault, Drive: Off Road, Drive: Pronto, Hit the Deck!, Iron Sentinel, Scrounge, Steamo, Tune Up
-* Starting Skills: Intimidation [Command] d6, Knowledge (Metalworking) d6, Knowledge (Mechanikal Engineering) d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
-* Possible Skills: Intimidation [Command] d10, Knowledge (Any Craft) d12, General Skills d12, Knowledge (Mechanikal Engineering) d12, Persuasion [Negotiation] d10; Fighting [Hand Weapon] d8, Shooting [Pistol] d8
+* Starting Skills: Intimidation [Command] d6, Knowledge (Metalworking) d6, Repair [Mechanikal Engineering] d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Any Craft) d12, General Skills d12, Repair [Mechanikal Engineering] d12, Persuasion [Negotiation] d10; Fighting [Hand Weapon] d8, Shooting [Pistol] d8
 * Starting Connections: None
 * Starting Assets: mechanik's tool kit, Grundback Runner light warjack (p. 66) with either a Grundback light cannon (p. 66) or a hail shot cannon (p. 67) weapon system instead of a light laborjack with up to 200 gc of weapons
 * Starting Money: 25
@@ -582,8 +582,8 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Restrictions: None
 * Starting Edges: 'Jack Marshall, Bodge, Hit the Deck!
 * Possible Edges: 'Jack Marshall, Ace Commander, Bodge, Dodger, Drive: Ancillary Attack, Drive: Assault, Drive: Off Road, Drive: Pronto, Hit the Deck!, Iron Sentinel, Scrounge, Steamo, Tune Up
-* Starting Skills: Intimidation [Command] d6, Knowledge (Metalworking) d6, Knowledge (Mechanikal Engineering) d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
-* Possible Skills: Intimidation [Command] d10, Knowledge (Any Craft) d12, General Skills d12, Knowledge (Mechanikal Engineering) d12, Persuasion [Negotiation] d10; Fighting [Hand Weapon] d8, Shooting [Pistol] d8
+* Starting Skills: Intimidation [Command] d6, Knowledge (Metalworking) d6, Repair [Mechanikal Engineering] d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
+* Possible Skills: Intimidation [Command] d10, Knowledge (Any Craft) d12, General Skills d12, Repair [Mechanikal Engineering] d12, Persuasion [Negotiation] d10; Fighting [Hand Weapon] d8, Shooting [Pistol] d8
 * Starting Connections: None
 * Starting Assets: mechanik's tool kit, light laborjack with up to 200 gc of weapons
 * Starting Money: 25
@@ -1516,113 +1516,123 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 
 * Camouflage: Gain +2 Parry when benefiting from concealment/cover.
 * Card Sharp: Add +1d4 extra die to your Gambling rolls.  Difficulty of the Notice skill roll to notice the cheating is the cheating character's Gambling skill.
-
-================
-
-* Careful Practitioner: When this character would suffer damage due to a failed ritual, this character suffers a damage roll with half the normal POW instead.
-* Cautious Advance: The character gains one extra quick action each turn that can be used only to Take Cover.
+* Careful Practitioner: When this character would suffer damage due to a failed ritual, this character suffers a damage roll with half the normal damage instead.
+* Cautious Advance: The character gains one extra 2" move each turn that can be used only to Take Cover.
 * Cautious Trapper: If this character fails to disarm a trap, it does not cause the trap to trigger.
-* Cavalry Charge: This character can make cavalry charges (p. 214) while riding a mount designated as a warhorse or battle mount.
-* Cavalry Fighter: After making a ranged attack, this character can draw a melee weapon without spending a quick action. After making a melee attack, he can sheath his melee weapon without spending a quick action.
-* Chain Attack (Bleed Out): If fighting with 2 hand weapons and hit living target with both initial attacks, after resolving, make one additional attack.  If hits, no damage but the target must forfeit either its movement or action.
-* Chain Attack (Body Slam): If first two char melee unarmed attacks hit, make an additional melee attack. If third attack hits it causes a slam, if larger base suffers -2. POW of slam for collateral damage is equal to char Strength.
+* Cavalry Charge: This character can make mounted charges while riding a mount designated as a warhorse or battle mount.
+* Cavalry Fighter: After making a ranged attack, this character can draw a melee weapon without spending an action. After making a melee attack, he can sheath his melee weapon without spending an action.
+* Chain Attack (Bleed Out): If fighting with 2 hand weapons and hit living target with both initial attacks, after resolving, make one additional attack.  If hits, no damage but the target must forfeit either its movement or an action.
+* Chain Attack (Body Slam): If first two char melee unarmed attacks hit, make an additional melee attack. If third attack hits it slams the opponent back 1d6" and does collateral damage is equal to char Strength.
 * Chain Attack (Pin Down): If you hit a living target with initial attacks from 2 pistols, after resolving make additional ranged attack against target.  If hits, no damage.  Instead, target can advance up to 2" and is knocked down.
 * Chain Attack (Smite): If first two char melee hand weapon attacks hit, make an additional melee attack. If third attack hits it causes a slam, if larger base suffers -2. POW of slam for collateral damage is equal to char Strength + POW of weapon.
-* Charmer: When a friendly warbeast frenzies in this character's command range, this character can choose to have the warbeast forfeit its turn instead.
-* Choir: A character gains a cumulative +1 on magic attack rolls for each other character of his faith with this ability within 1" of him.
-* Circular Vision: This character's front arc extends to 360'.
+
+// * Charmer: When a friendly warbeast frenzies in this character's command range, this character can choose to have the warbeast forfeit its turn instead.
+
+* Choir: A character gains a cumulative +1 on magic attack rolls (limit +4) for each other character of his faith with this ability within 1" of him.
+* Circular Vision: This character cannot be taken unawares by attacks from the rear.
 * Cleave: When you incapacitate one or more enemies with melee attack with a Great Weapon, make one additional melee attack after attack is resolved.  You can make only one additional attack each turn.  
 * Clockwork Transcendence: The characters essence is placed in a clockwork priest vessel.
-* Close Shot: The character does not suffer a –4 penalty on ranged attack rolls with a storm glaive while engaged
-* Cold Steel: When this character hits an enemy with a melee attack with an empowered weapon, he can spend a benny to cause that character to become stationary for one round. Characters with Immunity: Cold are not affected by Cold Steel.
-* Combat Rider: While you are riding a mount designated as a warhorse or battle mount, the mount can make one attack against a target in it's melee range if the mount and rider did not charge this turn.
-* Communion: Once per turn, char can use quick action to spend up to 3 soul tokens to give to a friendly steamjack within 5. Steamjack can spend these tokens as if they were focus points and were controlled by a focuser.
-* Conjoined: When this character becomes exhausted, his turn does not immediately end, but he still cannot cast spells next round.
+
+// * Close Shot: The character does not suffer a –4 penalty on ranged attack rolls with a storm glaive while engaged.
+
+* Cold Steel: When this character hits an enemy with a melee attack with an empowered weapon, he can spend a benny to cause that character to lose its next move. Characters with Immunity: Cold are not affected by Cold Steel.
+* Combat Rider: While you are riding a mount designated as a warhorse or battle mount, the mount can make one attack against a target in its melee range if the mount and rider did not charge this turn.
+
+// * Communion: Once per turn, char can use quick action to spend up to 3 soul tokens to give to a friendly steamjack within 5. Steamjack can spend these tokens as if they were focus points and were controlled by a focuser.
+
+// * Conjoined: When this character becomes exhausted, his turn does not immediately end, but he still cannot cast spells next round.
+
 * Conniver: The character can reroll failed Bribery and Deception-based rolls.  Each roll can be rerolled only once with Conniver.
-* Consume Essense: Instead of ingesting heart tokens normally, the character can ritually consume a heart token for a full action. When she does so, the character gains +1 Vigor, SPD, or Strength for one hour. A character can be affected by only one bonus due to Consume Essence at any time.
+* Consume Essense: The character can ritually consume the heart of an enemy as a full round action. When she does so, the character gains +1 Vigor, Pace, or Strength for one hour. A character can be affected by only one bonus due to Consume Essence at any time.
 * Convergence Warcaster: The character can bond to vectors. Faith prohibits bonding to steamjacks.
-* Corruptor: Gain a benny for corrupting another character. GM determines what counts as corruption. See pg 68 Urban Adventures for full rules.
-* Counter Offer: Character can reroll Negotiation rolls, whether failed or not. Can only reroll once as a result of Counter Offer
-* Coven Leader: When this character makes an ARC + Lore skill roll to perform a ritual, the maximum bonus he may gain from employing assistants is equal to twice his ARC.
-* Cover Identity: You have an established a cover identity with its own history, contacts and criminal record (or lack thereof).  See pg. 159 for details.
+* Corruptor: Gain a benny for corrupting another character. GM determines what counts as corruption. 
+* Counter Offer: Character can reroll Negotiation rolls, whether failed or not. Can only reroll once as a result of Counter Offer.
+* Coven Leader: When this character makes a skill roll to perform a ritual, the maximum bonus he may gain from employing assistants is equal to twice his Spirit.
+* Cover Identity: You have an established a cover identity with its own history, contacts and criminal record (or lack thereof). 
 * Crackshot: When making a ranged or magic attack against a target that has concealment, cover, or elevation, this character gains +2 on the attack rolls.
-* Craft Rune Shot: The character can craft his own rune shot ammunition. See page 160.
-* Croaker: This character can spend a quick action to unleash a powerful croak. This sound can be heard for up to one mile.
-* Crossbowman: The character can reload a Crossbow as a quick action instead of a full action.
-* Dark Scribe: Can create thralls in half the time
-* Deadly Skill: A character that is damaged by an attack made by this character loses Tough, cannot heal or be healed, and cannot transfer damage for one round.
-* Death Mastery: If a living char is destroyed in this character's CTRL, this char can immediately spend a benny to animate it. Destroyed char permanently becomes a swamp shambler (p. 402) under this char's control. See p. 158 Unleashed.
+* Craft Rune Shot: The character can craft his own rune shot ammunition. 
+* Croaker: This character can spend an action to unleash a powerful croak. This sound can be heard for up to one mile.
+* Crossbowman: The character can reload a Crossbow as an action instead of a full round action.
+* Dark Scribe: Can create thralls in half the time.
+* Deadly Skill: A character that is damaged by an attack made by this character loses Tough and cannot heal or be healed for one round.
+* Death Mastery: If a living char is destroyed in this character's command radius, this char can immediately spend a benny to animate it. Destroyed char permanently becomes a swamp shambler under this char's control.
 * Defender: Once per round, when a friendly within your command radius is hit with an enemy attack, immediately after the attack is resolved you can advance toward the enemy character, up to 2" and make a melee attack.
 * Defensive Line: While this character is B2B with one more friendly characters, he gains +1 Toughness.  While the character is B2B with one or more friendly character who also have the ability, the bonus increases to +2.
-* Demolish: This character gains boosted damage rolls against constructs and structures. At the Veteran level, this character gains an additional die on damage rolls against constructs and structures instead of boosted rolls.
-* Dhunia's Strike: Quick action to pray to Dhunia. The next melee attack made by this character this turn is considered to be made with a magical weapon, and  can reroll the damage roll. Damage can be rerolled only once as a result of this ability.
-* Dig In: While having spade in hand: Quick Action to dig fox hole.  Until you move, are placed, go prone, or engaged, you gain cover, do not suffer Blast damage, and do not block LOS.  Cannot use when running.
-* Disease Resistance: The character can make boosted rolls to resist disease and infection.
-* Dismember: When this character hits a living animal or beast native to the wilds of Immoren with a melee attack, he gains an additional damage die.
+* Demolish: This character gains +1d6 to damage rolls against constructs and structures. At the Veteran level, this character gains an additional die on damage rolls against constructs and structures instead of boosted rolls.
+* Dhunia's Strike: Free action to pray to Dhunia. The next melee attack made by this character this turn is considered to be made with a magical weapon, and  can reroll the damage roll. Damage can be rerolled only once as a result of this ability.
+* Dig In: While having spade in hand: Action to dig fox hole.  Until you move, are placed, go prone, or engaged, you gain cover, do not suffer area effect damage, and do not block LOS.  Cannot use when running.
+* Disease Resistance: The character gains +1d6 on rolls to resist disease and infection.
+* Dismember: When this character hits a living animal or beast native to the wilds of Immoren with a melee attack, he gains +1d6 to damage.
 * Dispel: When this character hits an enemy with a melee attack, he can spend 1 benny to cause any upkeep spells on that enemy to immediately expire.
 * Divine Fortitude: The character can wear Bastion plate armor.
 * Divine Might: The character can wield two relic blades at a time.
 * Dodger: When you are missed by an enemy attack, immediately advance 2" after the attack is resolved unless you were missed while advancing.  You cannot be targeted by free strikes during this movement.
-* Dominating Presence: The character can reroll failed Social rolls. Each failed roll can be rerolled only once as a result of Dominating Presence.
-* Double Powder Ration: When loaded a double powder ration is fired, the Effective range is increased by 24ft (4) and Extreme range 120ft (20). Can not be used with cartridges.
-* Drive: Ancillary Attack: Quick Action to use on steamjack you control.  The steamjack immediately makes one normal melee or ranged attack.
-* Drive: Assault: Quick Action to use on steamjack you control.  'jack charges without spending focus/being forced.  As part of charge, after moving but before making charge attack, can make one ranged attack.
-* Drive: Off Road,Quick Action to use on steamjack you control.  'jack gains the Pathfinder ability and must use its normal movement and combat action to charge or make a Slam power attack during its turn this round.
-* Drive: Pronto,Quick Action to use on steamjack you control.  'jack immediately makes a full advance.
+* Dominating Presence: The character can reroll failed Persuasion and Intimidation rolls. Each failed roll can be rerolled only once as a result of Dominating Presence.
+* Double Powder Ration: When loaded a double powder ration is fired, range is multiplied by 1.5. Can not be used with cartridges.
+* Drive: Ancillary Attack: One Action to use on steamjack you control.  The steamjack immediately makes one normal melee or ranged attack.
+* Drive: Assault: One Action to use on steamjack you control.  'jack charges without spending focus/being forced.  As part of charge, after moving but before making charge attack, can make one ranged attack.
+* Drive: Off Road. One Action to use on steamjack you control.  'jack gains the Pathfinder ability and must use its normal movement and combat action to charge or make a slam attack during its turn this round, knocking the opponent back 1d6" and doing Strength collateral damage.
+* Drive: Pronto. One Action to use on steamjack you control.  'jack immediately makes a full move.
 * Dual Fighter: The character can fight with a great weapon in each hand. The character gains an additional attack for the second weapon. He suffers –2 on attack rolls with the second weapon during this attack.
 * Dual Shot: You can forfeit your movement during your turn to make one additional ranged attack with a pistol or rifle.
-* Dual Shot (Archery): You can forfeit your movement during your turn to make one additional ranged attack with a bow.
-* Dual Shot (Crossbow): You can forfeit your movement during your turn to make one additional ranged attack with a crossbow.
-* Dual Shot (Rifle): You can forfeit your movement during your turn to make one additional ranged attack with a rifle.
-* Earth Magic: When a wold warbeast in this character's battlegroup is forced to use its animus while in this character's control range, reduce the COST of the animus by 1.
-* Electromancer: The character's Stormsmithing lightning strike damage rolls are boosted.
-* Elemental Mastery: You gain +1 on your attack and damage rolls when casting an offensive spell from your elemental spell list.
-* Empower: During your turn, while you are B2B with a non-incapacitated friendly character, you can spend 1 benny to cause the friendly character to regain d3+1 vitality points.
-* Empower Weapon: The character can empower a non-mechanikal melee weapon with his arcane energy. The empowered weapon is considered to be a magical weapon while the character is armed with it. See p. 159 Unleashed.
-* Enigma Cipher: Gain a benny for solving a puzzle, riddle, or other complex problem. GM determines what counts
-* Evasive Rider: While mounted, when you are missed by an enemy attack, you can immediately advance up to 2˝ after the attack is resolved unless you were missed while advancing. You cannot be targeted by free strikes during this movement.
+* Dual Shot (Ranged Weapon): You can forfeit your movement during your turn to make one additional ranged attack with a ranged weapon at no penalty.
+
+// * Earth Magic: When a wold warbeast in this character's battlegroup is forced to use its animus while in this character's control range, reduce the COST of the animus by 1.
+
+* Electromancer: The character's Stormsmithing lightning strike damage rolls gain +1d6.
+* Elemental Mastery: You gain +1 on your attack and damage rolls when casting an offensive spell with an elemental trapping.
+* Empower: During your turn, while you are B2B with a non-incapacitated friendly character, you can spend 1 benny to cause the friendly character to remove one wound level.
+* Empower Weapon: The character can empower a non-mechanikal melee weapon with his arcane energy. The empowered weapon is considered to be a magical weapon while the character is armed with it. 
+* Enigma Cipher: Gain a benny for solving a puzzle, riddle, or other complex problem. GM determines what counts.
+* Evasive Rider: While mounted, when you are missed by an enemy attack, you can immediately advance up to 2" after the attack is resolved unless you were missed while moving. You cannot be targeted by free strikes during this movement.
 * Expert Rider: You can reroll failed riding rolls. Each roll can be rerolled only once.  Additionally, as long as the mount is not knocked out you and your mount cannot be knocked down while you are mounted.
-* Exterminator: When this character hits a living animal or beast native to the wilds of Immoren with a non-AOE ranged attack during a turn he forfeited his movement to aim, he gains +2 to his damage roll.
-* Eye of the Storm: The character's command over elements is such that he can now protect those around him from the fury of the storm. While operating a stormcaller and lightning rod, this character and friendly characters in his command range gain Immunity: Electicity
+* Exterminator: When this character hits a living animal or beast native to the wilds of Immoren with a non-AOE ranged attack during a turn he forfeited his movement to aim, he gains +1d6 to his damage roll.
+* Eye of the Storm: The character's command over elements is such that he can now protect those around him from the fury of the storm. While operating a stormcaller and lightning rod, this character and friendly characters in his command range gain Immunity: Electicity.
 * Fabricator: Reroll failed Mechanikal Engineering rolls to repair or dismantle steam-powered armor. Each roll can be rerolled only once as a result of Fabricator. Additionally, her armor regains an additional point when she repairs damage.
-* Fall Back: At the end of this character's turn, if he destroyed one or more enemies with ranged attacks that turn he can make a full advance.
-* Fall's Shielding Wind: Once per round, when a friendly char takes damage from a ranged or magic attack while in command radius, this char can spend 1 FP to reduce the damage by half, rounded up. The FP is spent after the damage roll has been made.
+* Fall Back: At the end of this character's turn, if he destroyed one or more enemies with ranged attacks that turn he can make an additional move.
+* Fall's Shielding Wind: Once per round, when a friendly char takes damage from a ranged or magic attack while in command radius, this char can spend 1 benny to reduce the damage by half, rounded up. The benny is spent after the damage roll has been made.
 * Fast Cook: You can create alchemical items in half the normal time.
-* Fast Draw: +2 Initiative.  Gain Additional Quick Action on first round of combat each encounter, used only to draw weapon.
-* Fast Rearm: You gain one extra Quick Action each turn that can be used only to rearm a weapon of the type noted.  
-* Fast Reload: You gain one extra Quick Action each turn that can be used only to reload a ranged weapon.
-* Fate Blessed: When a friendly character makes an attack or damage roll during his turn while in your control area, you can gain 1 fatigue point or spend 1 fury point to allow the friendly character to reroll that roll. Each roll can be rerolled only once due to Fate Blessed.
-* Fearless: The character is utterly fearless and automatically passes Willpower rolls to resist Terror.
-* Fearsome Howl: Once per turn, character can spend quick action to unleash a terrifying howl. That turn he gains Terror [This Char's willpower +6]
-* Feat of Regeneration: Available to any Trollkin character. The character regains a limb or eye lost as a result of using the Injury Table (p. 217). If the character is suffering from Slow Recovery at the time he gains this ability, the lost eye or limb returns once he has regained all his lost vitality.
-* Fell Call (Cacophony): Quick Action.  For one Round, enemies cannot cast spells, use battle plans, or use drives while within this character's command range.
-* Fell Call (Call of Defiance): Quick Action.  For one round, when a friendly Trollkin character makes a Tough roll while in this character's command range, on a roll of 4, 5, or 6 the Trollkin heals 1 vitality point and is knocked down.
+* Fast Draw: Redraw if you draw an initiative card of 4 or lower once per turn.  Gain Additional Action on first round of combat each encounter, used only to draw weapon.
+* Fast Rearm: You gain one extra Action each turn that can be used only to rearm a weapon of the type noted.  
+* Fast Reload: You gain one extra Action each turn that can be used only to reload a ranged weapon.
+
+// * Fate Blessed: When a friendly character makes an attack or damage roll during his turn while in your control area, you can gain 1 fatigue point or spend 1 fury point to allow the friendly character to reroll that roll. Each roll can be rerolled only once due to Fate Blessed.
+
+* Fearless: The character is utterly fearless and automatically passes Spirit rolls to resist Terror.
+* Fearsome Howl: Once per turn, character can spend quick action to unleash a terrifying howl. Opponents must make a terror check at -4.
+* Feat of Regeneration: Available to any Trollkin character. The character regains a limb or eye lost as a result of using the Injury Table. 
+* Fell Call (Cacophony): One Action. For one Round, enemies cannot cast spells, use battle plans, or use drives while within this character's command range.
+* Fell Call (Call of Defiance): One Action.  For one round, when a friendly Trollkin character makes a Tough roll while in this character's command range, on a roll of 4, 5, or 6 the Trollkin heals 1 vitality point and is knocked down.
 * Fell Call (Ground Shaker): Once per turn, this character can use this call instead of attacking.  The character then makes a RNG 10, AOE 5 fell call ranged attack that causes no damage. Targets hit are knocked down.
-* Fell Call (Heroic Ballad): Quick Action.  For the rest of the round, while in the fell caller's command range, friendly Trollkin characters are fearless and gain +2 to melee attack rolls. Heroic Ballad lasts for one round.
-* Fell Call (Reverberation,Quick Action.  Make a RNG SP 6 ranged attack that causes no damage.  Use your POI+Fell Calling skill for attack rolls.  Enemies hit are pushed d3" directly away.  Move the enemy farthest away first.)
-* Fell Call (Signal Call,Quick Action.  You can unleash a call that can be heard for a number of miles equal to his Fell Calling skill.)
-* Fell Call (Sonic Blast): Once per turn, you can use this call instead of attacking.  You make a RNG SP 8, POW 12 ranged attack.  Use your POI+ Fell Calling skill for the attack roll.
-* Field Alchemist: You gain one extra Quick Action each turn that can be used only to create a field alchemy quick effect.
-* Field Marshal (Celestial Harmony): Spend a focus point. For one round, can channel spells through vectors in your battlegroup in your contol area.
-* Field Marshal (Counter Charge): Spend a fury point. Characters in the warlock's battlegroup currently in his control area gain Counter Charge for one round. (When an enemy advances and ends its movement within 6˝ of a character with Counter Charge and in his LOS, the character with Counter Charge can immediately charge the enemy. If he does, he cannot make another counter charge until after your next turn. A character cannot make a counter charge while engaged.)
-* Field Marshal (Hog Wild): Spend a fury point during her Control Phase. Characters in the warlock's battlegroup that are currently in his control area can immediately make one ranged attack. Characters that make this ranged attack can make only melee attacks during their activations this turn.
-* Field Marshal (Magical Attack): Spend a focus/fury point.  For one round, the weapons of characters in his battlegroup become magical weapons while in the warcaster's control area.
-* Field Marshal (Poltergeist): Spend a fury point. Characters in the warlock's battlegroup that are currently in his control area gain Poltergeist for one round. (When an enemy misses a character with Poltergeist with an attack, immediately after the attack is resolved the spellcaster can choose to push the enemy d3˝ directly away from the character.)
-* Field Marshal (Regenerate): Spend a fury point during her Control Phase. Characters in the warlock's battlegroup that are currently in his control area regain d3 vitality points.
-* Field Marshal (Relentless Charge): Spend a focus point.  For a round, when a character in battlegroup begins a charge in control area, character gains the Relentless Charge ability.
-* Field Marshal (Shield Guard): Spend a focus point.  For one round, characters in his battlegroup gain the Shield Guard ability while in the warcaster's control area. 
-* Field Marshal (Unyielding): Spend a fury point during her Control Phase. Characters in the warlock's battlegroup gain Unyielding while they are in his control area. (While engaging an enemy, a character with Unyielding gains +2 Toughness.)
-* Find Cover: At the start of combat before Initiative is rolled, this character can immediately advance up to 2" and perform a Quick Action to take cover or go prone.
-* Finisher: This character can spend a benny to boost a damage roll against a damaged target.
-* Fire in the Hole!: You can make a Grenade attack at the start of the Action Phase of your turn before moving or making normal attacks.  You must then use your movement to run or make a full advance.
-* Fist of God: The character's unarmed melee combat attacks are magical. Additionally, the character gains an additional die on unarmed melee attack damage rolls against structures.
-* Flash Thief: The Character gains a benny when he successfully picks a pocket using the Pick Pocket Skill
-* Fleet Foot: When this character runs, he moves at SPD x 3.
-* Flesh of Steel: While unarmored, double this characters Vigor when determining his Toughness. This ability has no effect while this character is wearing armor.
+* Fell Call (Heroic Ballad): One Action.  For the rest of the round, while in the fell caller's command range, friendly Trollkin characters are fearless and gain +2 to melee attack rolls. Heroic Ballad lasts for one round.
+* Fell Call (Reverberation): One Action.  Make a range 6" cone attack that causes no damage.  Use your Agility+Knowledge (Fell Calling) skill for attack rolls.  Enemies hit are pushed d3" directly away.  Move the enemy farthest away first.
+* Fell Call (Signal Call): One Action.  You can unleash a call that can be heard for a number of miles equal to his Fell Calling skill.
+* Fell Call (Sonic Blast): Once per turn, you can use this call instead of attacking.  You make a range 8" spray attack, damage d12.  Use your Agility+Fell Calling skill for the attack roll.
+* Field Alchemist: You gain one extra Action each turn that can be used only to create a field alchemy quick effect.
+
+// * Field Marshal (Celestial Harmony): Spend a focus point. For one round, can channel spells through vectors in your battlegroup in your contol area.
+// * Field Marshal (Counter Charge): Spend a fury point. Characters in the warlock's battlegroup currently in his control area gain Counter Charge for one round. (When an enemy advances and ends its movement within 6˝ of a character with Counter Charge and in his LOS, the character with Counter Charge can immediately charge the enemy. If he does, he cannot make another counter charge until after your next turn. A character cannot make a counter charge while engaged.)
+// * Field Marshal (Hog Wild): Spend a fury point during her Control Phase. Characters in the warlock's battlegroup that are currently in his control area can immediately make one ranged attack. Characters that make this ranged attack can make only melee attacks during their activations this turn.
+// * Field Marshal (Magical Attack): Spend a focus/fury point.  For one round, the weapons of characters in his battlegroup become magical weapons while in the warcaster's control area.
+// * Field Marshal (Poltergeist): Spend a fury point. Characters in the warlock's battlegroup that are currently in his control area gain Poltergeist for one round. (When an enemy misses a character with Poltergeist with an attack, immediately after the attack is resolved the spellcaster can choose to push the enemy d3˝ directly away from the character.)
+// * Field Marshal (Regenerate): Spend a fury point during her Control Phase. Characters in the warlock's battlegroup that are currently in his control area regain d3 vitality points.
+// * Field Marshal (Relentless Charge): Spend a focus point.  For a round, when a character in battlegroup begins a charge in control area, character gains the Relentless Charge ability.
+// * Field Marshal (Shield Guard): Spend a focus point.  For one round, characters in his battlegroup gain the Shield Guard ability while in the warcaster's control area. 
+// * Field Marshal (Unyielding): Spend a fury point during her Control Phase. Characters in the warlock's battlegroup gain Unyielding while they are in his control area. (While engaging an enemy, a character with Unyielding gains +2 Toughness.)
+
+* Find Cover: At the start of combat before Initiative is rolled, this character can immediately advance up to 2" and perform an Action to take cover or go prone.
+* Finisher: This character can spend a benny to add +1d6 a damage roll against a damaged target.
+* Fire in the Hole!: You can make a Grenade attack at the start of your turn before moving or making normal attacks.  You must then use your movement to run or make a full move.
+* Fist of God: The character's unarmed melee combat attacks are magical. Additionally, the character gains an additional +1d6 on unarmed melee attack damage rolls against structures.
+* Flash Thief: The Character gains a benny when he successfully picks a pocket using the Pick Pocket Skill.
+* Fleet Foot: When this character runs, he moves at Pace x 3.
+* Flesh of Steel: While unarmored, use this character's full Vigor when determining his Toughness. This ability has no effect while this character is wearing armor.
 * Flying Fists: While fighting unarmed or with a one handed weapon in the other hand, the character gains an additional punch unarmed melee attack with his other hand.
-* Follow Up: Requires Bull Rush. When this Character slams an enemy while mounted, imediately after the slam is resolved this character can advance directly toward slammed char up to distance slammed
-* Forager: When this character makes a Survival skill roll to find food, he can treat any result worse than “No provisions" as “No provisions."
-* Free Style: You can improvise the ingredients of your alchemical compounds.  See page 163.
+
+// * Follow Up: Requires Bull Rush. When this Character slams an enemy while mounted, immediately after the slam is resolved this character can advance directly toward slammed char up to distance slammed.
+
+* Forager: When this character makes a Survival skill roll to find food, he can treat any result worse than "No provisions" as "No provisions."
+* Free Style: You can improvise the ingredients of your alchemical compounds. 
 * Gang: With a melee attack that targets an enemy model in the melee range of another friendly, gain +1 to melee attack and damage rolls.  If one or more of those friendlies also has gang, increase to +2.
 * Gatekeeper: Enemy characters cannot gain soul tokens from characters destroyed in this character's command range.
 * Genius: You gain boosted Smarts rolls.
@@ -1630,6 +1640,9 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Ghost Shield: Gain +1 Toughness for earch soul token you currently have.
 * Ghost Sight: This character does not require LOS in order to target friendly characters with spells. This character ignores LOS when making magic attacks. This character ignores concealment and cover when resolving ranged attacks.
 * Gift of the Beast: During this character's first turn of a combat encounter, he can choose one of the following Mighty archetype benefits: Beat Back, Bounding Leap, Counter Charge, or Tough. The character gets that benefit for the duration of the encounter.
+
+=====
+
 * Girded: While armed with a shield, this character does not suffer Blast damage.  Friendly character in B2B with him do not suffer Blast damage either.
 * Go to Ground: This character can perform a quick action to make the most of any terrain around him, no matter how seemingly sparse. Until he moves, is placed, goes prone, or is engaged, the character gains cover, does not suffer blast damage, and does not block LOS. A character cannot use the Go to Ground ability during a turn he ran.
 * Goad: When a warbeast in this character's battlegroup destroys one or more enemy characters with a melee attack during its activation, immediately after the attack is resolved this character can force the warbeast to advance up to twelve feet (2˝).
