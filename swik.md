@@ -1413,8 +1413,8 @@ New characters use the normal SW attributes. Existing characters can be converte
 * Speed => Pace
 * Strength ==round up to nearest even number==> Strength die type
 * max(Agility, Prowess, Poise) ==round up to nearest even number==> Agility die type
-* Intellect ==round up to nearest even number==> Smarts die type
-* max(Arcane, Perception) ==round up to nearest even number==> Spirit die type
+* max(Intellect, Perception) ==round up to nearest even number==> Smarts die type
+* max(Arcane, 4) ==round up to nearest even number==> Spirit die type
 
 
 ### Skills
@@ -1640,135 +1640,142 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Ghost Shield: Gain +1 Toughness for earch soul token you currently have.
 * Ghost Sight: This character does not require LOS in order to target friendly characters with spells. This character ignores LOS when making magic attacks. This character ignores concealment and cover when resolving ranged attacks.
 * Gift of the Beast: During this character's first turn of a combat encounter, he can choose one of the following Mighty archetype benefits: Beat Back, Bounding Leap, Counter Charge, or Tough. The character gets that benefit for the duration of the encounter.
+* Girded: While armed with a shield, this character does not suffer area of effect damage.  Friendly character in B2B with him do not suffer area of effect damage either.
+* Go to Ground: This character can perform a quick action to make the most of any terrain around him, no matter how seemingly sparse. Until he moves, ismoved, goes prone, or is engaged, the character gains cover, does not suffer area of effect damage, and does not block LOS. A character cannot use the Go to Ground ability during a turn he ran.
 
-=====
+// * Goad: When a warbeast in this character's battlegroup destroys one or more enemy characters with a melee attack during its activation, immediately after the attack is resolved this character can force the warbeast to advance up to twelve feet (2").
 
-* Girded: While armed with a shield, this character does not suffer Blast damage.  Friendly character in B2B with him do not suffer Blast damage either.
-* Go to Ground: This character can perform a quick action to make the most of any terrain around him, no matter how seemingly sparse. Until he moves, is placed, goes prone, or is engaged, the character gains cover, does not suffer blast damage, and does not block LOS. A character cannot use the Go to Ground ability during a turn he ran.
-* Goad: When a warbeast in this character's battlegroup destroys one or more enemy characters with a melee attack during its activation, immediately after the attack is resolved this character can force the warbeast to advance up to twelve feet (2˝).
 * Good Breeding: This character can reroll failed Etiquette rolls.  Each roll can be rerolled only once due to Good Breeding.
-* Grappler: An Opponent trying to break free of a grapple performed by this character suffers a -2 penalty to the roll. Also, this character does not sufffer the DEF penalty while grappling.
-* Grave Man: Gain additional die on social rolls against undead. Discard the lowest die in each roll.
-* Great Power: This character can upkeep one spell each turn without spending a focus or fury point or gaining a Fatigue point.
-* Grenadier: The character gains an additional Quick Action each turn that can only be used to pull the pin on a grenade.
-* Gunfighter: The character does not suffer a -4 penalty to ranged attack rolls with a pistol or carbine while engaged.
-* Gunner: Reduce the character's SPD and DEF penalties from carrying a slugger by 1. The character can fire a slugger from a standing position while carrying it, without the aid of a tripod or swivel mount. Cannot use Burst Fire and move.
+* Grappler: An Opponent trying to break free of a grapple performed by this character suffers a -2 penalty to the roll. 
+* Grave Man: Gain +1d4 on social rolls against undead. 
+* Great Power: This character can upkeep one spell each turn without spending a power point or suffering a casting penalty.
+* Grenadier: The character gains an additional Action each turn that can only be used to pull the pin on a grenade.
+
+// * Gunfighter: The character does not suffer a -4 penalty to ranged attack rolls with a pistol or carbine while engaged.
+
+* Gunner: Reduce the character's Pace and Parry penalties from carrying a slugger by 1. The character can fire a slugger from a standing position while carrying it, without the aid of a tripod or swivel mount.
 * Hack: This character gains +2 to damage rolls against knocked down targets.
 * Hard: This character does not suffer damage or effects from impact attacks or collateral damage.
-* Hardended Strike: The character's kick and punch unarmed melee attack damage rolls are automatically boosted. At Veteran level, the characater gains an additional die to kick & punch unarmed melee attack damage rolls instead of automatically boosting them.
-* Harry: When an enemy character damaged by this character with a ranged or melee attack advances during the enemy character's activation, this character can advance up to eighteen feet (3″).
-* Haruspex: Can see glimpse of the future in the entrails of freshly killed animals. See Pg 68 of Urban Adventures or p.162 of Unleashed for full rules.
-* Head-Butt: Instead of making a normal Unarmed Combat attack, this character can spend a benny to make a Head Butt attack.  See p. 164 for more details.
-* Heart Eater: When this character destroys a living character with a melee attack, he can immediately spend a quick action to rip out its heart. He can eat a heart as a quick action to boost his next melee attack or melee damage roll or to make an additional melee attack. Hearts spoil after one hour and lose all potency.
-* Heave-Ho: Instead of making a normal Unarmed Combat attack, this character can spend a benny to throw a smaller character as an attack.  See p. 11 of Urban Adventure Guide for more details.
-* Hidden Traps,Other characters never gain bonuses on Notice skill rolls to spot traps set by this character.
-* Hit 'em Low: When a friendly character hits a living or undead enemy character while the enemy is B2B with this character, the enemy character is Knocked Down.
-* Hit the Deck!: While prone,you do not suffer damage from AOE's unless you is directly hit by the AOE.  If you are caught in an AOE that did not directly hit you, you go prone but suffer no damage.
-* Hulking Presence: Add an extra die to Intimidation skill rolls made using Vigor
+* Hardened Strike: The character's kick and punch unarmed melee attack damage rolls gain +1d6. At Veteran level, the characater gains a +1d10 instead.
+* Harry: When an enemy character damaged by this character with a ranged or melee attack advances during the enemy character's activation, this character gains a free move of up to eighteen feet (3″).
+* Haruspex: Can see glimpse of the future in the entrails of freshly killed animals. 
+* Head-Butt: Instead of making a normal Unarmed Combat attack, this character can spend a benny to make a Head Butt attack.  
+* Heart Eater: When this character destroys a living character with a melee attack, he can immediately spend an action to rip out its heart. He can eat a heart as a quick action to gain +1d6 on his next melee attack or melee damage roll or to make an additional melee attack. Hearts spoil after one hour and lose all potency.
+* Heave-Ho: Instead of making a normal Unarmed Combat attack, this character can spend a benny to throw a smaller character as an attack. 
+* Hidden Traps: Other characters never gain bonuses on Notice skill rolls to spot traps set by this character.
+* Hit 'em Low: When a friendly character hits a living or undead enemy character while the enemy is B2B with this character, the enemy character is knocked down and must spend his next move standing up.
+* Hit the Deck!: While prone, you do not suffer damage from AOE's.  If you are caught in an AOE, you go prone but suffer no damage.
+* Hulking Presence: Add 1d6 to Intimidation skill rolls.
 * Hunter: This character ignores forests, concealment, and cover when determining LOS or making a ranged attack.
 * Hunting Ground: Choose an environment type (desert, forest, mountain, swamp) when you select this ability. This character gains +2 to Stealth and Tracking skill rolls while in the selected environment. This ability can be taken more than once. Each time this ability is selected, choose a new environment type.
-* Hunting Howl: Once during each of his turns, this character can spend a quick action to unleash a terrifying howl. For the rest of his turn, he gains Terror [Willpower +2].
-* Hyper Aggressive: When this character suffers damage from an enemy attack at any time except while he is advancing, after the attack is resolved he can immediately make a full advance directly toward the attacking character.
+* Hunting Howl: Once during each of his turns, this character can spend a quick action to unleash a terrifying howl. Enemies in audible range must make a terror check at -2.
+* Hyper Aggressive: When this character suffers damage from an enemy attack at any time except while he is moving, after the attack is resolved he can immediately make a full move directly toward the attacking character.
 * Hyper Awareness: While in this character's command range, friendly characters gain Circular Vision.
-* Hyper Perception: Investigators gain this Archetype Benefit:You gain boosted PER rolls.
-* Hyper Regeneration: Remove d3 damage points from this character at the start of his Activation Phase. Additionally, this character regains d3 vitality points per hour in addition to normal healing.
-* Imbue Weapon: Can Imbue a non-mechanikal weapon with arcane energy. Weapon is considered Magical and Blessed (Ignores DEF and Toughness from spells). See Pg 68 of Urban Adventures for full rules. 
+* Hyper Regeneration: Remove one wound from this character at the start of his Activation Phase. Additionally, this character is healed one wound per hour in addition to normal healing.
+* Imbue Weapon: Can Imbue a non-mechanikal weapon with arcane energy. Weapon is considered Magical and Blessed (Ignores DEF and Toughness from spells). 
 * Immunity (Cold): This character is immune to Cold damage.
 * Immunity (Corrosion): This character is immune to Corrosion damage.
 * Immunity (Electricty): This character is immune to Electrical damage.
 * Immunity (Fire): This character is immune to Fire damage.
-* Imperishable Conviction: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character regains 1 vitality point. Has no effect while incapacitated.
-* Impervious Wall Stance: During his turn, this character can forfeit his movement to use Impervious Wall Stance. The character gains +5 Toughness, cannot be pushed or knocked down, and is immune to continuous effects. Last for 1 round.
-* Inflict Pain: When this character hits a warbeast with a melee attack, he can place 1 fury point on or remove 1 fury point from it.
-* Inscribe Formulae: This character can Inscribe runeplates.  See “Mechanika" p. 279.
-* Inscribe Thrall Rune: Can inscribe Thrall Runes. See p. 71 Urban adventures for details.
-* Instructor: While within 12 feet (2) friendly characters gain an additional die on occupational skills that this character also posses, discard the lowest die in each roll.
+* Imperishable Conviction: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character is healed one wound if a 5 or greater is rolled on 1d6. Has no effect while incapacitated.
+* Impervious Wall Stance: During his turn, this character can forfeit his movement to use Impervious Wall Stance. The character gains +5 Toughness, cannot be pushed or knocked down, and is immune to lasting elemental damage effects. Last for 1 round.
+
+// * Inflict Pain: When this character hits a warbeast with a melee attack, he can place 1 fury point on or remove 1 fury point from it.
+
+* Inscribe Formulae: This character can Inscribe runeplates. 
+* Inscribe Thrall Rune: Can inscribe Thrall Runes. 
+* Instructor: While within 12' (2") friendly characters gain +1d4 on occupational skills that this character also posses.
 * Iron Sentinel: While in B2B with one or more steamjacks you controls, gains +2 Toughness and you cannot be knocked down.
-* Iron Will: The character can reroll failed Willpower rolls.  Each roll can be rerolled only once due to Iron Will.
+* Iron Will: The character can reroll failed Spirit rolls.  Each roll can be rerolled only once due to Iron Will.
 * Ironhead: Char knows how to use and control mechanically enhanced steam-powered armor, such as Man-O-War armor.
 * 'Jack Marshal: This character is skilled at instructing steamjacks to act. 
-* Jaws of the Beast: In addition to his normal attacks, while in beast form this character can make one unarmed melee attack with his jaws during each of his turns. This attack uses the Unarmed Combat skill and is POW 4.
+* Jaws of the Beast: In addition to his normal attacks, while in beast form this character can make one unarmed melee attack with his jaws during each of his turns. This attack uses the Unarmed Combat skill and does 1d6 damage.
 * Jury Rig: Character can spend a full action and 1 or more scrap tokens to create improvised weapons and gear. Character must spend 1 scrap token for every 10 gc of the item's cost. Creating items with scrap tokens requires a tinker's kit.
-* Keen Eyed: The character can increase his range with a bow or rifle by 12 feet (2") and his extreme range by sixty feet (10").
+* Keen Eyed: The character can increase his range with a bow or rifle by a 1.5 multiplier.
 * Killing Spree: When this character destroys one or more enemy characters with a melee attack during his combat action, after that attack is resolved this character can move up to six feet (1″) and make one additional melee attack.
-* Knife Thrower: After throwing a weapon, this character can immediately draw a weapon without using a quick action.
+* Knife Thrower: After throwing a weapon, this character can immediately draw a weapon as a free action.
 * Language: This ability can be taken several times.  Each time a character takes this ability, he learns to speak, read, and write a new Language.
-* Legacy of Bragg: The character gains an additional Quick Action each turn that can only be used to make a fell call.
-* Life Drinker: When this character destroys a living enemy character with a melee attack, he regains d3 vitality points.
-* Light Cavalry: If the character is riding a mount not designated as a warhorse or battle mount, at the end of his turn he can advance up to 5".
-* Line Breaker: The Character gains an additional die on impact attack rolls.
-* Load Bearing: Reduce the SPD and DEF penalties from the armor the character wears each by 1.
+* Legacy of Bragg: The character gains an additional Action each turn that can only be used to make a fell call.
+* Life Drinker: When this character destroys a living enemy character with a melee attack, he heals a wound if a 5 or higher is rolled on a d6.
+* Light Cavalry: If the character is riding a mount not designated as a warhorse or battle mount, at the end of his turn he can move up to an additional 5".
+* Line Breaker: The Character gains +1d6 die on impact attack rolls.
+* Load Bearing: Reduce the Pace and Parry penalties from the armor the character wears each by 1.
 * Long-Lived: This character benefits from preternatural youth and can expect to live double the normal life expectancy of his race, experiencing almost no physical or mental decline right up until the end of his days.
 * Lost in the Crowd: While in a crowd, character can spend a benny to instantly vanish. See pg. 11 of Urban Adventures for full rules
 * Low Breeding: This Character suffers -2 to Etiquette rolls dealing with high society, but gains +2 to skill rolls relating to social dealings with the lower classes.
-* Maestro: Stormsmithng lightning strike. Increase characters target number +2. Choose one effect: Ball Lighting- AOE3, Big One- POW 13, Lightning Generator- d3 consecutive characters are hit with POW 10 electrical damage.
-* Mage Killer: This character gains an additional die on damage rolls against characters that can cast spells.
+* Maestro: Stormsmithng lightning strike. Increase characters target number +2. Choose one effect: Ball Lighting- AOE3, Big One- 4d6 damage, Lightning Generator- d3 consecutive characters are hit with 2d6 electrical damage.
+* Mage Killer: This character gains +1d6 on damage rolls against characters that can cast spells.
 * Makeshift Engineering: Given a day to find the parts in a town or industrialized settlement, the character can find any parts needed (or something to bodge ). The character can purchase parts, weapons, and gear at half the normal price.
-* Maltreatment: Once per turn during his activation, this character can remove 1 fury point from a warbeast in his battlegroup that is in his control area and add 1 fury point to his own current total. The warbeast suffers d3 damage points.
+
+// * Maltreatment: Once per turn during his activation, this character can remove 1 fury point from a warbeast in his battlegroup that is in his control area and add 1 fury point to his own current total. The warbeast suffers d3 damage points.
+
 * Man of Iron: Char learned to push body to the limits to compensate for failing steam-powered armor. While wearing steam-powered armor, the char never suffers the effects of internal damage.
 * Mark Target: Friendly characters gain +2 on ranged attack rolls against enemy models within thirty feet (5″) of this character and in his LOS.
-* Marksman: The character can use Quick Actions and aim in the same round, but still has to forfeit his movement to gain the aiming bonus.
-* Meat Alchemy: When this character makes an Alchemy skill roll to create a bone grinder fetish or an alchemical item that has animal fat, bioluminescent extract, burrow-mawg adrenal gland, mutagenic extract, or another organic ingredient, the roll is boosted.
+* Marksman: The character can use Actions and aim in the same round, but still has to forfeit his movement to gain the aiming bonus.
+* Meat Alchemy: When this character makes an Alchemy skill roll to create a bone grinder fetish or an alchemical item that has animal fat, bioluminescent extract, burrow-mawg adrenal gland, mutagenic extract, or another organic ingredient, the roll gains +1d6.
 * Mother's Vengeance: When enemy attack incapacitates or destroys one or more friendly characters within thirty feet (5″) of this character, after the attack is resolved this character gains +2 Strength for one round and can immediately charge an enemy.
-* Mount Attack (Duskwolf): While riding a Duskwolf, this character can make one attack with his mount during each of his turns. If the attack hits, the character hit suffers a damage roll equal to the mount's Strength. This attack uses any special rules of the mount's normal attacks.
-* Mount Attack (Skirovik mountain goat): While riding a Skirovik mountain goat, this character can make one attack with his mount during each of his turns. If the attack hits, the character hit suffers a damage roll equal to the mount's Strength. This attack uses any special rules of the mount's normal attacks.
-* Mount Attack (Ulk): While riding an Ulk, this character can make one attack with his mount during each of his turns. If the attack hits, the character hit suffers a damage roll equal to the mount's Strength. This attack uses any special rules of the mount's normal attacks.
+* Mount Attack (Beast): While riding a mount of the speficied type, this character can make one attack with his mount during each of his turns. If the attack hits, the character hit suffers a damage roll equal to the mount's Strength. This attack uses any special rules of the mount's normal attacks.
 * Mounted: Counter Charge: While Mounted, once per turn when an enemy ends their movement withing 6 of this char and in their LOS, this character may spend a benny to charge that enemy. Cannot perform Counter Charge while engaged
-* Natural Leader: Increase your command range by 2.  (Calculated in by the spreadsheet)
+* Natural Leader: Increase your command radius by 2". 
 * Necromancer: Can reroll failed Craft (Thrall) rolls. Each roll can only be rerolled once as a result of necromancer.
-* Night Fighter: When making an attack against a character with stealth or prowl, he automatically misses only if they are 8" away instead or 5".
+* Night Fighter: Char doesn't suffer penalties for attacking in low light conditions.
 * Oath of Silence: This character cannot speak, and his command range is reduced by half. He must generally rely on the Signal Language ability to make himself understood by other characters, including any steamjacks he marshals.
 * Onslaught: At the start of this character's turn before moving or taking any action, the character can make one ranged attack. After the attack has been resolved, the character must charge or run. The ranged attack is made before declaring a charge target.
 * Opening Salvo: While mounted, at the start of this character's turn before moving or taking any action, this character can make one ranged attack. After the attack has been resolved, the character must charge or run. The ranged attack is made before declaring a charge target.
-* Overflowing Health: When this character spends a benny to Walk It Off, he can immediately perform a quick action to cause a nonincapacitated friendly character in his command range to regain d3+1 vitality points.
-* Overpower: During you Control Phase, after replinishing focus but before allocating focus, can spend focus to increase control area 1/focus for one round
-* Overtake: When this character destroys one or more enemies with a melee attack during his turn, after the attack is resolved he can immediately advance up to six feet (1˝).
+* Overflowing Health: This character can spend a benny to instantly heal one wound on himself and every friendly character in his command radius.
+
+// * Overpower: During you Control Phase, after replinishing focus but before allocating focus, can spend focus to increase control area 1/focus for one round
+
+* Overtake: When this character destroys one or more enemies with a melee attack during his turn, after the attack is resolved he can immediately move up to 1".
 * Pack Hunter: Living warbeasts in this character's battlegroup that are in his control area gain +2 on melee attack rolls.
 * Parry: When armed with a Hand Weapon, this model cannot be targeted by free strikes.
-* Patch Up: Char can repair her non-dest. armor during combat with tools. Full action and then make an Smarts + ME vs. TN 14. If failed, nothing happens.  If passed, armor regains damage equal to the char's ME Skill, or repair one damaged sys.
+* Patch Up: Char can repair her non-dest. armor during combat with tools. Full action and roll mechanikal engineering at -4. Each success or raise repairs one damage level or damaged system.
 * Pathfinder: Move over rough terrain without penalty.
-* Perfect Timing: The Character Is automatically missed by attacks made by friendly characters.
-* Poison Resistance: The character gains boosted rolls to resist poison and toxins.
-* Port of Call: A character with Port of Call can always find his way home again.  See page 165.
-* Power of Truth: If the character tells only the truth during an encounter, his social rolls are automatically boosted. The character loses this ability for the rest of the encounter after telling a lie.
-* Powerful Attack (Magical): When attacking with a spell, this character can spend 1 fury point or gain 1 fatigue point to boost all attack and damage rolls for the attack.
-* Powerstrain: Once per turn the char can use this ability, her armor immediately suffers d3 damage points and can select from effects in NQ 52.
-* Precision Strike: When the character hits with a melee attack, he decides which branch of the life spiral or column of the target's damage grid that is hit, if applicable.
+* Perfect Timing: The Character is automatically missed by attacks made by friendly characters.
+* Poison Resistance: The character gains +1d6 to rolls to resist poison and toxins.
+* Port of Call: A character with Port of Call can always find his way home again.  
+* Power of Truth: If the character tells only the truth during an encounter, his Persuasion rolls receives +1d6. The character loses this ability for the rest of the encounter after telling a lie.
+
+// * Powerful Attack (Magical): When attacking with a spell, this character can spend 1 fury point or gain 1 fatigue point to boost all attack and damage rolls for the attack.
+
+* Powerstrain: Once per turn the char can use this ability, her armor immediately suffers one damage points and can select from effects in NQ 52.
+
+// * Precision Strike: When the character hits with a melee attack, he decides which branch of the life spiral or column of the target's damage grid that is hit, if applicable.
+
 * Press the Attack: When you slam an enemy, immediately after it is resolved you can move directly towards the slammed enemy up to any distance he was moved and then make a melee attack against that enemy.
-* Preternatural Awareness: Urban Nomads that chose it as a starting career gain this archetype benefit. You gain boosted Initiative rolls and enemies never gain back strike bonuses.
-* Prey: This char can spend 1 FP on his turn to use. Char designates one char as his prey. This char gains +2 on attack and damage rolls against prey. This char can use only once per encounter. See Wild Adventuers p. 26.
-* Privilege: Immune to persecution for petty crimes.  Right to be executed in the style befitting a noble.  +2 on social skill rolls when dealing with those beneath his station who recognize nobility.
-* Prowl: The character gains Stealth (p. 220) while within terrain that provides concealment, the AOE of a spell that grants concealment, or the AOE of a cloud effect.
-* Pursuit: Use 1 benny.  Designates one enemy.  For encounter, when that enemy ends his movement you can make a full advance.
+* Prey: This char can spend 1 benny on his turn to use. Char designates one char as his prey. This char gains +2 on attack and damage rolls against prey. This char can use only once per encounter.
+* Privilege: Immune to persecution for petty crimes.  Right to be executed in the style befitting a noble.  +2 on Persuasion or Intimidation skill rolls when dealing with those beneath his station who recognize nobility.
+* Prowl: The character gains +1d6 to stealth rolls while within terrain that provides concealment, the AOE of a spell that grants concealment, or the AOE of a cloud effect.
+* Pursuit: Use 1 benny. Designates one enemy. For encounter, when that enemy ends his movement you can make a full move.
 * Quick Work: When you kill one or more enemies with a melee attack during your combat action, immediately after that attack is resolved, make a ranged attack with a loaded weapon.
-* Rallying Cry: Spend a benny.  For one round this character's command radius is doubled and friendly characters in his command radius, including this character, become fearless.
-* Ram: When this char hits an enemy with her horns, target is knocked down and can be pushed 1˝ directly away from this char. This char can immediately adv. directly toward target, up to distance pushed.
-* Reclaim: When a Menite char is destroyed in the Reclaimer's command radius range, the Relcaimer can erect a grave marker to gain soul tokens. Char can have up to 5 soul tokens at a time and can spend them to boost attack & damage rolls. If Will Weaver can spend them to remove fatigue. If focuser they act like focus.
+* Rallying Cry: Spend a benny.  For one round this character's command radius is doubled and friendly characters in his command radius, including this character, become immune to terror.
+* Ram: When this char hits an enemy with her horns, target is knocked down and can be pushed 1" directly away from this char. This char can immediately move directly toward target, up to distance pushed.
+* Reclaim: When a Menite char is destroyed in the Reclaimer's command radius range, the Relcaimer can erect a grave marker to gain soul tokens. Char can have up to 5 soul tokens at a time and can spend them to add +1d6 to attack & damage rolls. 
 * Reed in the Wind: This character cannot be targeted by free strikes.
-* Relentless Advance: When this character is damaged by an enemy attack, he gains +2 SPD for one round.
-* Relentless Advance: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character gains +2SPD for one round.
+* Relentless Advance: When this character is damaged by an enemy attack, he gains +2 Pace for one round.
+* Relentless Advance: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character gains +2 Pace for one round.
 * Relentless Charge: The character ignores penalties for rough terrain while charging.
-* Remedy: While in B2B with a non-incapacitated living char, can spend a quick action and 1 FP to stop any continuous effects on that char or to grant that char an additional die on his next roll to resist poisons, toxins, or disease.
-* Renowned: Within the scattered remnants of Nyss society, a warrior donning ryssovass arms commands fear, respect, and pity in equal measure. A character with this ability gains +2 on social skill rolls when dealing with other Nyss.
-* Resonance (Devourer Warbeast): This warlock can bond to Devourer warbeasts.
-* Resonance (Farrow Warbeast): This warlock can bond to Farrow warbeasts.
-* Resonance (Swamp Warbeast): This warlock can bond to Swamp warbeasts.
-* Resonance (Trollblood Warbeast): This warlock can bond to Trollblood warbeasts.
-* Resonance (Wold): This character can bond to wolds (p. 254).
-* Resourceful: This character can upkeep spells on steamjacks he controls without spending focus or gaining fatigue.
-* Restoration: When another friendly character of this character's faith is destroyed while in this character's command range while this character is incapacitated, this character is immediately stabalized, regains 1 vitality point, nad is no longer incapacitated.
+* Remedy: While in B2B with a non-incapacitated living char, can spend an action and 1 Benny to stop any ongoing elemental effects on that char or to grant that char an additional d6 on his next roll to resist poisons, toxins, or disease.
+* Renowned: Within the scattered remnants of Nyss society, a warrior donning ryssovass arms commands fear, respect, and pity in equal measure. A character with this ability gains +2 on Persuasion and Intimidation skill rolls when dealing with other Nyss.
+* Resonance (Wold or Warbeast type): This warlock can bond to wolds or warbeasts of the specified type.
+* Resourceful: This character can upkeep spells on steamjacks he controls without penalties to subsequent casting rolls.
+* Restoration: When another friendly character of this character's faith is destroyed while in this character's command range while this character is incapacitated, this character is immediately stabilized, is healed one wound level, and is no longer incapacitated.
 * Retaliatory Strike: When you are hit by enemy attack at any time other than his own turn, after the attack resolves you can spend 1 benny to make a normal melee attack against the enemy that hit you.
 * Return Fire: Once per round when this character is missed by an enemy's ranged attack, after the attack is resolved he can make one normal attack against the attacking enemy.
 * Rhulic 'Jack Marshal: This character is skilled at instructing steamjacks to act. Can only control Rhulic 'Jacks
 * Rhulic Warcaster: Allows Character to bond to Rhulic 'jacks, Cannot bond to non-Rhulic 'jacks
-* Ride-By Attack: While mounted, this character can combine his movement and his action to make a Ride by Attack.  See page 166.
+
+// * Ride-By Attack: While mounted, this character can combine his movement and his action to make a Ride by Attack.  
+
 * Riposte: Once per round when this character is missed by an enemy's melee attack, Immediately after the attack is resolved he can make one normal attack against the attacking enemy.
-* Ritualist: This character can reroll failed ARC + Lore skill rolls when performing rituals. Each failed roll can be rerolled only once as a result of Ritualist.
+* Ritualist: This character can reroll failed Knowledge (Lore) skill rolls when performing rituals. Each failed roll can be rerolled only once as a result of Ritualist.
 * Rock Solid: This character and friendly characters B2B with him cannot be knocked down.  The character loses this ability while he is mounted.
-* Rock Steady: While wearing steam-powered armor the character cannot be knocked down, and the distance she is pushed or slammed is reduced by 1, to a minimum of 1.
+* Rock Steady: While wearing steam-powered armor the character cannot be knocked down, and the distance she is pushed or slammed is reduced by 1", to a minimum of 1".
 * Roll With It: When this character would normally be knocked down, he goes prone instead.  The character loses this ability while mounted.
-* Runesmith: Fire Runeshots with a ranged Warjack weapon. Roll D6 per shot on a 1 weapon is damaged.
-* Saddle Shot: This character does not suffer the firing from horseback penalty when making ranged attacks while mounted.  See page 214.
+* Runesmith: Fire Runeshots with a ranged Warjack weapon. Roll d6 per shot; on a 1 weapon is damaged.
+
+// * Saddle Shot: This character does not suffer the firing from horseback penalty when making ranged attacks while mounted. 
+
 * Sanguine Bond: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character can choose to suffer any amount of that damage instead. If this character suffers all the damage the other character sufferd, the other character is no longer considered to have been damaged.
 * Savage Strike: On a critical hit with an unarmed or melee weapon attack by this character, he can spend 1 benny to add an additional die to the damage roll.
 * Scavenger: When this character breaks down an item, he gains d3 scrap tokens.
