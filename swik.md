@@ -1610,6 +1610,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Fell Call (Sonic Blast): Once per turn, you can use this call instead of attacking.  You make a range 8" spray attack, damage d12.  Use your Agility+Fell Calling skill for the attack roll.
 * Field Alchemist: You gain one extra Action each turn that can be used only to create a field alchemy quick effect.
 
+<!---
 // * Field Marshal (Celestial Harmony): Spend a focus point. For one round, can channel spells through vectors in your battlegroup in your contol area.
 // * Field Marshal (Counter Charge): Spend a fury point. Characters in the warlock's battlegroup currently in his control area gain Counter Charge for one round. (When an enemy advances and ends its movement within 6˝ of a character with Counter Charge and in his LOS, the character with Counter Charge can immediately charge the enemy. If he does, he cannot make another counter charge until after your next turn. A character cannot make a counter charge while engaged.)
 // * Field Marshal (Hog Wild): Spend a fury point during her Control Phase. Characters in the warlock's battlegroup that are currently in his control area can immediately make one ranged attack. Characters that make this ranged attack can make only melee attacks during their activations this turn.
@@ -1619,6 +1620,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 // * Field Marshal (Relentless Charge): Spend a focus point.  For a round, when a character in battlegroup begins a charge in control area, character gains the Relentless Charge ability.
 // * Field Marshal (Shield Guard): Spend a focus point.  For one round, characters in his battlegroup gain the Shield Guard ability while in the warcaster's control area. 
 // * Field Marshal (Unyielding): Spend a fury point during her Control Phase. Characters in the warlock's battlegroup gain Unyielding while they are in his control area. (While engaging an enemy, a character with Unyielding gains +2 Toughness.)
+--->
 
 * Find Cover: At the start of combat before Initiative is rolled, this character can immediately advance up to 2" and perform an Action to take cover or go prone.
 * Finisher: This character can spend a benny to add +1d6 a damage roll against a damaged target.
@@ -1629,7 +1631,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Flesh of Steel: While unarmored, use this character's full Vigor when determining his Toughness. This ability has no effect while this character is wearing armor.
 * Flying Fists: While fighting unarmed or with a one handed weapon in the other hand, the character gains an additional punch unarmed melee attack with his other hand.
 
-// * Follow Up: Requires Bull Rush. When this Character slams an enemy while mounted, immediately after the slam is resolved this character can advance directly toward slammed char up to distance slammed.
+[//]: # ( * Follow Up: Requires Bull Rush. When this Character slams an enemy while mounted, immediately after the slam is resolved this character can advance directly toward slammed char up to distance slammed. )
 
 * Forager: When this character makes a Survival skill roll to find food, he can treat any result worse than "No provisions" as "No provisions."
 * Free Style: You can improvise the ingredients of your alchemical compounds. 
@@ -1643,7 +1645,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Girded: While armed with a shield, this character does not suffer area of effect damage.  Friendly character in B2B with him do not suffer area of effect damage either.
 * Go to Ground: This character can perform a quick action to make the most of any terrain around him, no matter how seemingly sparse. Until he moves, ismoved, goes prone, or is engaged, the character gains cover, does not suffer area of effect damage, and does not block LOS. A character cannot use the Go to Ground ability during a turn he ran.
 
-// * Goad: When a warbeast in this character's battlegroup destroys one or more enemy characters with a melee attack during its activation, immediately after the attack is resolved this character can force the warbeast to advance up to twelve feet (2").
+[//]: # ( * Goad: When a warbeast in this character's battlegroup destroys one or more enemy characters with a melee attack during its activation, immediately after the attack is resolved this character can force the warbeast to advance up to 2". )
 
 * Good Breeding: This character can reroll failed Etiquette rolls.  Each roll can be rerolled only once due to Good Breeding.
 * Grappler: An Opponent trying to break free of a grapple performed by this character suffers a -2 penalty to the roll. 
@@ -1651,7 +1653,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Great Power: This character can upkeep one spell each turn without spending a power point or suffering a casting penalty.
 * Grenadier: The character gains an additional Action each turn that can only be used to pull the pin on a grenade.
 
-// * Gunfighter: The character does not suffer a -4 penalty to ranged attack rolls with a pistol or carbine while engaged.
+[//]: # ( * Gunfighter: The character does not suffer a -4 penalty to ranged attack rolls with a pistol or carbine while engaged. )
 
 * Gunner: Reduce the character's Pace and Parry penalties from carrying a slugger by 1. The character can fire a slugger from a standing position while carrying it, without the aid of a tripod or swivel mount.
 * Hack: This character gains +2 to damage rolls against knocked down targets.
@@ -1680,7 +1682,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Imperishable Conviction: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character is healed one wound if a 5 or greater is rolled on 1d6. Has no effect while incapacitated.
 * Impervious Wall Stance: During his turn, this character can forfeit his movement to use Impervious Wall Stance. The character gains +5 Toughness, cannot be pushed or knocked down, and is immune to lasting elemental damage effects. Last for 1 round.
 
-// * Inflict Pain: When this character hits a warbeast with a melee attack, he can place 1 fury point on or remove 1 fury point from it.
+[//]: # ( * Inflict Pain: When this character hits a warbeast with a melee attack, he can place 1 fury point on or remove 1 fury point from it. )
 
 * Inscribe Formulae: This character can Inscribe runeplates. 
 * Inscribe Thrall Rune: Can inscribe Thrall Runes. 
@@ -1707,7 +1709,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Mage Killer: This character gains +1d6 on damage rolls against characters that can cast spells.
 * Makeshift Engineering: Given a day to find the parts in a town or industrialized settlement, the character can find any parts needed (or something to bodge ). The character can purchase parts, weapons, and gear at half the normal price.
 
-// * Maltreatment: Once per turn during his activation, this character can remove 1 fury point from a warbeast in his battlegroup that is in his control area and add 1 fury point to his own current total. The warbeast suffers d3 damage points.
+[//]: # ( * Maltreatment: Once per turn during his activation, this character can remove 1 fury point from a warbeast in his battlegroup that is in his control area and add 1 fury point to his own current total. The warbeast suffers d3 damage points. )
 
 * Man of Iron: Char learned to push body to the limits to compensate for failing steam-powered armor. While wearing steam-powered armor, the char never suffers the effects of internal damage.
 * Mark Target: Friendly characters gain +2 on ranged attack rolls against enemy models within thirty feet (5″) of this character and in his LOS.
@@ -1724,7 +1726,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Opening Salvo: While mounted, at the start of this character's turn before moving or taking any action, this character can make one ranged attack. After the attack has been resolved, the character must charge or run. The ranged attack is made before declaring a charge target.
 * Overflowing Health: This character can spend a benny to instantly heal one wound on himself and every friendly character in his command radius.
 
-// * Overpower: During you Control Phase, after replinishing focus but before allocating focus, can spend focus to increase control area 1/focus for one round
+[//]: # ( * Overpower: During you Control Phase, after replinishing focus but before allocating focus, can spend focus to increase control area 1/focus for one round )
 
 * Overtake: When this character destroys one or more enemies with a melee attack during his turn, after the attack is resolved he can immediately move up to 1".
 * Pack Hunter: Living warbeasts in this character's battlegroup that are in his control area gain +2 on melee attack rolls.
@@ -1736,11 +1738,11 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Port of Call: A character with Port of Call can always find his way home again.  
 * Power of Truth: If the character tells only the truth during an encounter, his Persuasion rolls receives +1d6. The character loses this ability for the rest of the encounter after telling a lie.
 
-// * Powerful Attack (Magical): When attacking with a spell, this character can spend 1 fury point or gain 1 fatigue point to boost all attack and damage rolls for the attack.
+[//]: # ( * Powerful Attack (Magical): When attacking with a spell, this character can spend 1 fury point or gain 1 fatigue point to boost all attack and damage rolls for the attack. )
 
 * Powerstrain: Once per turn the char can use this ability, her armor immediately suffers one damage points and can select from effects in NQ 52.
 
-// * Precision Strike: When the character hits with a melee attack, he decides which branch of the life spiral or column of the target's damage grid that is hit, if applicable.
+[//]: # ( * Precision Strike: When the character hits with a melee attack, he decides which branch of the life spiral or column of the target's damage grid that is hit, if applicable. )
 
 * Press the Attack: When you slam an enemy, immediately after it is resolved you can move directly towards the slammed enemy up to any distance he was moved and then make a melee attack against that enemy.
 * Prey: This char can spend 1 benny on his turn to use. Char designates one char as his prey. This char gains +2 on attack and damage rolls against prey. This char can use only once per encounter.
@@ -1765,7 +1767,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Rhulic 'Jack Marshal: This character is skilled at instructing steamjacks to act. Can only control Rhulic 'Jacks
 * Rhulic Warcaster: Allows Character to bond to Rhulic 'jacks, Cannot bond to non-Rhulic 'jacks
 
-// * Ride-By Attack: While mounted, this character can combine his movement and his action to make a Ride by Attack.  
+[//]: # ( * Ride-By Attack: While mounted, this character can combine his movement and his action to make a Ride by Attack.  )
 
 * Riposte: Once per round when this character is missed by an enemy's melee attack, Immediately after the attack is resolved he can make one normal attack against the attacking enemy.
 * Ritualist: This character can reroll failed Knowledge (Lore) skill rolls when performing rituals. Each failed roll can be rerolled only once as a result of Ritualist.
@@ -1774,45 +1776,51 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Roll With It: When this character would normally be knocked down, he goes prone instead.  The character loses this ability while mounted.
 * Runesmith: Fire Runeshots with a ranged Warjack weapon. Roll d6 per shot; on a 1 weapon is damaged.
 
-// * Saddle Shot: This character does not suffer the firing from horseback penalty when making ranged attacks while mounted. 
+[//]: # ( * Saddle Shot: This character does not suffer the firing from horseback penalty when making ranged attacks while mounted. )
 
 * Sanguine Bond: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character can choose to suffer any amount of that damage instead. If this character suffers all the damage the other character sufferd, the other character is no longer considered to have been damaged.
-* Savage Strike: On a critical hit with an unarmed or melee weapon attack by this character, he can spend 1 benny to add an additional die to the damage roll.
+* Savage Strike: For each raise after the first with an unarmed or melee weapon attack, the character can spend 1 benny to add +1d6 to the damage roll.
 * Scavenger: When this character breaks down an item, he gains d3 scrap tokens.
 * Scent: While riding a duskwolf, this character gains +1 on his Tracking skill rolls and can ignore LOS when declaring a charge.
-* Scoping It Out: The character can spend 1 benny to use any time during his turn. When used friendly characters in command area gain a quick action that can only be used to take cover.
+* Scoping It Out: The character can spend 1 benny to use any time during his turn. When used friendly characters in command area gain a move action that can only be used to take cover.
 * Scorched Earth: This character gains +2 on ranged attack blast damage rolls.
-* Scrabble: This character gains an additional die on Climbing skill rolls.
-* Scrapper: Full action to turn weapon or armor into 1 scrap token. Up to 3 scrap tokens at the Hero level, 4 at the Veteran level, and 5 at the Legendary level. Spend 1 scrap token to reroll a failed Craft skill roll to build or repair non-magical items.
+* Scrabble: This character gains +1d6 on Climbing skill rolls.
+* Scrapper: Full action to turn weapon or armor into 1 scrap token. Up to 3 scrap tokens at the Novice level, 4 at the Veteran level, and 5 at the Legendary level. Spend 1 scrap token to reroll a failed Craft skill roll to build or repair non-magical items.
 * Scrounge: Given a day to find the parts in a town or settlement, you can find any part needed (or something close enough he can Bodge).  You can purchase steamjack parts, weapons, and gear for half price.
-* Self-Sacrifice: If friendly living char in this char's command radius suffers dam, this char can spend 1 FP to take the dam. instead. After the damage, this char regains d3 vitality if not incapacitated by the attack. See Wild Adventures p. 27.
+* Self-Sacrifice: If friendly living char in this char's command radius suffers dam, this char can spend 1 benny to take the dam. instead. After the damage, this char heals 1 wound level if not incapacitated by the attack. 
 * Sentry: Once per round when an enemy is placed in or moves into the LOS of this character, this character can immediately make one attack, targeting that enemy.
 * Serpent Strike: The character's kick unarmed melee attacks gain Reach.
 * Set Defense: When this character is armed with a weapon that has reach, an enemy in this character's front arc suffers -2 on charge, slam power attack, and impact attack rolls against him.
-* Shadow Magic: When you cast a spell, no spell runes appear and magically sensitive characters cannot sense your magic.  A focuser/harnesser with this ability cannot be detected by another focuser/harnesser with the Magic Sensitivity.
-* Share the Load: When this character removes fatigue points during his Maintenance Phase, he removes 1 additional point.
+* Shadow Magic: When you cast a spell, no spell runes appear and magically sensitive characters cannot sense your magic. 
+
+[//]: # ( * Share the Load: When this character removes fatigue points during his Maintenance Phase, he removes 1 additional point. )
+
 * Shield Guard: Once per turn, when a friendly character is directly hit while within 2", you can choose to be directly hit instead.  Cannot use if incorporeal, knocked down, stationary, or prone.
-* Shield Slam: When charging armed with a shield, instead of charge attack, spend benny to slam target, making attack roll with shield.  See page 167.
-* Shifting Sands Stance: During his turn, this character can forfeit his move to use Shifting Sands Stance. Character gains +2 DEF. If enemy attack misses char while in this stance and not advancing, after the attack is resolved this char can immediately advance up to 3. Last one round.
-* Shootist: This character ignores the firing into melee penalty when making ranged attacks. If the character misses with a ranged attack targeting a character in melee, the attack does not have the chance to hit another combatant. The attack simply misses.
+* Shield Slam: When charging armed with a shield, instead of charge attack, spend benny to slam target, making attack roll with shield. 
+* Shifting Sands Stance: During his turn, this character can forfeit his move to use Shifting Sands Stance. Opponents are -2 to hit the chatacter. If enemy attack misses char while in this stance and not moving, after the attack is resolved this char can immediately move up to 3". Last one round.
+* Shootist: If the character misses with a ranged attack targeting a character in melee, the attack does not have the chance to hit another combatant. The attack simply misses.
 * Signal Howls: While riding a duskwolf, this character gains eighteen feet (+3˝) to his command range.
 * Signal Language: You have created a coded signal language for use with your party.
-* Silence: When Berserk foces this char to make an attack, can choose to make a Willpower roll against target #15, If the roll suceeds, he does not make the attack, if it fails he must make  the attack normally.
-* Silver Tongued: Character is always considered  Trustworthy in negotiation.
+* Silence: When Berserk foces this char to make an attack, can choose to make a Spirit roll at -4, If the roll suceeds, he does not make the attack, if it fails he must make  the attack normally.
+* Silver Tongued: Character is always considered  trustworthy in negotiation.
 * Skilled Trapper: When this character successfully sets a trap, add +2 to the target number to detect it.
-* Snacking,The character can spend a quick action to devour any destroyed character within its melee range to immediately regain d3 vitality points.
-* Snag & Slash: When using a hooked great sword, you can pull riders from their mounts. See p. 166 Unleashed
+* Snacking,The character can spend an action to devour any destroyed character within its melee range to immediately heal a wound.
+* Snag & Slash: When using a hooked great sword, you can pull riders from their mounts. 
 * Snap Fire: When this character destroys an enemy with a bow ranged attack during his turn, immediately after the attack has been resolved, this character can make one additional bow ranged attack. The additional attack does not generate further attacks due to Snap Fire.
-* Sniper: When this character forfeits his movement to aim during his turn, the character's first ranged attack that turn gains boosted damage.
+* Sniper: When this character forfeits his movement to aim during his turn, the character's first ranged attack that turn does +1d6 damage.
 * Snow-Wreathed: While outdoors during his turn, this character can spend a benny to use this ability. As long as he remains outdoors, the character gains concealment for the duration of the encounter.
-* Souie!: This character can use this ability during his turn as a quick action. When he uses ability, warbeasts in his battlegroup that are outside his control area immediately make a full advance directly toward this character.
-* Soul Taker: Gain 1 soul token when a living creature destroyed in command radius area. Soul tokens can be used as Feat Points, Focus, Fury, or to reduce Fatigue Points. Can have a max of 3 at a time.
-* Soul Thief: Quick action: Try to steal a soul token from a character in command radius rng. Contested willpower roll, Fail: nothing happens, Suceed: take soul token from target. Can't have more than 3 soul tokens from ability.
-* Soulstorm: While this character has one or more soul tokens, enemy characters not of the Menite faith entering or ending their turns within 2 of him immediately suffer d3 damage points.
-* Specialization: The character does not suffer attack roll penalties when attacking with a weapon of the type chosen.
-* Spirit Eater: This character can reave fury points from enemy warbeasts it destroys with a melee attack. Other characters cannot reave fury points from enemy warbeasts destroyed by this character.
+* Souie!: This character can use this ability during his turn as an action. When he uses ability, warbeasts in his battlegroup that are outside his control area immediately make a full move directly toward this character.
+* Soul Taker: Gain 1 soul token when a living creature destroyed in command radius area. Soul tokens can be used as bennies. Can have a max of 3 at a time.
+* Soul Thief: Quick action: Try to steal a soul token from a character in command radius rng. Contested spirit roll, Fail: nothing happens, Suceed: take soul token from target. Can't have more than 3 soul tokens from ability.
+* Soulstorm: While this character has one or more soul tokens, enemy characters not of the Menite faith entering or ending their turns within 2 of him immediately suffer one wound.
+* Specialization (Weapon): The character gains +1d4 to hit and damage with the specified weapon at novice level. This bonus increased by one die type at each subsequent level.
+
+[//]: # ( * Spirit Eater: This character can reave fury points from enemy warbeasts it destroys with a melee attack. Other characters cannot reave fury points from enemy warbeasts destroyed by this character. )
+
 * Spirit Guide: When a living character is destroyed in this character's control area and generates a soul token, this character's controller chooses which eligible character in his control area gains the soul, regardless of the proximity of other characters.
-* Spring of Vitality: While he is not incapacitated, this character regains 1 vitality point at the start of his Maintenance Phase. Character can spend 1 benny while B2B with an incapacitated character to immediately stabilize that character.
+
+[//]: # (* Spring of Vitality: While he is not incapacitated, this character regains 1 vitality point at the start of his Maintenance Phase. Character can spend 1 benny while B2B with an incapacitated character to immediately stabilize that character.)
+
 * Sprint: At the end of this character's turn, if she destroyed one or more enemy models with melee attacks that turn she can make a full advance.
 * Staredown: As a quick action, this character can make a contested Willpower roll against a living animal or beast native to the wilds of Immoren with which he locks eyes. If the beast wins, nothing happens. If this character wins, the beast cannot advance toward or attack this character for one round.
 * Steady: This character cannot be knocked down. This character loses the ability while mounted.
@@ -1884,6 +1892,17 @@ A character taking the Minor version of this Hindrance has a –2 Charisma among
 
 ## Gear
 
+### Crafting Mechanika
+
+### Warcaster armor
+
+## Warnouns
+
+## Magic
+
+### Gunmage Spells
+
+### Willworkers vs. Focusers
 
 ## Experience
 
