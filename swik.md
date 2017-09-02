@@ -7,102 +7,102 @@ Savage Worlds Iron Kingdoms
 
 ### Humans
 
-Humans start play with one free Edge. All humans receive additional bonuses based on ethnic group, as specified in [this thread](https://forum.rpg.net/showthread.php?437819-Savage-Iron-Kingdoms-conversion).
-
-* Khard (dominant Khadoran ethnicity): Khards start with a d6 in Strength instead of a d4, and with a free d6 in Riding.
-* Kossite (forest dwellers from Khador): Kossites start with a d6 in Vigor instead of a d4, and with a free d6 in Survival.
-* Ryn (dominant Llaelese ethnicity): Ryn start with a d6 in Smarts instead of a d4, and with a free d6 in Persuasion.
-* Skirov (rustic fanatics from Khador): Skirovs start with a d6 in Vigor instead of a d4, and free d6 in KnowlEdge (Religion) and Guts.
-* Umbreans (a persecuted minority in both Khador and Llael): Umbreans start with a d6 in Strength instead of a d4, and with a free d6 in Notice.
-* Midlunder (dominant ethnicity of northern Cygnar): Midlunders start with +1 Toughness, and a free d6 in Streetwise and a free d6 in KnowlEdge (Craft) of their choice.
-* Morridane (reclusive swamp folk of Morrdh valley between Ord and Cygnar): Morridanes start with a d6 in Agility instead of a d4, and a free d6 in Survival.
-* Thurian (dominant ethnicity of western Cygnar, and southern Ord): Thurians start with a free d6 in Smarts, and a free d6 in Persuasion.
-* Tordoran (dominant ethnicity of Ord): Tordorans start with a d6 in Agility instead of a d4, start with a free d6 in Guts and Boating.
-* Caspian (dominant ethnicity of Cygnar): Caspians start with a d6 in Spirit instead of a d4, and a d6 in Notice and Persuasion.
-* Sulese (dominant ethnicity of Protectorate of Menoth): Sulese start with a d6 in Spirit instead of a d4, and a d6 in KnowlEdge (Religion) and Guts.
-* Idrians (Tribes from a desert region in the south of Protectorate): Idrians start with a d6 in Agility instead of a d4, and a d6 in Riding.
-* Scharde (the mongrel folk of Schard Islands): Schardes start with a d6 in Vigor instead of a d4, and a free d6 in Intimidate.
-* Radiz/Sinari (nomadic gypsies of Ord and western Cygnar): Radizi start with a d6 in Agility, and a free d6 in Gambling and Persuasion.
-* Zu (mysterious folk from the Uncharted Lands): Zu start with a d6 in Vigor instead of a d4, and a free d6 in Survival. Zu must pay 1 skill point to start the game with the knowlEdge of Cygnaran or other languages.
-
-### Iosans
-
-Agile: Iosans start with a d6 in Agility instead of a d4.
-Magic Resistant: Iosans start with a free Arcane Resistance Edge.
-Low Light Vision: Iosans ignore penalties for Dim and Dark lighting.
-Observant: Iosans start with a free d6 in Notice.
-Expert Diviner: Any Iosan spellcaster (but not an Arcane Mechanic) automatically starts the game knowing Detect/Conceal Arcana spell.
-Frail: Iosans start with -1 Toughness.
-Starting Languages: Iosan Elven, Cygnaran
-
-### Nyss
-
-Agile: Nyss start with a d6 in Agility instead of a d4
-Low Light Vision: Nyss ignore penalties for Dim and Dark lighting.
-Observant: Nyss start with a free d6 in Notice.
-Stealthy: Nyss start with a free d6 in Stealth
-Socially Isolated: Nyss cannot start the game with any dice in Repair or Streetwise
-Resistant to Cold: +2 Toughness against cold damage.
-Succeptible to Fire: -2 Toughness against fire damage.
-Frail: Nyss start with -1 Toughness.
-Starting Languages: Aeric. Nyss must pay 1 skill point to start with knowlEdge of Cygnaran or another language (many Nyssans know Khardic instead).
-
-### Rhulic Dwarves
-
-Clan Trained: Dwarves begin the game with a free d6 in KnowlEdge (Craft) skill of their choice.
-Low Light Vision: Dwarves ignore penalties for Dim and Dark lighting.
-Oathbound: Dwarves take their oaths extremely seriously, breaking a formal oath or plEdge is a very serious offense and cause for exile or even death.
-Slow: Dwarves have a Pace of 5"
-Tough: Dwarves start with d6 Vigor instead of d4.
-Ogrun Bond: Dwarves receive +1 Charisma when dealing with Ogruns.
-Starting Languages: Cygnaran, Rhulic.
-
-### Gobbers
-
-Agile: Gobbers start with a d6 in Agility instead of a d4.
-Tinker: Gobbers begin the game with a free d6 in KnowlEdge (Craft Alchemy) or Repair
-Stealthy: Gobbers begin the game with a free d6 in Stealth due to their chameleonic skin.
-Low Light Vision: Gobbers ignore penalties for Dim and Dark lighting.
-Small: Gobbers’ small size reduces their Toughness by 1.
-Slow: Gobbers have a Pace of 5".
-Weak: Gobbers pay double the point cost to raise the Strength during character creation and during play.
-Starting Languages: Cygnaran, Molgur.
-
-### Bogrin
-
-Agile: Bogrin start with a d6 in Agility instead of a d4.
-Stealthy: Bogrin begin the game with a free d6 in Stealth.
-Observant: Bogrin begin the game with a free d6 in Notice.
-Low Light Vision: Borgin ignore the penalties for Dim and Dark Lighting.
-Small: Bogrins’ small size reduces their Toughness by 1.
-Slow: Bogrins have a Pace of 5".
-Savage: Bogrins cannot begin the game with any dice in Persuasion or Streetwise. Bogrins must pay 1 skill point to start the game literate in all languages that they can speak.
-Stupid: Bogrins are much less cunning than their Gobber cousins and pay double to raise their Smarts during character creation and play.
-Starting Languages: Cygnaran, Molgur.
-
-### Ogrun
-
-Big: Ogruns stand nearly 8 feet tall and have their Size increased by 1. This gives them a +1 bonus to Toughness, and increases their starting Pace to 7", but they cannot wear clothing or armor built for the small races.
-Strong: Ogruns start with a d6 in Strength instead of a d4.
-Fearless: Ogruns start with a free d6 in Guts.
-Oath of Fealty: Ogrun who swears an oath of fealty to another creature or caue is incapable of betraying that oath. He can choose to disobey specific orders, but in all other ways must act in the best interests of his sworn leader or cause.
-Rhulic Bond: Ogruns receive +1 Charisma when dealing with Rhulic Dwarves.
-Starting Languages: Cygnaran or Rhulic, and Molgur-og.
-
-### Trollkin
-
-Tough: Trollkin start with a d6 in Vigor instead of a d4.
-Low Light Vision: Trollkin ignore penalties for Dim and Dark Lighting.
-Improved Healing: Trollkin start with a free Fast Healing Edge. Trollkin can also regenerate lost limbs as long as they can feast continuously (preferably on raw meat) while doing so. Trollkin regenerate a lost limb in 1d6+1 days if it has been surgically re-attached, and 2d20+10 days to regrow a limb entirely.
-Fearless: Trollkin start with a free d6 in Guts.
-Monstrous: Trollkin are widely distrusted because of their unpredictable nature and eating habits and suffer -1 Charisma penalty when dealing with other races (not including Gobbers, Bogrin, and Ogrun).
-Expert Hunter: Trollkin start with a free d6 in Tracking.
-
-
-### Tharn
-
-Tharn Racial Transformation: Can transform as a full round action or immediately for 1 benny. 
-
+Humans start play with one free Edge. All humans receive additional bonuses based on ethnic group, as specified in [this thread](https://forum.rpg.net/showthread.php?437819-Savage-Iron-Kingdoms-conversion).  
+  
+* Khard (dominant Khadoran ethnicity): Khards start with a d6 in Strength instead of a d4, and with a free d6 in Riding.  
+* Kossite (forest dwellers from Khador): Kossites start with a d6 in Vigor instead of a d4, and with a free d6 in Survival.  
+* Ryn (dominant Llaelese ethnicity): Ryn start with a d6 in Smarts instead of a d4, and with a free d6 in Persuasion.  
+* Skirov (rustic fanatics from Khador): Skirovs start with a d6 in Vigor instead of a d4, and free d6 in KnowlEdge (Religion) and Guts.  
+* Umbreans (a persecuted minority in both Khador and Llael): Umbreans start with a d6 in Strength instead of a d4, and with a free d6 in Notice.  
+* Midlunder (dominant ethnicity of northern Cygnar): Midlunders start with +1 Toughness, and a free d6 in Streetwise and a free d6 in KnowlEdge (Craft) of their choice.  
+* Morridane (reclusive swamp folk of Morrdh valley between Ord and Cygnar): Morridanes start with a d6 in Agility instead of a d4, and a free d6 in Survival.  
+* Thurian (dominant ethnicity of western Cygnar, and southern Ord): Thurians start with a free d6 in Smarts, and a free d6 in Persuasion.  
+* Tordoran (dominant ethnicity of Ord): Tordorans start with a d6 in Agility instead of a d4, start with a free d6 in Guts and Boating.  
+* Caspian (dominant ethnicity of Cygnar): Caspians start with a d6 in Spirit instead of a d4, and a d6 in Notice and Persuasion.  
+* Sulese (dominant ethnicity of Protectorate of Menoth): Sulese start with a d6 in Spirit instead of a d4, and a d6 in KnowlEdge (Religion) and Guts.  
+* Idrians (Tribes from a desert region in the south of Protectorate): Idrians start with a d6 in Agility instead of a d4, and a d6 in Riding.  
+* Scharde (the mongrel folk of Schard Islands): Schardes start with a d6 in Vigor instead of a d4, and a free d6 in Intimidate.  
+* Radiz/Sinari (nomadic gypsies of Ord and western Cygnar): Radizi start with a d6 in Agility, and a free d6 in Gambling and Persuasion.  
+* Zu (mysterious folk from the Uncharted Lands): Zu start with a d6 in Vigor instead of a d4, and a free d6 in Survival. Zu must pay 1 skill point to start the game with the knowlEdge of Cygnaran or other languages.  
+  
+### Iosans  
+  
+Agile: Iosans start with a d6 in Agility instead of a d4.  
+Magic Resistant: Iosans start with a free Arcane Resistance Edge.  
+Low Light Vision: Iosans ignore penalties for Dim and Dark lighting.  
+Observant: Iosans start with a free d6 in Notice.  
+Expert Diviner: Any Iosan spellcaster (but not an Arcane Mechanic) automatically starts the game knowing Detect/Conceal Arcana spell.  
+Frail: Iosans start with -1 Toughness.  
+Starting Languages: Iosan Elven, Cygnaran  
+  
+### Nyss  
+  
+Agile: Nyss start with a d6 in Agility instead of a d4  
+Low Light Vision: Nyss ignore penalties for Dim and Dark lighting.  
+Observant: Nyss start with a free d6 in Notice.  
+Stealthy: Nyss start with a free d6 in Stealth  
+Socially Isolated: Nyss cannot start the game with any dice in Repair or Streetwise  
+Resistant to Cold: +2 Toughness against cold damage.  
+Succeptible to Fire: -2 Toughness against fire damage.  
+Frail: Nyss start with -1 Toughness.  
+Starting Languages: Aeric. Nyss must pay 1 skill point to start with knowlEdge of Cygnaran or another language (many Nyssans know Khardic instead).  
+  
+### Rhulic Dwarves  
+  
+Clan Trained: Dwarves begin the game with a free d6 in KnowlEdge (Craft) skill of their choice.  
+Low Light Vision: Dwarves ignore penalties for Dim and Dark lighting.  
+Oathbound: Dwarves take their oaths extremely seriously, breaking a formal oath or plEdge is a very serious offense and cause for exile or even death.  
+Slow: Dwarves have a Pace of 5"  
+Tough: Dwarves start with d6 Vigor instead of d4.  
+Ogrun Bond: Dwarves receive +1 Charisma when dealing with Ogruns.  
+Starting Languages: Cygnaran, Rhulic.  
+  
+### Gobbers  
+  
+Agile: Gobbers start with a d6 in Agility instead of a d4.  
+Tinker: Gobbers begin the game with a free d6 in KnowlEdge (Craft Alchemy) or Repair  
+Stealthy: Gobbers begin the game with a free d6 in Stealth due to their chameleonic skin.  
+Low Light Vision: Gobbers ignore penalties for Dim and Dark lighting.  
+Small: Gobbers’ small size reduces their Toughness by 1.  
+Slow: Gobbers have a Pace of 5".  
+Weak: Gobbers pay double the point cost to raise the Strength during character creation and during play.  
+Starting Languages: Cygnaran, Molgur.  
+  
+### Bogrin  
+  
+Agile: Bogrin start with a d6 in Agility instead of a d4.  
+Stealthy: Bogrin begin the game with a free d6 in Stealth.  
+Observant: Bogrin begin the game with a free d6 in Notice.  
+Low Light Vision: Borgin ignore the penalties for Dim and Dark Lighting.  
+Small: Bogrins’ small size reduces their Toughness by 1.  
+Slow: Bogrins have a Pace of 5".  
+Savage: Bogrins cannot begin the game with any dice in Persuasion or Streetwise. Bogrins must pay 1 skill point to start the game literate in all languages that they can speak.  
+Stupid: Bogrins are much less cunning than their Gobber cousins and pay double to raise their Smarts during character creation and play.  
+Starting Languages: Cygnaran, Molgur.  
+  
+### Ogrun  
+  
+Big: Ogruns stand nearly 8 feet tall and have their Size increased by 1. This gives them a +1 bonus to Toughness, and increases their starting Pace to 7", but they cannot wear clothing or armor built for the small races.  
+Strong: Ogruns start with a d6 in Strength instead of a d4.  
+Fearless: Ogruns start with a free d6 in Guts.  
+Oath of Fealty: Ogrun who swears an oath of fealty to another creature or caue is incapable of betraying that oath. He can choose to disobey specific orders, but in all other ways must act in the best interests of his sworn leader or cause.  
+Rhulic Bond: Ogruns receive +1 Charisma when dealing with Rhulic Dwarves.  
+Starting Languages: Cygnaran or Rhulic, and Molgur-og.  
+  
+### Trollkin  
+  
+Tough: Trollkin start with a d6 in Vigor instead of a d4.  
+Low Light Vision: Trollkin ignore penalties for Dim and Dark Lighting.  
+Improved Healing: Trollkin start with a free Fast Healing Edge. Trollkin can also regenerate lost limbs as long as they can feast continuously (preferably on raw meat) while doing so. Trollkin regenerate a lost limb in 1d6+1 days if it has been surgically re-attached, and 2d20+10 days to regrow a limb entirely.  
+Fearless: Trollkin start with a free d6 in Guts.  
+Monstrous: Trollkin are widely distrusted because of their unpredictable nature and eating habits and suffer -1 Charisma penalty when dealing with other races (not including Gobbers, Bogrin, and Ogrun).  
+Expert Hunter: Trollkin start with a free d6 in Tracking.  
+  
+  
+### Tharn  
+  
+Tharn Racial Transformation: Can transform as a full round action or immediately for 1 benny.   
+  
 TBD
 
 ## Archetypes
@@ -143,15 +143,9 @@ Character receives a +1 die type to Agility and one of the following benefits.
 Character receives a +1 die type to Smarts and one of the following benefits.
 
 * Battlefield Coordinator: While in his command radius range, friendly characters cannot hit friendly characters if they miss.
-<<<<<<< HEAD
 * Genius: You gain +2 to Knowledge and Repair rolls.
 * Hyper Perception: You gain +2 to Notice and Investigation rolls.
 * Perfect Plot: Spend a benny and character's following your plans roll a d8 wild card die for the day.
-=======
-* Genius: You gain +1d6 to Knowledge and Repair rolls.
-* Hyper Perception: You gain +1d6 to Notice and Investigation rolls.
-* Perfect Plot: Spend a benny and characters following your plans roll a d8 wild card die for the day.
->>>>>>> d6074856b1d309feb6ec41341d91d9672e3abe7e
 * Photographic Memory: You have photographic memory.
 * Plan of Action: At the start of combat, spend a benny to redraw an initiative card of 4 or below and gain +2 to attack rolls during the first round of combat.
 * Prescient: Spend a benny to win initiative and take the first turn.  If two or more people use this, they make an opposed agility roll to see which goes first.
@@ -164,19 +158,11 @@ Character receives a +1 die type to Smarts and one of the following benefits.
 Character begins with the Arcane Background Edge of his/her choice and one of the following benefits.
 
 * Blood Boon: When you destroy a living character with a melee attack, you can immediately cast a spell with a power of 3 or lower. This spell does not require a quick action.
-<<<<<<< HEAD
 * Combat Caster: You gain +2 on offensive arcane skill rolls.
 * Dominator: Spend a benny during your turn to double your control area for one round.
 * Fast Caster: Gain one extra action each activation that can only be used to cast a spell.
 * Magic Sensitivity: Automatically sense when another character casts a spell within 50' per die type of Spirit.
-* Additional Study: Gain an additional power.
-=======
-* Combat Caster: You gain +1d6 on offensive arcane skill rolls.
-* Dominator: Spend a benny during your turn to double your command area for one round.
-* Fast Caster: One spell of your choice can be cast as a free action. Can be taken multiple times.
-* Magic Sensitivity: Automatically sense when another character casts a spell within 10' per die type of Spirit.
 * Additional Study: Gain an additional power. Can be taken multiple times.
->>>>>>> d6074856b1d309feb6ec41341d91d9672e3abe7e
 * Powerful Caster: Spend a benny to double the range of a spell.
 * Quick Cast: Spend a benny to immediately cast one spell at the start of combat.  
 * Rune Reader: Identify any spell cast in line of sight.  Learn the type of magic cast and arcane background of the caster.
