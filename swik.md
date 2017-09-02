@@ -1,6 +1,13 @@
 Savage Worlds Iron Kingdoms
 ===========================
 
+<!---
+TODO: Add SW edges to careers.
+TODO: Figure out what to do about Command.
+TODO: Find alternate rules for fury and focus.
+TODO: Tharn.
+--->
+
 # Creating Characters
 
 ## Race
@@ -1918,13 +1925,16 @@ Subtract 4 from the rating of IK armor to find it's SW equivalent.
 
 
 ## Critters
+
 ### Conversion
+
 ### Warnouns
 
 ## Magic
+
 ### Arcane Backgrounds
-#### Arcane
-#### Divine
+
+### Spell Conversion
 
 IK spells are typically not as detailed or versatile as SW spells. With the exception of a variety of wargame oriented combat mechanics, they typically reduce to a casting cost, a range, and an amount of damage. Casting cost can be converted directly to Power. Range should be doubled. Damage should be converted according to the table in the "Gear:Weapons" section.
 
