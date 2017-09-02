@@ -111,7 +111,7 @@ TBD
 
 Character receives a +1 die type to Strength and one of the following benefits.
 
-* Back Swing: Once per turn, you can spend a benny to gain one additional melee attack.
+* Back Swing: Once per turn, you can spend a benny to gain +1d6 to attack. Melee attack dice can be divided among multiple opponents.
 * Beat Back: When you hit with a melee attack, you may push your target 1" directly away and then advance up to 1.
 * Bounding Leap: Once during each turn if you don't run or charge, spend a benny to place yourself within 5 of your current location.
 * Counter Charge: When an enemy advances and ends movement within 6" and in LOS, spend a benny to charge.
@@ -119,8 +119,8 @@ Character receives a +1 die type to Strength and one of the following benefits.
 * Revitalize: Spend a benny to regain a number of vitality points equal to your Vigor.
 * Righteous Anger: When one or more friendly characters are damaged by an enemy attack while in your command radius range, gain +2 Strength and Toughness for one round.
 * Shield Breaker: Spend a benny to destroy a shield if you hit with a melee attack.
-* Tough: When you are disabled, roll a D6.  On a 5 or 6, heal 1 vitality point.  You are no longer disabled but you are knocked down.
-* Vendetta: Spend a benny and name an enemy.  Gain boosted attack rolls against that enemy.
+* Tough: When you are incapacitated, roll a D6.  On a 5 or 6, heal 1 vitality point.  You are no longer disabled but you are knocked down.
+* Vendetta: Spend a benny and name an enemy.  Gain +1d6 to attack rolls against that enemy.
 
 ### Skilled
 
@@ -143,13 +143,19 @@ Character receives a +1 die type to Agility and one of the following benefits.
 Character receives a +1 die type to Smarts and one of the following benefits.
 
 * Battlefield Coordinator: While in his command radius range, friendly characters cannot hit friendly characters if they miss.
+<<<<<<< HEAD
 * Genius: You gain +2 to Knowledge and Repair rolls.
 * Hyper Perception: You gain +2 to Notice and Investigation rolls.
 * Perfect Plot: Spend a benny and character's following your plans roll a d8 wild card die for the day.
+=======
+* Genius: You gain +1d6 to Knowledge and Repair rolls.
+* Hyper Perception: You gain +1d6 to Notice and Investigation rolls.
+* Perfect Plot: Spend a benny and characters following your plans roll a d8 wild card die for the day.
+>>>>>>> d6074856b1d309feb6ec41341d91d9672e3abe7e
 * Photographic Memory: You have photographic memory.
 * Plan of Action: At the start of combat, spend a benny to redraw an initiative card of 4 or below and gain +2 to attack rolls during the first round of combat.
-* Prescient: Spend a benny to win initiative and take the first turn.  If two or more people use this, they make initiative rolls to see which goes first.
-* Quick Thinking: Once per round, spend a benny to make one action at the start of another character's turn.
+* Prescient: Spend a benny to win initiative and take the first turn.  If two or more people use this, they make an opposed agility roll to see which goes first.
+* Quick Thinking: Once per round, spend a benny to make an action at the start of another character's turn.
 * Savant: Can use any Smarts skill untrained at 1d4.
 * Unconventional Warfare: Spend a benny to turn the environment against the enemy.
 
@@ -158,16 +164,24 @@ Character receives a +1 die type to Smarts and one of the following benefits.
 Character begins with the Arcane Background Edge of his/her choice and one of the following benefits.
 
 * Blood Boon: When you destroy a living character with a melee attack, you can immediately cast a spell with a power of 3 or lower. This spell does not require a quick action.
+<<<<<<< HEAD
 * Combat Caster: You gain +2 on offensive arcane skill rolls.
 * Dominator: Spend a benny during your turn to double your control area for one round.
 * Fast Caster: Gain one extra action each activation that can only be used to cast a spell.
 * Magic Sensitivity: Automatically sense when another character casts a spell within 50' per die type of Spirit.
 * Additional Study: Gain an additional power.
+=======
+* Combat Caster: You gain +1d6 on offensive arcane skill rolls.
+* Dominator: Spend a benny during your turn to double your command area for one round.
+* Fast Caster: One spell of your choice can be cast as a free action. Can be taken multiple times.
+* Magic Sensitivity: Automatically sense when another character casts a spell within 10' per die type of Spirit.
+* Additional Study: Gain an additional power. Can be taken multiple times.
+>>>>>>> d6074856b1d309feb6ec41341d91d9672e3abe7e
 * Powerful Caster: Spend a benny to double the range of a spell.
-* Quick Cast: Spend a benny to immediately cast one spell at the start of combat.  Do not pay the power point cost.
+* Quick Cast: Spend a benny to immediately cast one spell at the start of combat.  
 * Rune Reader: Identify any spell cast in line of sight.  Learn the type of magic cast and arcane background of the caster.
-* Strength of Will: After a failed fatigue roll, spend a benny to instead automatically succeed.
-* Warding Circle: Spend 15 minutes to create a warded circle. Undead and Infernal entities may not enter the circle.
+* Strength of Will: Spend a benny to automatically pass a failed casting roll.
+* Warding Circle: Spend 15 minutes to create a warded circle. Has the effect of Banish on undead and Infernal entities attempting to enter the circle.
 
 
 ## Careers
@@ -1445,9 +1459,9 @@ Two additional skills don't conform to any existing skill set:
 ### Abilities as Edges
 
 * Abomination: The Character provokes a Terror check in battle at a -2 penalty. This Terror affect both friendly and enemy chars. Can reroll Intimidation rolls, can only reroll once as a result of Abomination.
-* Ace Commander: This character gains an additional action each turn that can be used only to drive a 'jack.
+* Ace Commander: This character can drive a 'jack as a free action.
 * Acrobatics: The character can move through other characters if he has enough movement to move completely past their bases. The character also gains a +3 on Jumping skill rolls.
-* Adaptable (Urban): In an urban environment, Character can reroll failed Climbing and Jumping rolls. Each roll can only be rerolled once as a result of Adaptable (Urban)
+* Adaptable (Urban): In an urban environment, Character can reroll failed Climbing and Jumping rolls. Each roll can only be rerolled once as a result of Adaptable (Urban).
 * Adjust Aim: If this character misses with a bow ranged attack, he gains +2 to his next ranged attack roll with a bow that turn.
 * Advance Move: At the start of combat before initiative is rolled, this character can make a full move.
 * Advisor: While B2B with this character, friendly characters gain +1" to their command radius.
@@ -1470,7 +1484,7 @@ Two additional skills don't conform to any existing skill set:
 * Artificer: This character can create wolds.
 * Astute: The character can re-roll failed Notice rolls.
 * Authority: A character with this ability gains +2 on social skill rolls when dealing with characters s/he mentors.
-* Backstab: This character gains an additional die on his back strike damage rolls.
+* Backstab: This character gains +1d6 on his back strike damage rolls.
 * Balm of Dhunia: This character can reroll failed Knowledge (Animal Handling) and Healing skill rolls. Each failed roll can be rerolled only once as a result of Balm of Dhunia.
 * Battle Commander: This character can use one battle plan during each of his turns without spending a benny.
 * Battle Plan (Battlefield Coordination): Spend 1 benny to use. Free action. For one round, while in this character's command range, friendly characters do not have a chance to hit friendly characters when they miss with ranged or magic attacks while firing into melee.
@@ -1554,11 +1568,11 @@ Two additional skills don't conform to any existing skill set:
 * Crackshot: When making a ranged or magic attack against a target that has concealment, cover, or elevation, this character gains +2 on the attack rolls.
 * Craft Rune Shot: The character can craft his own rune shot ammunition. 
 * Croaker: This character can spend an action to unleash a powerful croak. This sound can be heard for up to one mile.
-* Crossbowman: The character can reload a Crossbow as an action instead of a full round action.
+* Crossbowman: The character can reload a Crossbow and attack in the same round.
 * Dark Scribe: Can create thralls in half the time.
 * Deadly Skill: A character that is damaged by an attack made by this character loses Tough and cannot heal or be healed for one round.
 * Death Mastery: If a living char is destroyed in this character's command radius, this char can immediately spend a benny to animate it. Destroyed char permanently becomes a swamp shambler under this char's control.
-* Defender: Once per round, when a friendly within your command radius is hit with an enemy attack, immediately after the attack is resolved you can advance toward the enemy character, up to 2" and make a melee attack.
+* Defender: Once per round, when a friendly within your command radius is hit with an enemy attack, immediately after the attack is resolved you can advance toward the enemy character, up to 2", and make one melee attack.
 * Defensive Line: While this character is B2B with one more friendly characters, he gains +1 Toughness.  While the character is B2B with one or more friendly character who also have the ability, the bonus increases to +2.
 * Demolish: This character gains +2 to damage rolls against constructs and structures. At the Veteran level, this character gains an additional die on damage rolls against constructs and structures instead of boosted rolls.
 * Dhunia's Strike: Free action to pray to Dhunia. The next melee attack made by this character this turn is considered to be made with a magical weapon, and  can reroll the damage roll. Damage can be rerolled only once as a result of this ability.
