@@ -101,7 +101,9 @@ Expert Hunter: Trollkin start with a free d6 in Tracking.
 
 ### Tharn
 
-Tharn Racial Transformation: Can transform as a full action or immediately for 1 benny. 
+Tharn Racial Transformation: Can transform as a full round action or immediately for 1 benny. 
+
+TBD
 
 ## Archetypes
 
@@ -134,15 +136,15 @@ Character receives a +1 die type to Agility and one of the following benefits.
 * Sidestep: When you hit with an enemy with a melee weapon, advance up to 2".  You cannot be targeted by free strikes during this move.
 * Swashbuckler: Once during each turn, spend a benny to make melee attack against each target in melee range.
 * Untouchable: Spend a benny to penalize all enemy attacks against you by -2 for one round.
-* Virtuoso: Choose a type of weapon.  When making a non-AOE attack with a weapon of that type, gain +1d4 to attack and damage.
+* Virtuoso: Choose a type of weapon.  When making a non-AOE attack with a weapon of that type, gain +1 to attack and damage.
 
 ### Intellectual/Cunning
 
 Character receives a +1 die type to Smarts and one of the following benefits.
 
 * Battlefield Coordinator: While in his command radius range, friendly characters cannot hit friendly characters if they miss.
-* Genius: You gain +1d6 to Knowledge and Repair rolls.
-* Hyper Perception: You gain +1d6 to Notice and Investigation rolls.
+* Genius: You gain +2 to Knowledge and Repair rolls.
+* Hyper Perception: You gain +2 to Notice and Investigation rolls.
 * Perfect Plot: Spend a benny and character's following your plans roll a d8 wild card die for the day.
 * Photographic Memory: You have photographic memory.
 * Plan of Action: At the start of combat, spend a benny to redraw an initiative card of 4 or below and gain +2 to attack rolls during the first round of combat.
@@ -156,7 +158,7 @@ Character receives a +1 die type to Smarts and one of the following benefits.
 Character begins with the Arcane Background Edge of his/her choice and one of the following benefits.
 
 * Blood Boon: When you destroy a living character with a melee attack, you can immediately cast a spell with a power of 3 or lower. This spell does not require a quick action.
-* Combat Caster: You gain +1d6 on offensive arcane skill rolls.
+* Combat Caster: You gain +2 on offensive arcane skill rolls.
 * Dominator: Spend a benny during your turn to double your control area for one round.
 * Fast Caster: Gain one extra action each activation that can only be used to cast a spell.
 * Magic Sensitivity: Automatically sense when another character casts a spell within 50' per die type of Spirit.
@@ -219,7 +221,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Restrictions: Alchemist, Arcane Mechanik, Aristocrat, Explorer, Horseman, Investigator, Military Officer, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Spy, Warcaster, Warcaster (Khadoran)
 * Starting Edges: Great Power
 * Possible Edges: Arcane Defenses, Arcane Scholar, Great Power, University Education
-* Starting Skills: Knowledge (Arcane) d6, Investigation [Research] d6; None
+* Starting Skills: Knowledge (Arcane) d6, Investigation [Research] d6
 * Possible Skills: Knowledge (Any Craft) d8, Knowledge (Etiquette) d8, General Skills d12, Persuasion [Negotiation] d8, Persuasion [Oratory] d8, Investigation [Research] d12; None
 * Starting Connections: Greylord Covenant
 * Starting Assets: None
@@ -230,7 +232,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Restrictions: None
 * Starting Edges: Great Power
 * Possible Edges: Arcane Defenses, Arcane Scholar, Great Power, University Education
-* Starting Skills: Knowledge (Arcane) d6, Investigation [Research] d6; None
+* Starting Skills: Knowledge (Arcane) d6, Investigation [Research] d6
 * Possible Skills: Knowledge (Any Craft) d8, Knowledge (Etiquette) d8, General Skills d12, Persuasion [Negotiation] d8, Persuasion [Oratory] d8, Investigation [Research] d12; None
 * Starting Connections: Order of Illumination
 * Starting Assets: None
@@ -252,7 +254,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Restrictions: None
 * Starting Edges: Great Power
 * Possible Edges: Arcane Defenses, Arcane Scholar, Great Power, University Education
-* Starting Skills: Knowledge (Arcane) d6, Investigation [Research] d6; None
+* Starting Skills: Knowledge (Arcane) d6, Investigation [Research] d6
 * Possible Skills: Knowledge (Any Craft) d8, Knowledge (Etiquette) d8, General Skills d12, Persuasion [Negotiation] d8, Persuasion [Oratory] d8, Investigation [Research] d12; None
 * Starting Connections: None
 * Starting Assets: None
@@ -679,7 +681,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 ### Investigator
 
 * Restrictions: None
-* Starting Edges: Astute, Language
+* Starting Edges: Preternatural Awareness, Astute, Language
 * Possible Edges: Anatomical Precision, Astute, Iron Will, Language, Prowl, Signal Language, Truth Reader
 * Starting Skills: Notice d6, Knowledge (Forensics) d6, Persuasion [Interrogation] d6, Knowledge (Law) d6, Healing d6, Stealth [Sneak] d6; Choose one: Fighting [Hand Weapon] d6, Shooting [Pistol] d6
 * Possible Skills: Knowledge (Cryptography) d12, Persuasion [Deception] d12, Knowledge (Etiquette) d8, Knowledge (Forensics) d12, General Skills d12, Persuasion [Interrogation] d12, Knowledge (Law) d12, Healing d8, Persuasion [Negotiation] d10, Investigation [Research] d12, Stealth [Sneak] d12, Streetwise d12; Fighting [Hand Weapon] d8, Shooting [Pistol] d8, Fighting [Unarmed Combat] d8
@@ -895,6 +897,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Starting Connections: None
 * Starting Assets: None
 * Starting Money: 100
+* Special: +1 die type to Strength or Vigor.
 
 ### Raider
 
@@ -1126,6 +1129,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Starting Connections: None
 * Starting Assets: None
 * Starting Money: 75
+* Special: +1 die type to Vigor.
 
 ### Sorcerer (Storm)
 
@@ -1137,6 +1141,7 @@ Character begins with the Arcane Background Edge of his/her choice and one of th
 * Starting Connections: None
 * Starting Assets: None
 * Starting Money: 75
+* Special: +1 to Pace.
 
 ### Spy
 
@@ -1429,6 +1434,11 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Survival: Navigation
 * Repair: Mechanikal Engineering
 
+Two additional skills don't conform to any existing skill set:
+
+* Fighting [Shield]: May be rolled to make a shield strike. Adds (die type / 4; round up) to a character's Parry.
+* Command: May be rolled to exert military authority in and out of combad. Adds (die type / 2) to a character's command radius.
+
 
 ## Edges and Hinderances
 
@@ -1480,32 +1490,24 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Bayonet Charge: When you charge with ranged weapon that has a Bayonet, after moving but before making charge attack, make one free ranged attack targeting charge target.
 * Beast Handler: This character can reroll failed Knowledge (Animal Handling) skill rolls. Each failed roll can be rerolled only once as a result of Beast Handler.
 * Berserk: When this char incapacitates or destroys one or more other chars with a melee attack during his turn, immediately after the attack is resolved he must make one additional melee attack against another char in his melee range.
-<!---
 * Big Game Hunter: When a character with Big Game Hunter makes a melee or ranged attack against an natural animal or beast native to the wilds of Immoren, he gains a bonus on attack rolls equal to his Survival skill.
---->
 * Binding: When the character ties up, manacles or otherwise restrains another character with some form of restraints, the bound character suffers a -2 skill roll penalty to escape.
-* Black Tongue: Gain +1d4 on social rolls against infernals.
+* Black Tongue: Gain +1 on social rolls against infernals.
 * Blade Shield (Nyss Great Sword): When this character is armed with the specified weapon, he and friendly characters B2B with him gain +2 Parry against attacks originating in their front arcs.
 * Blaster: The character gains +2 to hit with electrical ranged attacks.
 * Blood Quenched: This character gains a cumulative +1 Strength and Toughness for each living enemy he destroys with a melee attack during his activation. This bonus lasts for one round.
 * Blood Rites: At Novice level, this character gains +2 to her sacral blade damage rolls. At Veteran level, she gains +3 to her sacral blade damage rolls. At Legendary level, she gains +4 to her sacral blade damage rolls.
-<!---
-* Blood Ritual: Each time this character makes a melee attack or damage roll during her activation, she can suffer d3 damage points to boost the roll. This damage is suffered before the roll is made.
---->
+* Blood Ritual: This character can take one wound for a +1d6 bonus on all attack and damage rolls for one round. This damage is suffered before the roll is made.
 * Blood Spiller: The character gains +2 on damage rolls against living characters.
-* Blood Thirst: When this character charges a living character, this character gains +2˝ movement.
-<!---
-* Blood Trade: This character can upkeep spells by suffering d3 damage points per spell instead of spending fury points or gaining a fatigue point.
---->
+* Blood Thirst: When this character charges a living character, this character gains +2" movement.
+* Blood Trade: This character can upkeep any number of spells by suffering one wound; the character is not Shaken as a result of the damage.
 * Bloodlust: Char retains reason rather than losing himself to complete madness. Char's sanity is not reduced as a result of wielding a fellblade, and char never becomes a slave to the weapon.
 * Blur of Motion: Each time this character makes a ranged attack with a bow, he can immediately nock another arrow from his quiver without using an action.
-<!---
-* Boarding Action: Character can use Jumpung to make a jump as a quick action instead of a full action after making a Full Advance.
---->
+* Boarding Action: Character can use Athletics (Jumping) to make a jump as a free action after making a full move.
 * Bodge: The character can make temporary repairs to a steamjack in the midst of combat.
 * Bodyguard: The character is not limited to the number of times it can use Shield Guard each round.
 * Bomber: When this character's grenade ranged attacks deviates, you can reroll the deviation and/or the direction of deviation.  A roll can only be rerolled once as a result of Bomber.
-* Bond: Bond to warcaster armor, steamjack, or a mechanika weapon.  See page 158 of the Core Rulebook.
+* Bond: Bond to warcaster armor, steamjack, or a mechanika weapon. Bonding to a steamjack allows the character to spend bennies on the 'jack. Bonding with a weapon allows the character to spend a benny for an extra +1d6 on attack and damage for one attack. Bonding with warcaster armor activates its force field; a benny can be spent to replenish a level of the force field.
 * Bone Grinder: This character can create bone grinder fetishes.
 * Brawler: When using an improvised melee weapon, Character can use Unarmed Combat skill instead of Hand Weapon Skill for the attack roll.
 * Brew Master: You can reroll failed Alchemy rolls.  Each failed roll can be rerolled only once as a result of Brew Master.
@@ -1516,9 +1518,9 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Calm: While in this character's command range, friendly warbeasts gain +1 THR.
 --->
 * Camouflage: Gain +2 Parry when benefiting from concealment/cover.
-* Card Sharp: Add +1d4 extra die to your Gambling rolls.  Difficulty of the Notice skill roll to notice the cheating is the cheating character's Gambling skill.
+* Card Sharp: Add +2 to your Gambling rolls.  Difficulty of the Notice skill roll to notice the cheating is the cheating character's Gambling skill.
 * Careful Practitioner: When this character would suffer damage due to a failed ritual, this character suffers a damage roll with half the normal damage instead.
-* Cautious Advance: The character gains one extra 2" move each turn that can be used only to Take Cover.
+* Cautious Advance: The character gains one extra 2" move each turn that can be used only to take cover.
 * Cautious Trapper: If this character fails to disarm a trap, it does not cause the trap to trigger.
 * Cavalry Charge: This character can make mounted charges while riding a mount designated as a warhorse or battle mount.
 * Cavalry Fighter: After making a ranged attack, this character can draw a melee weapon without spending an action. After making a melee attack, he can sheath his melee weapon without spending an action.
@@ -1558,11 +1560,11 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Death Mastery: If a living char is destroyed in this character's command radius, this char can immediately spend a benny to animate it. Destroyed char permanently becomes a swamp shambler under this char's control.
 * Defender: Once per round, when a friendly within your command radius is hit with an enemy attack, immediately after the attack is resolved you can advance toward the enemy character, up to 2" and make a melee attack.
 * Defensive Line: While this character is B2B with one more friendly characters, he gains +1 Toughness.  While the character is B2B with one or more friendly character who also have the ability, the bonus increases to +2.
-* Demolish: This character gains +1d6 to damage rolls against constructs and structures. At the Veteran level, this character gains an additional die on damage rolls against constructs and structures instead of boosted rolls.
+* Demolish: This character gains +2 to damage rolls against constructs and structures. At the Veteran level, this character gains an additional die on damage rolls against constructs and structures instead of boosted rolls.
 * Dhunia's Strike: Free action to pray to Dhunia. The next melee attack made by this character this turn is considered to be made with a magical weapon, and  can reroll the damage roll. Damage can be rerolled only once as a result of this ability.
 * Dig In: While having spade in hand: Action to dig fox hole.  Until you move, are placed, go prone, or engaged, you gain cover, do not suffer area effect damage, and do not block LOS.  Cannot use when running.
-* Disease Resistance: The character gains +1d6 on rolls to resist disease and infection.
-* Dismember: When this character hits a living animal or beast native to the wilds of Immoren with a melee attack, he gains +1d6 to damage.
+* Disease Resistance: The character gains +2 on rolls to resist disease and infection.
+* Dismember: When this character hits a living animal or beast native to the wilds of Immoren with a melee attack, he gains +2 to damage.
 * Dispel: When this character hits an enemy with a melee attack, he can spend 1 benny to cause any upkeep spells on that enemy to immediately expire.
 * Divine Fortitude: The character can wear Bastion plate armor.
 * Divine Might: The character can wield two relic blades at a time.
@@ -1579,14 +1581,14 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 <!---
 * Earth Magic: When a wold warbeast in this character's battlegroup is forced to use its animus while in this character's control range, reduce the COST of the animus by 1.
 --->
-* Electromancer: The character's Stormsmithing lightning strike damage rolls gain +1d6.
+* Electromancer: The character's Stormsmithing lightning strike damage rolls gain +2.
 * Elemental Mastery: You gain +1 on your attack and damage rolls when casting an offensive spell with an elemental trapping.
 * Empower: During your turn, while you are B2B with a non-incapacitated friendly character, you can spend 1 benny to cause the friendly character to remove one wound level.
 * Empower Weapon: The character can empower a non-mechanikal melee weapon with his arcane energy. The empowered weapon is considered to be a magical weapon while the character is armed with it. 
 * Enigma Cipher: Gain a benny for solving a puzzle, riddle, or other complex problem. GM determines what counts.
 * Evasive Rider: While mounted, when you are missed by an enemy attack, you can immediately advance up to 2" after the attack is resolved unless you were missed while moving. You cannot be targeted by free strikes during this movement.
 * Expert Rider: You can reroll failed riding rolls. Each roll can be rerolled only once.  Additionally, as long as the mount is not knocked out you and your mount cannot be knocked down while you are mounted.
-* Exterminator: When this character hits a living animal or beast native to the wilds of Immoren with a non-AOE ranged attack during a turn he forfeited his movement to aim, he gains +1d6 to his damage roll.
+* Exterminator: When this character hits a living animal or beast native to the wilds of Immoren with a non-AOE ranged attack during a turn he forfeited his movement to aim, he gains +2 to his damage roll.
 * Eye of the Storm: The character's command over elements is such that he can now protect those around him from the fury of the storm. While operating a stormcaller and lightning rod, this character and friendly characters in his command range gain Immunity: Electicity.
 * Fabricator: Reroll failed Mechanikal Engineering rolls to repair or dismantle steam-powered armor. Each roll can be rerolled only once as a result of Fabricator. Additionally, her armor regains an additional point when she repairs damage.
 * Fall Back: At the end of this character's turn, if he destroyed one or more enemies with ranged attacks that turn he can make an additional move.
@@ -1621,9 +1623,9 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Field Marshal (Unyielding): Spend a fury point during her Control Phase. Characters in the warlock's battlegroup gain Unyielding while they are in his control area. (While engaging an enemy, a character with Unyielding gains +2 Toughness.)
 --->
 * Find Cover: At the start of combat before Initiative is rolled, this character can immediately advance up to 2" and perform an Action to take cover or go prone.
-* Finisher: This character can spend a benny to add +1d6 a damage roll against a damaged target.
+* Finisher: This character can spend a benny to add +2 a damage roll against a damaged target.
 * Fire in the Hole!: You can make a Grenade attack at the start of your turn before moving or making normal attacks.  You must then use your movement to run or make a full move.
-* Fist of God: The character's unarmed melee combat attacks are magical. Additionally, the character gains an additional +1d6 on unarmed melee attack damage rolls against structures.
+* Fist of God: The character's unarmed melee combat attacks are magical. Additionally, the character gains an additional +2 on unarmed melee attack damage rolls against structures.
 * Flash Thief: The Character gains a benny when he successfully picks a pocket using the Pick Pocket Skill.
 * Fleet Foot: When this character runs, he moves at Pace x 3.
 * Flesh of Steel: While unarmored, use this character's full Vigor when determining his Toughness. This ability has no effect while this character is wearing armor.
@@ -1647,7 +1649,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 --->
 * Good Breeding: This character can reroll failed Etiquette rolls.  Each roll can be rerolled only once due to Good Breeding.
 * Grappler: An Opponent trying to break free of a grapple performed by this character suffers a -2 penalty to the roll. 
-* Grave Man: Gain +1d4 on social rolls against undead. 
+* Grave Man: Gain +1 on social rolls against undead. 
 * Great Power: This character can upkeep one spell each turn without spending a power point or suffering a casting penalty.
 * Grenadier: The character gains an additional Action each turn that can only be used to pull the pin on a grenade.
 <!---
@@ -1656,11 +1658,11 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Gunner: Reduce the character's Pace and Parry penalties from carrying a slugger by 1. The character can fire a slugger from a standing position while carrying it, without the aid of a tripod or swivel mount.
 * Hack: This character gains +2 to damage rolls against knocked down targets.
 * Hard: This character does not suffer damage or effects from impact attacks or collateral damage.
-* Hardened Strike: The character's kick and punch unarmed melee attack damage rolls gain +1d6. At Veteran level, the characater gains a +1d10 instead.
+* Hardened Strike: The character's kick and punch unarmed melee attack damage rolls gain +2. At Veteran level, the characater gains a +1d10 instead.
 * Harry: When an enemy character damaged by this character with a ranged or melee attack advances during the enemy character's activation, this character gains a free move of up to 3″.
 * Haruspex: Can see glimpse of the future in the entrails of freshly killed animals. 
 * Head-Butt: Instead of making a normal Unarmed Combat attack, this character can spend a benny to make a Head Butt attack.  
-* Heart Eater: When this character destroys a living character with a melee attack, he can immediately spend an action to rip out its heart. He can eat a heart as a quick action to gain +1d6 on his next melee attack or melee damage roll or to make an additional melee attack. Hearts spoil after one hour and lose all potency.
+* Heart Eater: When this character destroys a living character with a melee attack, he can immediately spend an action to rip out its heart. He can eat a heart as a quick action to gain +2 on his next melee attack or melee damage roll or to make an additional melee attack. Hearts spoil after one hour and lose all potency.
 * Heave-Ho: Instead of making a normal Unarmed Combat attack, this character can spend a benny to throw a smaller character as an attack. 
 * Hidden Traps: Other characters never gain bonuses on Notice skill rolls to spot traps set by this character.
 * Hit 'em Low: When a friendly character hits a living or undead enemy character while the enemy is B2B with this character, the enemy character is knocked down and must spend his next move standing up.
@@ -1684,7 +1686,7 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 --->
 * Inscribe Formulae: This character can Inscribe runeplates. 
 * Inscribe Thrall Rune: Can inscribe Thrall Runes. 
-* Instructor: While within 12' (2") friendly characters gain +1d4 on occupational skills that this character also posses.
+* Instructor: While within 12' (2") friendly characters gain +1 on occupational skills that this character also posses.
 * Iron Sentinel: While in B2B with one or more steamjacks you controls, gains +2 Toughness and you cannot be knocked down.
 * Iron Will: The character can reroll failed Spirit rolls.  Each roll can be rerolled only once due to Iron Will.
 * Ironhead: Char knows how to use and control mechanically enhanced steam-powered armor, such as Man-O-War armor.
@@ -1698,21 +1700,21 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Legacy of Bragg: The character gains an additional Action each turn that can only be used to make a fell call.
 * Life Drinker: When this character destroys a living enemy character with a melee attack, he heals a wound if a 5 or higher is rolled on a d6.
 * Light Cavalry: If the character is riding a mount not designated as a warhorse or battle mount, at the end of his turn he can move up to an additional 5".
-* Line Breaker: The Character gains +1d6 die on impact attack rolls.
+* Line Breaker: The Character gains +2 die on impact attack rolls.
 * Load Bearing: Reduce the Pace and Parry penalties from the armor the character wears each by 1.
 * Long-Lived: This character benefits from preternatural youth and can expect to live double the normal life expectancy of his race, experiencing almost no physical or mental decline right up until the end of his days.
 * Lost in the Crowd: While in a crowd, character can spend a benny to instantly vanish. See pg. 11 of Urban Adventures for full rules
 * Low Breeding: This Character suffers -2 to Etiquette rolls dealing with high society, but gains +2 to skill rolls relating to social dealings with the lower classes.
-* Maestro: Stormsmithng lightning strike. Increase characters target number +2. Choose one effect: Ball Lighting- AOE3, Big One- 4d6 damage, Lightning Generator- d3 consecutive characters are hit with 2d6 electrical damage.
-* Mage Killer: This character gains +1d6 on damage rolls against characters that can cast spells.
+* Maestro: Stormsmithng lightning strike. Increase character's target number +2. Choose one effect: Ball Lighting, AOE 3"; Big One, 4d6 damage; Lightning Generator, d3 consecutive characters are hit with 2d6 electrical damage.
+* Mage Killer: This character gains +2 on damage rolls against characters that can cast spells.
 * Makeshift Engineering: Given a day to find the parts in a town or industrialized settlement, the character can find any parts needed (or something to bodge ). The character can purchase parts, weapons, and gear at half the normal price.
 <!---
 * Maltreatment: Once per turn during his activation, this character can remove 1 fury point from a warbeast in his battlegroup that is in his control area and add 1 fury point to his own current total. The warbeast suffers d3 damage points. 
 --->
 * Man of Iron: Char learned to push body to the limits to compensate for failing steam-powered armor. While wearing steam-powered armor, the char never suffers the effects of internal damage.
-* Mark Target: Friendly characters gain +2 on ranged attack rolls against enemy models within thirty feet (5″) of this character and in his LOS.
+* Mark Target: Friendly characters gain +2 on ranged attack rolls against enemy models within thirty feet (5") of this character and in his LOS.
 * Marksman: The character can use Actions and aim in the same round, but still has to forfeit his movement to gain the aiming bonus.
-* Meat Alchemy: When this character makes an Alchemy skill roll to create a bone grinder fetish or an alchemical item that has animal fat, bioluminescent extract, burrow-mawg adrenal gland, mutagenic extract, or another organic ingredient, the roll gains +1d6.
+* Meat Alchemy: When this character makes an Alchemy skill roll to create a bone grinder fetish or an alchemical item that has animal fat, bioluminescent extract, burrow-mawg adrenal gland, mutagenic extract, or another organic ingredient, the roll gains +2.
 * Mother's Vengeance: When enemy attack incapacitates or destroys one or more friendly characters within thirty feet (5″) of this character, after the attack is resolved this character gains +2 Strength for one round and can immediately charge an enemy.
 * Mount Attack (Beast): While riding a mount of the speficied type, this character can make one attack with his mount during each of his turns. If the attack hits, the character hit suffers a damage roll equal to the mount's Strength. This attack uses any special rules of the mount's normal attacks.
 * Mounted: Counter Charge: While Mounted, once per turn when an enemy ends their movement withing 6 of this char and in their LOS, this character may spend a benny to charge that enemy. Cannot perform Counter Charge while engaged
@@ -1732,9 +1734,9 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Patch Up: Char can repair her non-dest. armor during combat with tools. Full action and roll mechanikal engineering at -4. Each success or raise repairs one damage level or damaged system.
 * Pathfinder: Move over rough terrain without penalty.
 * Perfect Timing: The Character is automatically missed by attacks made by friendly characters.
-* Poison Resistance: The character gains +1d6 to rolls to resist poison and toxins.
+* Poison Resistance: The character gains +2 to rolls to resist poison and toxins.
 * Port of Call: A character with Port of Call can always find his way home again.  
-* Power of Truth: If the character tells only the truth during an encounter, his Persuasion rolls receives +1d6. The character loses this ability for the rest of the encounter after telling a lie.
+* Power of Truth: If the character tells only the truth during an encounter, his Persuasion rolls receives +2. The character loses this ability for the rest of the encounter after telling a lie.
 <!---
 * Powerful Attack (Magical): When attacking with a spell, this character can spend 1 fury point or gain 1 fatigue point to boost all attack and damage rolls for the attack. 
 --->
@@ -1745,12 +1747,12 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Press the Attack: When you slam an enemy, immediately after it is resolved you can move directly towards the slammed enemy up to any distance he was moved and then make a melee attack against that enemy.
 * Prey: This char can spend 1 benny on his turn to use. Char designates one char as his prey. This char gains +2 on attack and damage rolls against prey. This char can use only once per encounter.
 * Privilege: Immune to persecution for petty crimes.  Right to be executed in the style befitting a noble.  +2 on Persuasion or Intimidation skill rolls when dealing with those beneath his station who recognize nobility.
-* Prowl: The character gains +1d6 to stealth rolls while within terrain that provides concealment, the AOE of a spell that grants concealment, or the AOE of a cloud effect.
+* Prowl: The character gains +2 to stealth rolls while within terrain that provides concealment, the AOE of a spell that grants concealment, or the AOE of a cloud effect.
 * Pursuit: Use 1 benny. Designates one enemy. For encounter, when that enemy ends his movement you can make a full move.
 * Quick Work: When you kill one or more enemies with a melee attack during your combat action, immediately after that attack is resolved, make a ranged attack with a loaded weapon.
 * Rallying Cry: Spend a benny.  For one round this character's command radius is doubled and friendly characters in his command radius, including this character, become immune to terror.
 * Ram: When this char hits an enemy with her horns, target is knocked down and can be pushed 1" directly away from this char. This char can immediately move directly toward target, up to distance pushed.
-* Reclaim: When a Menite char is destroyed in the Reclaimer's command radius range, the Relcaimer can erect a grave marker to gain soul tokens. Char can have up to 5 soul tokens at a time and can spend them to add +1d6 to attack & damage rolls. 
+* Reclaim: When a Menite char is destroyed in the Reclaimer's command radius range, the Relcaimer can erect a grave marker to gain soul tokens. Char can have up to 5 soul tokens at a time and can spend them to add +2 to attack & damage rolls. 
 * Reed in the Wind: This character cannot be targeted by free strikes.
 * Relentless Advance: When this character is damaged by an enemy attack, he gains +2 Pace for one round.
 * Relentless Advance: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character gains +2 Pace for one round.
@@ -1777,12 +1779,12 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Saddle Shot: This character does not suffer the firing from horseback penalty when making ranged attacks while mounted.
 --->
 * Sanguine Bond: When another friendly character of this character's faith suffers damage from an enemy attack while in this character's command range, this character can choose to suffer any amount of that damage instead. If this character suffers all the damage the other character sufferd, the other character is no longer considered to have been damaged.
-* Savage Strike: For each raise after the first with an unarmed or melee weapon attack, the character can spend 1 benny to add +1d6 to the damage roll.
+* Savage Strike: For each raise after the first with an unarmed or melee weapon attack, the character can spend 1 benny to add +2 to the damage roll.
 * Scavenger: When this character breaks down an item, he gains d3 scrap tokens.
 * Scent: While riding a duskwolf, this character gains +1 on his Tracking skill rolls and can ignore LOS when declaring a charge.
 * Scoping It Out: The character can spend 1 benny to use any time during his turn. When used friendly characters in command area gain a move action that can only be used to take cover.
 * Scorched Earth: This character gains +2 on ranged attack blast damage rolls.
-* Scrabble: This character gains +1d6 on Climbing skill rolls.
+* Scrabble: This character gains +2 on Climbing skill rolls.
 * Scrapper: Full action to turn weapon or armor into 1 scrap token. Up to 3 scrap tokens at the Novice level, 4 at the Veteran level, and 5 at the Legendary level. Spend 1 scrap token to reroll a failed Craft skill roll to build or repair non-magical items.
 * Scrounge: Given a day to find the parts in a town or settlement, you can find any part needed (or something close enough he can Bodge).  You can purchase steamjack parts, weapons, and gear for half price.
 * Self-Sacrifice: If friendly living char in this char's command radius suffers dam, this char can spend 1 benny to take the dam. instead. After the damage, this char heals 1 wound level if not incapacitated by the attack. 
@@ -1805,20 +1807,20 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Snacking,The character can spend an action to devour any destroyed character within its melee range to immediately heal a wound.
 * Snag & Slash: When using a hooked great sword, you can pull riders from their mounts. 
 * Snap Fire: When this character destroys an enemy with a bow ranged attack during his turn, immediately after the attack has been resolved, this character can make one additional bow ranged attack. The additional attack does not generate further attacks due to Snap Fire.
-* Sniper: When this character forfeits his movement to aim during his turn, the character's first ranged attack that turn does +1d6 damage.
+* Sniper: When this character forfeits his movement to aim during his turn, the character's first ranged attack that turn does +2 damage.
 * Snow-Wreathed: While outdoors during his turn, this character can spend a benny to use this ability. As long as he remains outdoors, the character gains concealment for the duration of the encounter.
 * Souie!: This character can use this ability during his turn as an action. When he uses ability, warbeasts in his battlegroup that are outside his control area immediately make a full move directly toward this character.
 * Soul Taker: Gain 1 soul token when a living creature destroyed in command radius area. Soul tokens can be used as bennies. Can have a max of 3 at a time.
 * Soul Thief: Quick action: Try to steal a soul token from a character in command radius rng. Contested spirit roll, Fail: nothing happens, Suceed: take soul token from target. Can't have more than 3 soul tokens from ability.
 * Soulstorm: While this character has one or more soul tokens, enemy characters not of the Menite faith entering or ending their turns within 2 of him immediately suffer one wound.
-* Specialization (Weapon): The character gains +1d4 to hit and damage with the specified weapon at novice level. This bonus increased by one die type at each subsequent level.
-
-[//]: # ( * Spirit Eater: This character can reave fury points from enemy warbeasts it destroys with a melee attack. Other characters cannot reave fury points from enemy warbeasts destroyed by this character. )
-
+* Specialization (Weapon): The character gains +1 to hit and damage with the specified weapon at novice level. This bonus increased by one die type at each subsequent level.
+<!---
+* Spirit Eater: This character can reave fury points from enemy warbeasts it destroys with a melee attack. Other characters cannot reave fury points from enemy warbeasts destroyed by this character.
+--->
 * Spirit Guide: When a living character is destroyed in this character's control area and generates a soul token, this character's controller chooses which eligible character in his control area gains the soul, regardless of the proximity of other characters.
-
-[//]: # (* Spring of Vitality: While he is not incapacitated, this character regains 1 vitality point at the start of his Maintenance Phase. Character can spend 1 benny while B2B with an incapacitated character to immediately stabilize that character.)
-
+<!---
+* Spring of Vitality: While he is not incapacitated, this character regains 1 vitality point at the start of his Maintenance Phase. Character can spend 1 benny while B2B with an incapacitated character to immediately stabilize that character.
+--->
 * Sprint: At the end of this character's turn, if she destroyed one or more enemy models with melee attacks that turn she can make a full move.
 * Staredown: As an action, this character can make a contested Spirit roll against a living animal or beast native to the wilds of Immoren with which he locks eyes. If the beast wins, nothing happens. If this character wins, the beast cannot advance toward or attack this character for one round.
 * Steady: This character cannot be knocked down. This character loses the ability while mounted.
@@ -1848,13 +1850,13 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Tinkering: The character can modify her own gear and gear of characters in B2B contact. 
 * Torture: For every 2 hours character torures someone their Vigor is reduced by 1 die type. If subject hits 0 Vigor they die. Subject gets +1 Vigor die type for each day left alone. Subject reduced to 1d4 Vigor will say anything to end torture. 
 * Traceless Path: Move at only half normal rate of speed while using this ability, either on foot or horseback, and anyone attempting to follow his trail has +3 added to his skill roll target number.
-* Tracker: This character gains +1d6 to Tracking skill rolls.
+* Tracker: This character gains +2 to Tracking skill rolls.
 * Trained Rider (Mount Type): The character has been trained to ride a mount that is otherwise impossible to ride. Can take multiple times, each time for a new mount type.
 * Treewalker: This character ignores forests when determining LOS. While in a forest, this character gains +2 Parry against melee attack rolls and can advance through obstructions and other characters if he has enough movement to move completely past them.
 * Trip: When resolving a kick unarmed melee attack, on a raise the target is knocked down.
 * Troll Speaker: This character understands the culture and the methods of communication of trolls and dire trolls. He can reroll failed social skill rolls when dealing with full-blood trolls and dire trolls. A roll can be rerolled only once as a result of Troll Speaker.
 * Truth Reader: The character automatically knows when someone is lying to him.  Keep in mind that knowing someone is lying is different from discerning the truth.
-* Tune Up: While B2B with a steamjack he controls, this character can use a Quick Action to use Tune Up.  During it's turn this round, the steamjack gains +1d6 on either attack or damage rolls.
+* Tune Up: While B2B with a steamjack he controls, this character can use a Quick Action to use Tune Up.  During it's turn this round, the steamjack gains +2 on either attack or damage rolls.
 * Tunneling: With a pick or shovel, character can tunnel through the earth. Moves at half speed and ignores other characters and attacks. Forfeit movement or action to tunnel or emerge during activation. 
 * Two-Weapon Fighting: While fighting with a one handed weapon, thrown weapon, or pistol in each hand, the character gains an additional attack for the second weapon.  He suffers -2 to attack rolls with the second weapon while doing so.
 * Unhallowed: While in this character's command range, friendly incorporeal characters gain +2 Toughness and do not suffer blast damage.
@@ -1864,9 +1866,9 @@ A number of IK skills don't exist in SW. To retain the feel of IK, these skills 
 * Vivisectionist: When this character succeeds in a roll to extract alchemical ingredients from a living creature, double the amount he gains.
 * Warlock Bond: This character can spend bennies on a warbeast.
 * Warpborn: Must take Skinwalker form during night, can transform during the day for full action or 1 benny. +1 die type to Vigor and Strength, +2 Toughness, and +3 to Notice and Tracking skills rolls. 
-* Wayfarer: This character can perform the Ley Line Travel ritual  and gains +1d6 die on the appropriate Knowledge (Lore) skill rolls when performing that ritual.
+* Wayfarer: This character can perform the Ley Line Travel ritual  and gains +2 die on the appropriate Knowledge (Lore) skill rolls when performing that ritual.
 * Waylay: When an attack made by this character has a chance to knock out a target, the Vigor roll to resist knockout is made with a -2 penalty.
-* Weapon Master (Javelin): When resolving a javelin ranged attack, this character's damage roll is +1d6.
+* Weapon Master (Javelin): When resolving a javelin ranged attack, this character's damage roll is +2.
 * Weather Vane: Predict weather. With a sucessful Persuasion check against the a target number of 12, character can predict the next 24 hours with uncanny accuracy and can tell is the weather is being artificially manipulated.
 * Weatherman: The character can reroll failed Stormsmithing skill rolls. Each roll can only be rerolled once as a result of Weatherman.
 * Whelp Companion: This character immediately gains a pyg whelp companion. A pyg character who loses a limb during play can gain a whelp naturally without using this ability. A character can have up to three whelps at a time.
@@ -1887,9 +1889,33 @@ A character taking the Minor version of this Hindrance has a –2 Charisma among
 
 ## Gear
 
+### Weapons
+
+IK weapon (melee and ranged) damage may be converted according to the following table.
+
+| POW | Damage |
+|---|---|
+| 1-4 | 1d4 |
+| 3-4 | 1d6 |
+| 5-6 | 1d8 |
+| 7-8 | 1d10 |
+| 9-10 | 2d6 |
+| 11 | 2d6+1 |
+| 12 | 2d8 |
+| 13 | 2d8+1 |
+| 14 | 3d6 |
+| 15 | 3d8 |
+| 16 | 3d10 |
+
+### Armor
+
+Subtract 4 from the rating of IK armor to find it's SW equivalent.
+
 ### Crafting Mechanika
 
 ### Warcaster armor
+
+
 
 ## Critters
 ### Conversion
@@ -1900,22 +1926,7 @@ A character taking the Minor version of this Hindrance has a –2 Charisma among
 #### Arcane
 #### Divine
 
-IK spells are typically not as detailed or versatile as SW spells. With the exception of a variety of wargame oriented combat mechanics, they typically reduce to a casting cost, a range, and an amount of damage. Casting cost can be converted directly to Power
-
-| POW | Damage |
-|---|---|
-| 8 | 1d6 |
-| 9 | 2d4 |
-| 10 | 2d6 |
-| 11 | 2d8 |
-| 12 | 3d6 |
-| 13 | 4d6 |
-| 14 | 5d6 |
-| 15 | 4d8 |
-| 16 | 6d6 |
-
-
-
+IK spells are typically not as detailed or versatile as SW spells. With the exception of a variety of wargame oriented combat mechanics, they typically reduce to a casting cost, a range, and an amount of damage. Casting cost can be converted directly to Power. Range should be doubled. Damage should be converted according to the table in the "Gear:Weapons" section.
 
 ### Trappings
 
