@@ -82,7 +82,7 @@ Sling
 Throwing 
 Unarmed Combat 
 
-## Race Perks
+## Race Abilities
 
 ### Humans
 
@@ -207,8 +207,8 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Alchemist
 
-* Possible Perks: Bomber, Brew Master, Fast Cook, Field Alchemist, Fire in the Hole!, Free Style, Grenadier, Poison Resistance
-* Possible Skills: Alchemy 4D, Any Craft 4D, Forgery 2D, General Skills 4D, Healing 4D, Persuasion 4D, Search [Research] 4D; Hand Weapon 2D, Throwing 4D, Unarmed Combat 2D
+* Possible Abilities: Bomber, Brew Master, Fast Cook, Field Alchemist, Fire in the Hole!, Free Style, Grenadier, Poison Resistance
+* Possible Skills: Alchemy 4D, Any Craft 4D, Forgery 2D, General Skills 4D, Healing 4D, Persuasion 4D, Research 4D; Hand Weapon 2D, Throwing 4D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: alchemist's leather, gas mask, traveling alchemist's kit, any five alchemical grenades, grenadier's bandolier
 * Starting Money: 50
@@ -216,7 +216,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Allegiant (Order of the Fist)
 
 * Restrictions: Cutthroat, Investigator, Priest (Menoth), Ranger, Scrutator, Spy, Warcaster, Warcaster (Protectorate)
-* Possible Perks: Acrobatics, Chain Attack: Body Slam, Cicular Vision, Fist of God, Fleet Foot, Flesh of Steel, Flying Fists, Hardened Strike, Iron Will, Precision Strike, Reed in the Wind, Serpent Strike, Shifting Sands Stance, Steady, Trip, Waylay, Whirlwind
+* Possible Abilities: Acrobatics, Chain Attack: Body Slam, Cicular Vision, Fist of God, Fleet Foot, Flesh of Steel, Flying Fists, Hardened Strike, Iron Will, Precision Strike, Reed in the Wind, Serpent Strike, Shifting Sands Stance, Steady, Trip, Waylay, Whirlwind
 * Possible Skills: General Skills 4D, Interrogation 3D, Law 3D, Sneak 4D, Survival 4D; Hand Weapon 3D, Unarmed Combat 4D
 * Starting Connections: Order of the Fist
 * Starting Assets: none
@@ -225,16 +225,16 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Arcane Mechanik (Vassal of Menoth)
 
 * Restrictions: Alchemist, Arcanist, Field Mechanik, Priest (Menoth),  Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Arcanist (Greylord)
-* Possible Perks: 'Jack Marshall, Ace Commander, Arcane Engineer, Drive: Assault, Drive: Pronto, Inscribe Formulae, Resourceful, Steamo
-* Possible Skills: Command 1D, Any Craft 4D, Cryptography 3D, General Skills 4D, Mechanikal Engineering 4D, Persuasion 2D, Search [Research] 3D; Hand Weapon 2D, Light Artillery 2D, Rifle 2D
+* Possible Abilities: 'Jack Marshall, Ace Commander, Arcane Engineer, Drive: Assault, Drive: Pronto, Inscribe Formulae, Resourceful, Steamo
+* Possible Skills: Command 1D, Any Craft 4D, Cryptography 3D, General Skills 4D, Mechanikal Engineering 4D, Persuasion 2D, Research 3D; Hand Weapon 2D, Light Artillery 2D, Rifle 2D
 * Starting Connections: Vassals of Menoth
 * Starting Assets: rune etching kit, Vassal Armor
 * Starting Money: 50
 
 ### Arcane Mechanik
 
-* Possible Perks: 'Jack Marshall, Ace Commander, Arcane Engineer, Drive: Assault, Drive: Pronto, Inscribe Formulae, Resourceful, Steamo
-* Possible Skills: Command 1D, Any Craft 4D, Cryptography 3D, General Skills 4D, Mechanikal Engineering 4D, Persuasion 2D, Search [Research] 3D; Hand Weapon 2D, Light Artillery 2D, Rifle 2D
+* Possible Abilities: 'Jack Marshall, Ace Commander, Arcane Engineer, Drive: Assault, Drive: Pronto, Inscribe Formulae, Resourceful, Steamo
+* Possible Skills: Command 1D, Any Craft 4D, Cryptography 3D, General Skills 4D, Mechanikal Engineering 4D, Persuasion 2D, Research 3D; Hand Weapon 2D, Light Artillery 2D, Rifle 2D
 * Starting Connections: None
 * Starting Assets: rune etching kit, mechanika weapon or suit of armor worth up to 750 gc, including the housing, power source, and rune plate.
 * Starting Money: 50
@@ -242,16 +242,16 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Arcanist (Greylord)
 
 * Restrictions: Alchemist, Arcane Mechanik, Aristocrat, Explorer, Horseman, Investigator, Military Officer, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Spy, Warcaster, Warcaster (Khadoran)
-* Possible Perks: Arcane Defenses, Arcane Scholar, Great Power, University Education
-* Possible Skills: Any Craft 2D, Etiquette 2D, General Skills 4D, Persuasion 2D, Oratory 2D, Search [Research] 4D; None
+* Possible Abilities: Arcane Defenses, Arcane Scholar, Great Power, University Education
+* Possible Skills: Any Craft 2D, Etiquette 2D, General Skills 4D, Persuasion 2D, Oratory 2D, Research 4D; None
 * Starting Connections: Greylord Covenant
 * Starting Assets: None
 * Starting Money: 75
 
 ### Arcanist (Illuminated)
 
-* Possible Perks: Arcane Defenses, Arcane Scholar, Great Power, University Education
-* Possible Skills: Any Craft 2D, Etiquette 2D, General Skills 4D, Persuasion 2D, Oratory 2D, Search [Research] 4D; None
+* Possible Abilities: Arcane Defenses, Arcane Scholar, Great Power, University Education
+* Possible Skills: Any Craft 2D, Etiquette 2D, General Skills 4D, Persuasion 2D, Oratory 2D, Research 4D; None
 * Starting Connections: Order of Illumination
 * Starting Assets: None
 * Starting Money: 75
@@ -259,23 +259,23 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Arcanist (Trident)
 
 * Restrictions: Arcane Mechanik, Aristocrat, Explorer, Soldier (Marine), Military Officer, Warcaster (Ordic), Pirate, Priest (Morrow), Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm)
-* Possible Perks: Arcane Defenses, Arcane Scholar, Great Power, University Education
-* Possible Skills: Any Craft 2D, Etiquette 2D, General Skills 4D, Persuasion 2D, Oratory 2D, Search [Research] 4D; Hand Weapon 3D, Pistol 3D
+* Possible Abilities: Arcane Defenses, Arcane Scholar, Great Power, University Education
+* Possible Skills: Any Craft 2D, Etiquette 2D, General Skills 4D, Persuasion 2D, Oratory 2D, Research 4D; Hand Weapon 3D, Pistol 3D
 * Starting Connections: Ordic Military
 * Starting Assets: None
 * Starting Money: 75
 
 ### Arcanist
 
-* Possible Perks: Arcane Defenses, Arcane Scholar, Great Power, University Education
-* Possible Skills: Any Craft 2D, Etiquette 2D, General Skills 4D, Persuasion 2D, Oratory 2D, Search [Research] 4D; None
+* Possible Abilities: Arcane Defenses, Arcane Scholar, Great Power, University Education
+* Possible Skills: Any Craft 2D, Etiquette 2D, General Skills 4D, Persuasion 2D, Oratory 2D, Research 4D; None
 * Starting Connections: None
 * Starting Assets: None
 * Starting Money: 75
 
 ### Archer
 
-* Possible Perks: Adjust Aim, Arcing Shot, Blur of Motion, Crackshot, Dual Shot (Archery), Fast Draw, Keen Eyed, Marksman, Return Fire, Saddle Shot, Shootist, Snap Fire, Targeteer
+* Possible Abilities: Adjust Aim, Arcing Shot, Blur of Motion, Crackshot, Dual Shot (Archery), Fast Draw, Keen Eyed, Marksman, Return Fire, Saddle Shot, Shootist, Snap Fire, Targeteer
 * Possible Skills: General Skills 4D, Sneak 3D, Survival 3D, Tracking 3D,Any Craft(Fletcher) 4D; Archery 4D
 * Starting Connections: None
 * Starting Assets: Bow, Quiver of 10 arrows (any type)
@@ -283,7 +283,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Aristocrat
 
-* Possible Perks: Advisor, Appraise, Battle Plan: Call to Action, Expert Rider, Good Breeding, Language, Natural Leader, Poison Resistance, Privilege, Rallying Cry, Swift Rider
+* Possible Abilities: Advisor, Appraise, Battle Plan: Call to Action, Expert Rider, Good Breeding, Language, Natural Leader, Poison Resistance, Privilege, Rallying Cry, Swift Rider
 * Possible Skills: Bribery 4D, Command 4D, Cryptography 2D, Deception 4D, Etiquette 4D, General Skills 4D, Law 4D, Persuasion 4D, Oratory 4D, Seduction 4D; Archery 2D, Hand Weapon 3D, Lance 3D, Pistol 2D, Rifle 3D
 * Starting Connections: Nobility
 * Starting Assets: None
@@ -291,7 +291,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Artillerist
 
-* Possible Perks: Advisor, Battle Plan: Close Fire, Battle Plan: Orchestrate Fire, Bomber, Double Powder Ration, Grenadier, Hit the Deck!, Scorched Earth, Test the Wind
+* Possible Abilities: Advisor, Battle Plan: Close Fire, Battle Plan: Orchestrate Fire, Bomber, Double Powder Ration, Grenadier, Hit the Deck!, Scorched Earth, Test the Wind
 * Possible Skills: Craft Ordnance 4D, Command 3D, General Skills 4D, Rope Use 4D, Survival 3D; Hand Weapon 3D, Heavy Artillery 4D, Light Artillery 4D, Pistol 3D, Rifle 3D, Throwing 3D
 * Starting Connections: None
 * Starting Assets: Deck Gun (with powder and ten rounds)
@@ -300,7 +300,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Assault Kommando
 
 * Restrictions: Military Officer, Warcaster, Warcaster (Khadoran), Ranger, Rifleman, Soldier
-* Possible Perks: Battle Plan: Reconnaissance, Defensive Line, Gunfighter, Load Bearing, Onslaught, Quick Work, Relentless Charge, Signal Language, Two-Weapon Fighting
+* Possible Abilities: Battle Plan: Reconnaissance, Defensive Line, Gunfighter, Load Bearing, Onslaught, Quick Work, Relentless Charge, Signal Language, Two-Weapon Fighting
 * Possible Skills: Command 3D, Cryptography 2D, General Skills 4D, Interrogation 3D, Healing 3D, Survival 3D; Hand Weapon 3D, Light Artillery 3D, Rifle 4D, Shield 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: Assault Kommando armour, Vislovski carbine (powder and ten rounds), assault shield, three strangle gass grenade launcher rounds
@@ -308,7 +308,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Berserker
 
-* Possible Perks: Blood Quenched, Berserk, Blood Thirst, Hyper Aggressive, Overtake, Relentless Charge, Savage Strike, Two-Weapon Fighting
+* Possible Abilities: Blood Quenched, Berserk, Blood Thirst, Hyper Aggressive, Overtake, Relentless Charge, Savage Strike, Two-Weapon Fighting
 * Possible Skills: General Skills 4D, Survival 4D; Great Weapon 4D, Hand Weapon 4D, Throwing 4D, Unarmed Combat 4D
 * Starting Connections: Character's Tribe
 * Starting Assets: Leather Armor
@@ -316,15 +316,15 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Blackclad
 
-* Possible Perks: Aegis, Artificer, Camouflage, Disease Resistance, Dominating Presence, Immunity: Cold, Immunity: Corrosion, Immunity: Electricity, Immunity: Fire, Iron Will, Language, Light Cavalry, Long-Lived, Mount Attack (Skirovik mountain goat), Natural Leader, Pathfinder, Stone Scavenger, Stonecutter, Trained Rider (Skirovik mountain goat)
-* Possible Skills: Bribery 4D, Command 4D, Cryptography 4D, Deception 4D, Disguise 3D, General Skills 4D, Interrogation 4D, Search 4D, Healing 3D, Nagivation 4D, Persuasion 4D, Oratory 4D, Search [Research] 4D, Rope Use 3D, Sneak 3D, Survival 4D, Craft Wold 4D; Great Weapon 2D, Hand Weapon 2D, Unarmed Combat 2D
+* Possible Abilities: Aegis, Artificer, Camouflage, Disease Resistance, Dominating Presence, Immunity: Cold, Immunity: Corrosion, Immunity: Electricity, Immunity: Fire, Iron Will, Language, Light Cavalry, Long-Lived, Mount Attack (Skirovik mountain goat), Natural Leader, Pathfinder, Stone Scavenger, Stonecutter, Trained Rider (Skirovik mountain goat)
+* Possible Skills: Bribery 4D, Command 4D, Cryptography 4D, Deception 4D, Disguise 3D, General Skills 4D, Interrogation 4D, Search 4D, Healing 3D, Nagivation 4D, Persuasion 4D, Oratory 4D, Research 4D, Rope Use 3D, Sneak 3D, Survival 4D, Craft Wold 4D; Great Weapon 2D, Hand Weapon 2D, Unarmed Combat 2D
 * Starting Connections: Circle Orboros
 * Starting Assets: Custom Battle Armor, Druid Voulge, Cloak and Robes of a Blackclad
 * Starting Money: 0
 
 ### Bloodtracker
 
-* Possible Perks: Acrobatics, Ambush, Dodger, Fast Draw, Fleet Foot, Hunter, Knife Thrower, Pathfinder, Roll with It, Signal Language, Specialization (Fighting Claw), Traceless Path, Weapon Master (Javelin)
+* Possible Abilities: Acrobatics, Ambush, Dodger, Fast Draw, Fleet Foot, Hunter, Knife Thrower, Pathfinder, Roll with It, Signal Language, Specialization (Fighting Claw), Traceless Path, Weapon Master (Javelin)
 * Possible Skills: Command 3D, Cryptography 1D, Escape Artist 4D, General Skills 4D, Nagivation 3D, Sneak 4D, Survival 4D, Tracking 4D,Any Craft(Tharn equipment) 3D; Hand Weapon 4D, Throwing 4D, Unarmed Combat 3D
 * Starting Connections: Character's Tribe
 * Starting Assets: Bloodtracker fighting claw, 5 javelins, javelin quiver, Tharn leathers
@@ -332,7 +332,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Bloodweaver
 
-* Possible Perks: Anatomical Precision, Blood Spiller, Blood Trade, Empower Weapon, Gang, Haruspex, Inflict Pain, Shadow Magic, Two-Weapon Fighting
+* Possible Abilities: Anatomical Precision, Blood Spiller, Blood Trade, Empower Weapon, Gang, Haruspex, Inflict Pain, Shadow Magic, Two-Weapon Fighting
 * Possible Skills: General Skills 4D, Healing 3D, Sneak 4D, Survival 3D,Any Craft(Tharn equipment) 3D; Hand Weapon 4D, Unarmed Combat 3D
 * Starting Connections: Character's Tribe
 * Starting Assets: Sacral blade, Tharn leathers
@@ -340,7 +340,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Bokor
 
-* Possible Perks: Death Mastery, Empower Weapon, Ghost Sight, Grave Man, Great Power, Haruspex, Possession, Soul Taker, Spirit Guide, Unhallowed
+* Possible Abilities: Death Mastery, Empower Weapon, Ghost Sight, Grave Man, Great Power, Haruspex, Possession, Soul Taker, Spirit Guide, Unhallowed
 * Possible Skills: Alchemy 2D, Command 3D, Cryptography 3D, Deception 4D, General Skills 4D, Interrogation 4D, Healing 2D, Nagivation 3D, Oratory 2D, Sneak 3D, Survival 3D; Great Weapon 3D, Unarmed Combat 3D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -348,7 +348,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Bone Grinder
 
-* Possible Perks: Anatomical Precision, Bone Grinder, Brew Master, Disease Resistance, Inflict Pain, Meat Alchemy, Vivisectionist
+* Possible Abilities: Anatomical Precision, Bone Grinder, Brew Master, Disease Resistance, Inflict Pain, Meat Alchemy, Vivisectionist
 * Possible Skills: Alchemy 4D, General Skills 4D, Search 2D, Healing 4D, Nagivation 2D, Rope Use 3D, Survival 3D, Tracking 3D, Skinner 4D; Great Weapon 3D, Hand Weapon 3D
 * Starting Connections: None
 * Starting Assets: Apothecary Kit, Skinning Tools, and any one bone grinder fetish
@@ -356,7 +356,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Bounty Hunter
 
-* Possible Perks: Binding, Crossbowman, Head-Butt, Language (Five Cant), Pursuit, Roll With It, Take Down, Waylay
+* Possible Abilities: Binding, Crossbowman, Head-Butt, Language (Five Cant), Pursuit, Roll With It, Take Down, Waylay
 * Possible Skills: Bribery 2D, Deception 2D, Disguise 2D, General Skills 4D, Interrogation 2D, Law 2D, Persuasion 4D, Rope Use 4D, Sneak 3D, Streetwise 4D, Tracking 4D; Crossbow 3D, Hand Weapon 2D, Pistol 2D, Rifle 3D, Unarmed Combat 4D
 * Starting Connections: None
 * Starting Assets: None
@@ -364,7 +364,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Brigand (Swamp Gobber Raider)
 
-* Possible Perks: Ambush, Appraise, Backstab, Binding, Camouflage, Dodger, Fall Back, Fast Draw, Fast Reload, Find Cover, Fleet Foot, Gunfighter, Onslaught, Relentless Charge, Specialization (Grappling Pistol), Waylay
+* Possible Abilities: Ambush, Appraise, Backstab, Binding, Camouflage, Dodger, Fall Back, Fast Draw, Fast Reload, Find Cover, Fleet Foot, Gunfighter, Onslaught, Relentless Charge, Specialization (Grappling Pistol), Waylay
 * Possible Skills: Bribery 4D, Command 2D, Deception 4D, Disguise 3D, Escape Artist 4D, General Skills 4D, Lock Picking 3D, Nagivation 2D, Persuasion 3D, Pick Pocket 3D, Rope Use 3D, Sneak 4D, Streetwise 2D, Survival 2D, Any Craft 2D; Archery 3D, Crossbow 3D, Great Weapon 4D, Hand Weapon 4D, Pistol 3D, Rifle 3D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: Choose One: Criminal Gang, Character's Tribe
 * Starting Assets: Grappling Pistol or Swamp Gobbers Bellows with 5 canisters of bellows gas
@@ -372,7 +372,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Brigand
 
-* Possible Perks: Ambush, Appraise, Backstab, Binding, Camouflage, Dodger, Fall Back, Fast Draw, Fast Reload, Find Cover, Fleet Foot, Gunfighter, Onslaught, Relentless Charge, Waylay
+* Possible Abilities: Ambush, Appraise, Backstab, Binding, Camouflage, Dodger, Fall Back, Fast Draw, Fast Reload, Find Cover, Fleet Foot, Gunfighter, Onslaught, Relentless Charge, Waylay
 * Possible Skills: Bribery 4D, Command 2D, Deception 4D, Disguise 3D, Escape Artist 4D, General Skills 4D, Lock Picking 3D, Nagivation 2D, Persuasion 3D, Pick Pocket 3D, Rope Use 3D, Sneak 4D, Streetwise 2D, Survival 2D, Any Craft 2D; Archery 3D, Crossbow 3D, Great Weapon 4D, Hand Weapon 4D, Pistol 3D, Rifle 3D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -380,7 +380,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Bushwhacker
 
-* Possible Perks: Ambush, Crackshot, Dual Shot (Rifle), Fast Draw, Fast Reload, Go to Ground, Keen Eyed, Marksman, Night Fighter, Return Fire, Shootist, Sniper, Swift Hunter, Targeteer
+* Possible Abilities: Ambush, Crackshot, Dual Shot (Rifle), Fast Draw, Fast Reload, Go to Ground, Keen Eyed, Marksman, Night Fighter, Return Fire, Shootist, Sniper, Swift Hunter, Targeteer
 * Possible Skills: Command 2D, General Skills 4D, Nagivation 3D, Sneak 4D, Survival 3D, Gunsmithing 3D; Hand Weapon 3D, Rifle 4D
 * Starting Connections: None
 * Starting Assets: Ammo Bandolier, Heavy Rifle or Repeating Rifle, Powder and Ammunition for 10 shots
@@ -388,7 +388,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Chieftain
 
-* Possible Perks: Battle Commander, Battle Plan: Battlefield Coordination, Battle Plan: Call to Action, Battle Plan: Coordinated Strike, Battle Plan: Take Cover, Cavalry Charge, Combat Rider, Defender, Expert Rider, Language, Natural Leader, Rallying Cry, Team Leader
+* Possible Abilities: Battle Commander, Battle Plan: Battlefield Coordination, Battle Plan: Call to Action, Battle Plan: Coordinated Strike, Battle Plan: Take Cover, Cavalry Charge, Combat Rider, Defender, Expert Rider, Language, Natural Leader, Rallying Cry, Team Leader
 * Possible Skills: Command 4D, Deception 4D, General Skills 4D, Search 4D, Nagivation 4D, Persuasion 4D, Oratory 4D, Seduction 3D, Sneak 2D, Survival 3D; Archery 4D, Great Weapon 4D, Hand Weapon 4D, Throwing 4D, Unarmed Combat 4D
 * Starting Connections: Character's Tribe
 * Starting Assets: Symbol of Office (Iron Crown, Wolf Skin Cloak, etc…)
@@ -396,7 +396,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Croak Conjoined Twin
 
-* Possible Perks: Conjoined, Empower Weapon, Great Power, Haruspex, Powerful Attack (magical), Share the Load
+* Possible Abilities: Conjoined, Empower Weapon, Great Power, Haruspex, Powerful Attack (magical), Share the Load
 * Possible Skills: General Skills 4D, Survival 2D; Hand Weapon 2D, Throwing 2D
 * Starting Connections: Croak Tribe
 * Starting Assets: None
@@ -404,7 +404,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Crucible Guard
 
-* Possible Perks: 'Jack Marshall, Cautious Advance, Cavalry Charge, Disease Resistance, Fast Reload, Find Cover, Grenadier, Hit the Deck!, Language, Ride-By Attack, Roll With It, Saddle Shot, Sentry
+* Possible Abilities: 'Jack Marshall, Cautious Advance, Cavalry Charge, Disease Resistance, Fast Reload, Find Cover, Grenadier, Hit the Deck!, Language, Ride-By Attack, Roll With It, Saddle Shot, Sentry
 * Possible Skills: Command 3D, General Skills 4D, Healing 3D, Nagivation 2D, Sneak 2D, Survival 3D; Crossbow 3D, Great Weapon 4D, Light Artillery 3D, Hand Weapon 3D, Pistol 3D, Rifle 4D, Shield 2D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: Golden Crucible
 * Starting Assets: Crucible armor, 250gc worth of grenades, Crucible Arms Model 603
@@ -412,7 +412,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Cutthroat
 
-* Possible Perks: Anatomical Precision, Backstab, Blood Spiller, Camouflage, Chain Attack: Bleed Out, Fast Draw, Language (Five Cant), Prowl, Specialization (Assassin Blade), Two-Weapon Fighting, Waylay
+* Possible Abilities: Anatomical Precision, Backstab, Blood Spiller, Camouflage, Chain Attack: Bleed Out, Fast Draw, Language (Five Cant), Prowl, Specialization (Assassin Blade), Two-Weapon Fighting, Waylay
 * Possible Skills: General Skills 4D, Interrogation 2D, Sneak 4D, Streetwise 4D; Crossbow 2D, Hand Weapon 4D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: None
@@ -420,7 +420,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Dhunian Paragon (Fall)
 
-* Possible Perks: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
+* Possible Abilities: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
 * Possible Skills: Command 4D, General Skills 4D, Interrogation 2D, Healing 2D, Persuasion 2D, Oratory 4D, Seduction 2D, Survival 4D; Great Weapon 3D, Hand Weapon 3D, Shield 3D, Unarmed Combat 4D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -428,7 +428,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Dhunian Paragon (Spring)
 
-* Possible Perks: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
+* Possible Abilities: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
 * Possible Skills: Command 4D, General Skills 4D, Interrogation 2D, Healing 2D, Persuasion 2D, Oratory 4D, Seduction 2D, Survival 4D; Great Weapon 3D, Hand Weapon 3D, Shield 3D, Unarmed Combat 4D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -436,7 +436,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Dhunian Paragon (Summer)
 
-* Possible Perks: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
+* Possible Abilities: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
 * Possible Skills: Command 4D, General Skills 4D, Interrogation 2D, Healing 2D, Persuasion 2D, Oratory 4D, Seduction 2D, Survival 4D; Great Weapon 3D, Hand Weapon 3D, Shield 3D, Unarmed Combat 4D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -444,7 +444,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Dhunian Paragon (Winter)
 
-* Possible Perks: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
+* Possible Abilities: Battle Plan: Desperate Pace, Defender, Dhunia's Strike, Fearless, Mother's Vengeance, Overflowing Health, Remedy, Roll with It, Self Sacrifice, Shield Guard, Shield Slam, Spring of Vitality, Storm of Leaves, Thick Skin, Winter's Respite
 * Possible Skills: Command 4D, General Skills 4D, Interrogation 2D, Healing 2D, Persuasion 2D, Oratory 4D, Seduction 2D, Survival 4D; Great Weapon 3D, Hand Weapon 3D, Shield 3D, Unarmed Combat 4D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -453,7 +453,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Doom Reaver
 
 * Restrictions: Cutthroat, Horseman, Pirate, Ranger, Soldier, Thief
-* Possible Perks: Abomination, Berserk, Bloodlust, Fearless, Feasome Howl, Iron Will, Language (Orgoth), Precision Strike, Relentless Charge, Silence
+* Possible Abilities: Abomination, Berserk, Bloodlust, Fearless, Feasome Howl, Iron Will, Language (Orgoth), Precision Strike, Relentless Charge, Silence
 * Possible Skills: General Skills 4D, Survival 3D, Tracking 3D; Great Weapon 4D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: Fellblade
@@ -461,7 +461,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Duelist
 
-* Possible Perks: Acrobatics, Fast Draw, Gunfighter, Parry, Precision Strike, Quick Work, Riposte, Roll With It, Two-Weapon Fighting
+* Possible Abilities: Acrobatics, Fast Draw, Gunfighter, Parry, Precision Strike, Quick Work, Riposte, Roll With It, Two-Weapon Fighting
 * Possible Skills: Etiquette 2D, General Skills 4D, Law 2D, Oratory 2D, Seduction 3D, Streetwise 2D; Hand Weapon 4D, Pistol 4D, Throwing 3D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: None
@@ -470,7 +470,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Exemplar
 
 * Restrictions: Man-at-Arms, Military Officer, Ranger, Soldier, Warcaster, Warcaster (Protectorate)
-* Possible Perks: Aegis, Chain Attack: Smite, Divine Fortitude, Imperishable Conviction, Iron Will, Load Bearing, Precision Strike, Relentless Advance, Restoration, Sanguine Bond, two-Weapon Fighting
+* Possible Abilities: Aegis, Chain Attack: Smite, Divine Fortitude, Imperishable Conviction, Iron Will, Load Bearing, Precision Strike, Relentless Advance, Restoration, Sanguine Bond, two-Weapon Fighting
 * Possible Skills: Command 4D, General Skills 4D, Healing 2D, Nagivation 2D, Survival 2D; Crossbow 3D, Great Weapon 4D, Hand Weapon 4D, Lance 4D, Shield 3D, Unarmed Combat 3D
 * Starting Connections: Exemplar Order
 * Starting Assets: Exemplar plate and one weapon: Blazing sword, halberd (consecrated) , or relic blade.
@@ -478,7 +478,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Explorer
 
-* Possible Perks: Battle Plan: Reconnaissance, Big Game Hunter, Diseases Resistance, Expert Rider, Language, Natural Leader, Poison Resistance, Port of Call, Signal Language, Swift Rider
+* Possible Abilities: Battle Plan: Reconnaissance, Big Game Hunter, Diseases Resistance, Expert Rider, Language, Natural Leader, Poison Resistance, Port of Call, Signal Language, Swift Rider
 * Possible Skills: Command 4D, Any Craft 2D, Cryptography 2D, Etiquette 2D, General Skills 4D, Healing 2D, Nagivation 4D, Persuasion 4D, Rope Use 4D, Survival 4D; Archery 2D, Crossbow 2D, Hand Weapon 2D, Pistol 2D, Rifle 3D, Throwing 2D, Unarmed Combat 2D
 * Starting Connections: Patron
 * Starting Assets: map case, spyglass
@@ -486,7 +486,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Fell Caller
 
-* Possible Perks: Battle Plan: Call to Action, Fell Call: Cacophony, Fell Call: Call of Defiance, Fell Call: Ground Shaker, Fell Call: Heroic Ballad, Fell Call: Reverberation, Fell Call: Signal Call, Fell Call: Sonic Blast, Legacy of Bragg, Natural Leader
+* Possible Abilities: Battle Plan: Call to Action, Fell Call: Cacophony, Fell Call: Call of Defiance, Fell Call: Ground Shaker, Fell Call: Heroic Ballad, Fell Call: Reverberation, Fell Call: Signal Call, Fell Call: Sonic Blast, Legacy of Bragg, Natural Leader
 * Possible Skills: Command 4D, Fell Calling 4D, General Skills 4D, Oratory 4D, Seduction 2D; Great Weapon 3D, Hand Weapon 3D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: None
@@ -494,7 +494,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Fennblade
 
-* Possible Perks: Cleave, Dual Fighter, Hard, Iron Will, Load Bearing, Precision Strike, Relentless Advance, Relentless Charge, Set Defense, Snag & Slash, Specialization (Hooked Great Sword)
+* Possible Abilities: Cleave, Dual Fighter, Hard, Iron Will, Load Bearing, Precision Strike, Relentless Advance, Relentless Charge, Set Defense, Snag & Slash, Specialization (Hooked Great Sword)
 * Possible Skills: Command 3D, General Skills 4D, Survival 3D; Great Weapon 4D, Unarmed Combat 3D
 * Starting Connections: Trollkin Kriel
 * Starting Assets: Hooked Great Sword
@@ -502,7 +502,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Field Mechanik (Rhulic)
 
-* Possible Perks: 'Jack Marshall, Ace Commander, Bodge, Dodger, Drive: Ancillary Attack, Drive: Assault, Drive: Off Road, Drive: Pronto, Hit the Deck!, Iron Sentinel, Scrounge, Steamo, Tune Up
+* Possible Abilities: 'Jack Marshall, Ace Commander, Bodge, Dodger, Drive: Ancillary Attack, Drive: Assault, Drive: Off Road, Drive: Pronto, Hit the Deck!, Iron Sentinel, Scrounge, Steamo, Tune Up
 * Possible Skills: Command 3D, Any Craft 4D, General Skills 4D, Mechanikal Engineering 4D, Persuasion 3D; Hand Weapon 2D, Pistol 2D
 * Starting Connections: None
 * Starting Assets: mechanik's tool kit, Grundback Runner light warjack (p. 66) with either a Grundback light cannon (p. 66) or a hail shot cannon (p. 67) weapon system instead of a light laborjack with up to 200 gc of weapons
@@ -510,7 +510,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Field Mechanik
 
-* Possible Perks: 'Jack Marshall, Ace Commander, Bodge, Dodger, Drive: Ancillary Attack, Drive: Assault, Drive: Off Road, Drive: Pronto, Hit the Deck!, Iron Sentinel, Scrounge, Steamo, Tune Up
+* Possible Abilities: 'Jack Marshall, Ace Commander, Bodge, Dodger, Drive: Ancillary Attack, Drive: Assault, Drive: Off Road, Drive: Pronto, Hit the Deck!, Iron Sentinel, Scrounge, Steamo, Tune Up
 * Possible Skills: Command 3D, Any Craft 4D, General Skills 4D, Mechanikal Engineering 4D, Persuasion 3D; Hand Weapon 2D, Pistol 2D
 * Starting Connections: None
 * Starting Assets: mechanik's tool kit, light laborjack with up to 200 gc of weapons
@@ -518,7 +518,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Guide
 
-* Possible Perks: Advance Move, Applied Knowledge, Battle Plan: Double Time, Dodger, Forager, Language, Mark Target, Survivalist, Traceless Path, Tracker
+* Possible Abilities: Advance Move, Applied Knowledge, Battle Plan: Double Time, Dodger, Forager, Language, Mark Target, Survivalist, Traceless Path, Tracker
 * Possible Skills: Command 3D, General Skills 4D, Healing 2D, Nagivation 4D, Persuasion 3D, Survival 4D, Tracking 4D; Archery 3D, Great Weapon 2D, Hand Weapon 3D, Pistol 3D, Rifle 3D, Throwing 3D, Unarmed Combat 2D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -526,7 +526,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Gun Mage (Amethyst Rose)
 
-* Possible Perks: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed
+* Possible Abilities: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed
 * Possible Skills: General Skills 4D, Seduction 2D; Pistol 4D, Rifle 4D
 * Starting Connections: Loyal Order of the Amethyst Rose
 * Starting Assets: ammo bandolier, dual magelock pistol (with powder and 10 rounds of ammunition), rune shot casting kit
@@ -535,7 +535,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Gun Mage (Arcane Tempest)
 
 * Restrictions: Gun Mage (Arcane Tempest), Aristocrat, Horseman, Military Officer, Pistoleer, Ranger, Rifleman, Soldier, Spy, Warcaster, Warcaster (Cygnaran)
-* Possible Perks: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed, Runesmith
+* Possible Abilities: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed, Runesmith
 * Possible Skills: General Skills 4D, Seduction 2D; Pistol 4D, Rifle 4D
 * Starting Connections: Cygnaran military
 * Starting Assets: Armored great coat, ammo bandolier, magelock pistol or magelock rifle (with powder and 10 rounds of ammunition), rune shot casting kit
@@ -543,7 +543,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Gun Mage
 
-* Possible Perks: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed
+* Possible Abilities: Arcane Precision, Craft Rune Shot, Fast Draw, Fast Reload, Gunfighter, Keen Eyed
 * Possible Skills: General Skills 4D, Seduction 2D; Pistol 4D, Rifle 4D
 * Starting Connections: None
 * Starting Assets: ammo bandolier, magelock pistol or magelock rifle (with powder and 10 rounds of ammunition), rune shot casting kit
@@ -551,7 +551,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Guttersnipe
 
-* Possible Perks: Astute, Camouflage, Disease Resistance, Dodger, Find Cover, Flash Theif, Hit 'em Low, Language, Lost in the Crowd, Low Breeding, Perfect Timing, Roll With It, Scoping It Out
+* Possible Abilities: Astute, Camouflage, Disease Resistance, Dodger, Find Cover, Flash Theif, Hit 'em Low, Language, Lost in the Crowd, Low Breeding, Perfect Timing, Roll With It, Scoping It Out
 * Possible Skills: Persuasion [Bribery] 4D, Deception 4D, Disguise 4D, Escape Artist 4D, General Skills 4D, Persuasion 4D, Pick Pocket 4D, Sneak 4D, Streetwise 4D; Hand Weapon 3D, Pistol 3D, Sling 3D, Throwing 3D, Unarmed 3D
 * Starting Connections: Black Market
 * Starting Assets: None
@@ -559,7 +559,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Highwayman
 
-* Possible Perks: Ambush, Appraise, Binding, Expert Rider, Fast Draw, Fast Reload, Light Cavalry, Prowl, Ride-By Attack, Saddle Shot, Swift Hunter, Swift Rider, Traceless Path, Two-Weapon Fighting, Waylay
+* Possible Abilities: Ambush, Appraise, Binding, Expert Rider, Fast Draw, Fast Reload, Light Cavalry, Prowl, Ride-By Attack, Saddle Shot, Swift Hunter, Swift Rider, Traceless Path, Two-Weapon Fighting, Waylay
 * Possible Skills: Bribery 2D, Deception 3D, Disguise 2D, General Skills 4D, Interrogation 2D, Persuasion 4D, Rope Use 4D, Seduction 4D, Sneak 4D, Survival 2D; Archery 3D, Crossbow 3D, Hand Weapon 3D, Pistol 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: mask, riding horse, tack
@@ -567,7 +567,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Horseman
 
-* Possible Perks: Cavalry Charge, Combat Rider, Expert Rider, Mounted: Counter Charge, Ride-by Attack, Saddle Shot, Swift Rider, Trained Rider (any)
+* Possible Abilities: Cavalry Charge, Combat Rider, Expert Rider, Mounted: Counter Charge, Ride-by Attack, Saddle Shot, Swift Rider, Trained Rider (any)
 * Possible Skills: Command 3D, General Skills 4D, Nagivation 3D; Great Weapon 4D, Hand Weapon 2D, Lance 4D, Pistol 2D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: Warhorse with tack and heavy barding
@@ -575,7 +575,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Huntsman
 
-* Possible Perks: Big Game Hunter, Camouflage, Cautious Advance, Crossbowman, Dual Shot (archery), Dual Shot (rifle), Harry, Hunter, Hunting Ground, Keen Eyed, Knife Thrower, Prey
+* Possible Abilities: Big Game Hunter, Camouflage, Cautious Advance, Crossbowman, Dual Shot (archery), Dual Shot (rifle), Harry, Hunter, Hunting Ground, Keen Eyed, Knife Thrower, Prey
 * Possible Skills: General Skills 4D, Nagivation 2D, Sneak 2D, Survival 4D, Tracking 4D,Any Craft(Fletcher) 2D, Gunsmithing 2D, Skinner 2D; Archery 4D, Crossbow 4D, Hand Weapon 3D, Pistol 3D, Rifle 4D, Throwing 4D
 * Starting Connections: None
 * Starting Assets: None
@@ -583,8 +583,8 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Investigator
 
-* Possible Perks: Anatomical Precision, Astute, Iron Will, Language, Prowl, Signal Language, Truth Reader
-* Possible Skills: Cryptography 4D, Deception 4D, Etiquette 2D, Forensics 4D, General Skills 4D, Interrogation 4D, Law 4D, Healing 2D, Persuasion 3D, Search [Research] 4D, Sneak 4D, Streetwise 4D; Hand Weapon 2D, Pistol 2D, Unarmed Combat 2D
+* Possible Abilities: Anatomical Precision, Astute, Iron Will, Language, Prowl, Signal Language, Truth Reader
+* Possible Skills: Cryptography 4D, Deception 4D, Etiquette 2D, Forensics 4D, General Skills 4D, Interrogation 4D, Law 4D, Healing 2D, Persuasion 3D, Research 4D, Sneak 4D, Streetwise 4D; Hand Weapon 2D, Pistol 2D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: None
 * Starting Money: 100
@@ -592,7 +592,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Iron Fang
 
 * Restrictions: Aristocrat, Military Officer, Soldier, Warcaster, Warcaster (Khadoran), Horseman
-* Possible Perks: Defensive Line, Fast Arm (Blasting Pike), Hyper Awareness, Load Bearing, Precision Strike, Relentless Charge, Rock Solid, Specialization (Blasting Pike), Swift Rider
+* Possible Abilities: Defensive Line, Fast Arm (Blasting Pike), Hyper Awareness, Load Bearing, Precision Strike, Relentless Charge, Rock Solid, Specialization (Blasting Pike), Swift Rider
 * Possible Skills: Command 4D, General Skills 4D, Survival 2D; Great Weapon 4D, Lance 4D, Shield 4D, Unarmed Combat 3D
 * Starting Connections: Khadoran Military
 * Starting Assets: blasting pike (with a spear head and 10 blasting heads), Iron Fang full plate, shield
@@ -600,7 +600,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Knight
 
-* Possible Perks: Cavalry Charge, Cleave, Combat Rider, Defender, Defensive Line, Expert Rider, Iron Will, Load Bearing, Natural Leader, Precision Strike, Press the Attack, Relentless Charge, Ride-By Attack, Shield Slam
+* Possible Abilities: Cavalry Charge, Cleave, Combat Rider, Defender, Defensive Line, Expert Rider, Iron Will, Load Bearing, Natural Leader, Precision Strike, Press the Attack, Relentless Charge, Ride-By Attack, Shield Slam
 * Possible Skills: Command 4D, Etiquette 2D, General Skills 4D, Law 2D; Great Weapon 4D, Hand Weapon 4D, Lance 4D, Shield 4D, Unarmed Combat 3D
 * Starting Connections: Knightly Order
 * Starting Assets: None
@@ -608,7 +608,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Kriel Champion
 
-* Possible Perks: Bodyguard, Defensive Line, Iron Will, Load Bearing, Natural Leader, Overtake, Relentless Charge, Retaliatory Strike, Rock Solid, Shield Guard, Shield Slam, Two-Weapon Fighting
+* Possible Abilities: Bodyguard, Defensive Line, Iron Will, Load Bearing, Natural Leader, Overtake, Relentless Charge, Retaliatory Strike, Rock Solid, Shield Guard, Shield Slam, Two-Weapon Fighting
 * Possible Skills: Command 3D, General Skills 4D, Oratory 2D, Survival 3D, Metalworking 3D; Great Weapon 4D, Hand Weapon 4D, Shield 3D, Throwing 3D, Unarmed Combat 4D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -616,7 +616,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Labor Korune
 
-* Possible Perks: Jack Marshall, Battle Plan: Call to Action, Brawler, Drive: Pronto, Gang, Heave-Ho, Iron Will, Language, Low Breeding, Natural Leader, Rallying Cry
+* Possible Abilities: Jack Marshall, Battle Plan: Call to Action, Brawler, Drive: Pronto, Gang, Heave-Ho, Iron Will, Language, Low Breeding, Natural Leader, Rallying Cry
 * Possible Skills: Bribery 3D, Command 4D,Any Craft4D, Deception 2D, Etiquette 2D, General Skills 4D, Mechanikal Engineering 2D, Healing 2D, Persuasion 4D, Streetwise 4D; Unarmed Combat 4D, Pistol 2D
 * Starting Connections: Worker's Union
 * Starting Assets: None
@@ -624,7 +624,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Long Rider
 
-* Possible Perks: Bull Rush, Cavalry Charge, Combat Rider, Expert Rider, Follow Up, Line Breaker, Load Bearing, Mounted: Counter Charge, Ride-by-Attack
+* Possible Abilities: Bull Rush, Cavalry Charge, Combat Rider, Expert Rider, Follow Up, Line Breaker, Load Bearing, Mounted: Counter Charge, Ride-by-Attack
 * Possible Skills: General Skills 4D, Comman4D, Survival 3D; Great Weapon 4D, Hand Weapon 3D, Shield 4D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: Bison, Tack and Harness
@@ -632,7 +632,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Mage Hunter
 
-* Possible Perks: Arcane Assassin, Camouflage, Crackshot, Crossbowman, Fast Draw, Fast Reload, Iron Will, Mage Killer, Parry, Quick Work, Shadow Magic, Traceless Path
+* Possible Abilities: Arcane Assassin, Camouflage, Crackshot, Crossbowman, Fast Draw, Fast Reload, Iron Will, Mage Killer, Parry, Quick Work, Shadow Magic, Traceless Path
 * Possible Skills: Deception 2D, Disguise 2D, General Skills 4D, Rope Use 3D, Sneak 4D, Survival 2D, Tracking 4D; Archery 4D, Crossbow 4D, Hand Weapon 4D, Throwing 2D
 * Starting Connections: Retribution of Scyrah
 * Starting Assets: None
@@ -641,7 +641,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Man-O-War
 
 * Restrictions: Aristocrat, Field Mechanik, Horseman, Man-at-Arms, Military Officer, Soldier
-* Possible Perks: Cleave, Defensive Line, Girded, Head-Butt, Ironhead, Load Bearing, Man of Iron, Shield Slam, Steady, Steam Jockey
+* Possible Abilities: Cleave, Defensive Line, Girded, Head-Butt, Ironhead, Load Bearing, Man of Iron, Shield Slam, Steady, Steam Jockey
 * Possible Skills: Command 3D, General Skills 4D, Mechanikal Engineering 2D; Great Weapon 4D, Light Artillary 4D, Shield 3D, Unarmed Combat 3D
 * Starting Connections: Khadoran Military
 * Starting Assets: Man-O-War armour, and one of the following options; Annihilation blade and Man-O-War shield cannon (power & ten shots); Bombardier grenade cannon, Man-O-War ammo bandalier, four cannon grenades; Ice Maul
@@ -649,7 +649,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Man-at-Arms
 
-* Possible Perks: Bodyguard, Cleave, Defensive Line, Girded, Iron Will, Load Bearing, Retaliatory Strike, Set Defense, Shield Guard, Shield Slam, Specialization (Halberd), Specialization (Spear)
+* Possible Abilities: Bodyguard, Cleave, Defensive Line, Girded, Iron Will, Load Bearing, Retaliatory Strike, Set Defense, Shield Guard, Shield Slam, Specialization (Halberd), Specialization (Spear)
 * Possible Skills: Command 3D, Metalworking 2D, General Skills 4D; Great Weapon 4D, Hand Weapon 3D, Pistol 3D, Shield 4D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: None
@@ -657,7 +657,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Military Officer
 
-* Possible Perks: 'Jack Marshall, Ace Commander, Battle Commander, Battle Plan: Call to Action, Battle Plan: Coordinated Strike, Battle Plan: Desperate Pace, Battle Plan: Go to Ground, Cavalry Charge, Defender, Drive: Assault, Drive: Pronto, Expert Rider, Good Breeding, Natural Leader, Port of Call, Ride-By Attack, Saddle Shot, Signal Language, Team Leader
+* Possible Abilities: 'Jack Marshall, Ace Commander, Battle Commander, Battle Plan: Call to Action, Battle Plan: Coordinated Strike, Battle Plan: Desperate Pace, Battle Plan: Go to Ground, Cavalry Charge, Defender, Drive: Assault, Drive: Pronto, Expert Rider, Good Breeding, Natural Leader, Port of Call, Ride-By Attack, Saddle Shot, Signal Language, Team Leader
 * Possible Skills: Command 4D, Cryptography 4D, Etiquette 4D, General Skills 4D, Interrogation 4D, Law 4D, Healing 4D, Nagivation 4D, Oratory 4D; Great Weapon 4D, Hand Weapon 4D, Pistol 4D
 * Starting Connections: None
 * Starting Assets: officer's uniform
@@ -665,7 +665,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Mist Speaker
 
-* Possible Perks: Advisor, Backstab, Conniver, Dodger, Sucker!
+* Possible Abilities: Advisor, Backstab, Conniver, Dodger, Sucker!
 * Possible Skills: Bribery 4D, Command 3D, Deception 4D, Escape Artist 3D, General Skills 4D, Interrogation 3D, Search 3D, Persuasion 4D, Oratory 3D, Seduction 2D, Sneak 3D, Survival 3D, Any Craft 2D; Great Weapon 3D, Hand Weapon 3D, Unarmed Combat 3D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -673,8 +673,8 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Monster Hunter
 
-* Possible Perks: Anatomical Precision, Big Game Hunter, Binding, Camouflage, Deadly Skill, Dismember, Exterminator, Hunting Ground, Pathfinder, Poison Resistance, Precision Strike, Skilled Trapper, Staredown, Survivalist
-* Possible Skills: Escape Artist 3D, General Skills 4D, Search 2D, Nagivation 3D, Persuasion 3D, Search [Research] 3D, Rope Use 3D, Sneak 4D, Survival 4D, Tracking 4D, Skinner 4D; Archery 4D, Crossbow 4D, Great Weapon 3D, Hand Weapon 4D, Pistol 3D, Rifle 4D, Throwing 3D, Unarmed Combat 4D
+* Possible Abilities: Anatomical Precision, Big Game Hunter, Binding, Camouflage, Deadly Skill, Dismember, Exterminator, Hunting Ground, Pathfinder, Poison Resistance, Precision Strike, Skilled Trapper, Staredown, Survivalist
+* Possible Skills: Escape Artist 3D, General Skills 4D, Search 2D, Nagivation 3D, Persuasion 3D, Research 3D, Rope Use 3D, Sneak 4D, Survival 4D, Tracking 4D, Skinner 4D; Archery 4D, Crossbow 4D, Great Weapon 3D, Hand Weapon 4D, Pistol 3D, Rifle 4D, Throwing 3D, Unarmed Combat 4D
 * Starting Connections: None
 * Starting Assets: None
 * Starting Money: 100
@@ -682,7 +682,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Paladin (Order of the Wall)
 
 * Restrictions: Aristocrat, Horseman, Investigator, Man-at-Arms, Military Officer, Priest (Menoth), Ranger, Soldier, Warcaster, Warcaster (Protectorate)
-* Possible Perks: Fearless, Iron Will, Load Bearing, Impervious Wall Stance, Natural Leader, Precision Strike, Retaliatory Strike, Specialization (Firebrand), Stone-and-Mortar Stance
+* Possible Abilities: Fearless, Iron Will, Load Bearing, Impervious Wall Stance, Natural Leader, Precision Strike, Retaliatory Strike, Specialization (Firebrand), Stone-and-Mortar Stance
 * Possible Skills: Command 1D, Etiquette 2D, General Skills 4D; Great Weapon 4D, Hand Weapon 4D, Shield 4D, Unarmed Combat 4D
 * Starting Connections: Order of the Wall
 * Starting Assets: Firebrand, Full plate, and Shield
@@ -690,7 +690,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Pirate
 
-* Possible Perks: Binding, Disease Resistance, Gang, Gunfighter, Head-Butt, Language, Port of Call, Quick Work, Specialization (Cutlass), Steady, Sucker!, Waylay
+* Possible Abilities: Binding, Disease Resistance, Gang, Gunfighter, Head-Butt, Language, Port of Call, Quick Work, Specialization (Cutlass), Steady, Sucker!, Waylay
 * Possible Skills: Command 2D, Deception 3D, General Skills 4D, Nagivation 4D, Persuasion 2D, Rope Use 4D, Sailing 4D; Hand Weapon 3D, Light Artillery 2D, Pistol 3D, Rifle 2D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: None
@@ -698,7 +698,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Pistoleer
 
-* Possible Perks: Chain Attack: Pin Down, Dodger, Fast Draw, Fast Reload, Gunfighter, Return Fire, Swift Hunter, Targeteer, Two-Weapon Fighting
+* Possible Abilities: Chain Attack: Pin Down, Dodger, Fast Draw, Fast Reload, Gunfighter, Return Fire, Swift Hunter, Targeteer, Two-Weapon Fighting
 * Possible Skills: Gunsmithing 4D, General Skills 4D, Sneak 3D; Pistol 4D
 * Starting Connections: None
 * Starting Assets: ammo bandolier, either a hand cannon (with 10 ammo) or a pair of 2x pistol (repeating) (each with 1 ammo wheel and 10 ammo)
@@ -706,39 +706,39 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Priest (Cyriss)
 
-* Possible Perks: Blaster, Bodge, Choir, Clockwork Transcendence, Enigma Cipher, Inscribe Formulae, Language, Vessel Upgrade
-* Possible Skills: Alchemy 3D, Command 3D,Any Craft(any) 4D, Cryptography 4D, General Skills 4D, Mechanikal Engineering 4D, Search [Research] 4D; Hand Weapon 3D
+* Possible Abilities: Blaster, Bodge, Choir, Clockwork Transcendence, Enigma Cipher, Inscribe Formulae, Language, Vessel Upgrade
+* Possible Skills: Alchemy 3D, Command 3D,Any Craft(any) 4D, Cryptography 4D, General Skills 4D, Mechanikal Engineering 4D, Research 4D; Hand Weapon 3D
 * Starting Connections: Convergence of Cyriss
 * Starting Assets: Optifex armor, Tuning Kit
 * Starting Money: 0
 
 ### Priest (Menoth)
 
-* Possible Perks: Choir, Dispel, Language, Natural Leader, Rallying Cry, University Education
-* Possible Skills: Command 2D, Cryptography 2D, Etiquette 4D, General Skills 4D, Law 4D, Healing 4D, Persuasion 4D, Oratory 4D, Search [Research] 4D; Great Weapon 3D, Hand Weapon 3D, Shield 2D
+* Possible Abilities: Choir, Dispel, Language, Natural Leader, Rallying Cry, University Education
+* Possible Skills: Command 2D, Cryptography 2D, Etiquette 4D, General Skills 4D, Law 4D, Healing 4D, Persuasion 4D, Oratory 4D, Research 4D; Great Weapon 3D, Hand Weapon 3D, Shield 2D
 * Starting Connections: Menite Temple
 * Starting Assets: None
 * Starting Money: 75
 
 ### Priest (Morrow)
 
-* Possible Perks: Choir, Empower, Language, Natural Leader, Rallying Cry, University Education
-* Possible Skills: Command 2D, Cryptography 2D, Etiquette 4D, General Skills 4D, Law 4D, Healing 4D, Persuasion 4D, Oratory 4D, Search [Research] 4D; Great Weapon 3D, Hand Weapon 3D, Shield 2D
+* Possible Abilities: Choir, Empower, Language, Natural Leader, Rallying Cry, University Education
+* Possible Skills: Command 2D, Cryptography 2D, Etiquette 4D, General Skills 4D, Law 4D, Healing 4D, Persuasion 4D, Oratory 4D, Research 4D; Great Weapon 3D, Hand Weapon 3D, Shield 2D
 * Starting Connections: Morrowan Church
 * Starting Assets: None
 * Starting Money: 75
 
 ### Priest (Nyssor)
 
-* Possible Perks: Astute, Cold Steel, Empower Weapon, Immunity: Cold, Natural Leader, Snow-Wreathed
-* Possible Skills: Command 3D, Metalworking 4D, General Skills 4D, Interrogation 3D, Healing 2D, Nagivation 3D, Persuasion 3D, Oratory 3D, Search [Research] 2D, Survival 3D; Great Weapon 3D
+* Possible Abilities: Astute, Cold Steel, Empower Weapon, Immunity: Cold, Natural Leader, Snow-Wreathed
+* Possible Skills: Command 3D, Metalworking 4D, General Skills 4D, Interrogation 3D, Healing 2D, Nagivation 3D, Persuasion 3D, Oratory 3D, Research 2D, Survival 3D; Great Weapon 3D
 * Starting Connections: Fane of Nyssor
 * Starting Assets: Nyss claymore, Nyss leather armor
 * Starting Money: 50
 
 ### Pugilist
 
-* Possible Perks: Brawler, Defender, Flying Fists, Grappler, Head-Butt, Heave-Ho, Hulking Presence, Rock Solid, Trip, Waylay
+* Possible Abilities: Brawler, Defender, Flying Fists, Grappler, Head-Butt, Heave-Ho, Hulking Presence, Rock Solid, Trip, Waylay
 * Possible Skills: Bribery 3D, Etiquette 3D, General Skills 4D, Interrogation 2D, Comman4D, Law 2D,  Persuasion 3D, Seduction 2D, Streetwise 4D; Hand Weapon 3D, Unarmed Combat 4D
 * Starting Connections: None
 * Starting Assets: None
@@ -748,7 +748,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Raider
 
 * Restrictions: Cutthroat, Duelist, Gun Mage, Military Officer, Pirate, Pistoleer, Ranger, Warcaster, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm)
-* Possible Perks: Ambush, Battle Plan: Call to Action, Boarding Action, Disease Resistance, Gang, Precision Strike, Ram, Roll with It, Specialization (Lacerator), Sprint
+* Possible Abilities: Ambush, Battle Plan: Call to Action, Boarding Action, Disease Resistance, Gang, Precision Strike, Ram, Roll with It, Specialization (Lacerator), Sprint
 * Possible Skills: Command 2D, General Skills 4D, Nagivation 3D, Rope Use 4D, Sailing 3D; Hand Weapon 4D, Pistol 3D, Throwing 3D, Unarmed Combat 4D
 * Starting Connections: Black Feet
 * Starting Assets: Lacerator, Leather Armor
@@ -756,7 +756,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Ranger
 
-* Possible Perks: Battle Plan: Go to Ground, Battle Plan: Reconnaissance, Battle Plan: Shadow, Camouflage, Disease Resistance, Fast Reload, Light Cavalry, Night Fighter, Pathfinder, Prowl, Saddle Shot, Signal Language, Swift Hunter, Swift Rider, Traceless Path
+* Possible Abilities: Battle Plan: Go to Ground, Battle Plan: Reconnaissance, Battle Plan: Shadow, Camouflage, Disease Resistance, Fast Reload, Light Cavalry, Night Fighter, Pathfinder, Prowl, Saddle Shot, Signal Language, Swift Hunter, Swift Rider, Traceless Path
 * Possible Skills: Command 3D, Any Craft 2D, Cryptography 1D, General Skills 4D, Healing 3D, Nagivation 4D, Rope Use 4D, Sneak 4D, Survival 4D, Tracking 4D; Archery 4D, Crossbow 3D, Hand Weapon 2D, Pistol 2D, Rifle 4D, Throwing 4D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: None
@@ -764,7 +764,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Raptor
 
-* Possible Perks: Beast Handler, Cavalry Fighter, Evasive Rider, Expert Rider, Light Cavalry, Mount Attack (Ulk), Opening Salvo, Saddle Shot, Swift Rider, Trained Rider (Ulk)
+* Possible Abilities: Beast Handler, Cavalry Fighter, Evasive Rider, Expert Rider, Light Cavalry, Mount Attack (Ulk), Opening Salvo, Saddle Shot, Swift Rider, Trained Rider (Ulk)
 * Possible Skills: Command 2D, General Skills 4D, Nagivation 3D, Survival 3D, Tracking 4D; Archery 3D, Great Weapon 3D, Unarmed Combat 2D
 * Starting Connections: Nyss Shard
 * Starting Assets: Nyss Leather Armor, Ulk with Tack and Harness
@@ -772,7 +772,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Ravager
 
-* Possible Perks: Consume Essence, Disease Resistance, Fearless, Heart Eater, Hyper Awareness, Overtake, Pathfinder, Specialization (Tharn Axe), Specialization (Tharn Bow), Sprint, Treewalker
+* Possible Abilities: Consume Essence, Disease Resistance, Fearless, Heart Eater, Hyper Awareness, Overtake, Pathfinder, Specialization (Tharn Axe), Specialization (Tharn Bow), Sprint, Treewalker
 * Possible Skills: Command 3D, General Skills 4D, Nagivation 3D, Sneak 2D, Survival 4D, Tracking 3D,Any Craft(Tharn equipment) 4D; Archery 4D, Great Weapon 4D, Hand Weapon 4D, Throwing 3D, Unarmed Combat 4D
 * Starting Connections: Character's Tribe
 * Starting Assets: Tharn Leathers, Tharn Axe Or Tharn Bow with a Quiver of 10 Arrows
@@ -781,7 +781,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Reclaimer
 
 * Restrictions: Arcanist, Field Mechanik, Investigator, Priest (Menoth), Soldier, Warcaster, Warcaster (Protectorate), Arcane Mechanik (Vassal of Menoth)
-* Possible Perks: Communion, Fearless, Gatekeeper, Immunity: Fire, Oath of Silence, Reclaim, Signal Language, Soulstorm, Urcaen's Gate, Whispers of the Creator
+* Possible Abilities: Communion, Fearless, Gatekeeper, Immunity: Fire, Oath of Silence, Reclaim, Signal Language, Soulstorm, Urcaen's Gate, Whispers of the Creator
 * Possible Skills: Cryptography 3D, General Skills 4D; Great Weapon 4D, Hand Weapon 3D
 * Starting Connections: Reclaiment Order
 * Starting Assets: Reclaimant's mask, ten grave markers, Reclaimant torch
@@ -789,7 +789,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Rifleman
 
-* Possible Perks: Crackshot, Dual Shot, Fast Reload, Marksman, Night Fighter, Return Fire, Saddle Shot, Sniper, Swift Hunter, Targeteer
+* Possible Abilities: Crackshot, Dual Shot, Fast Reload, Marksman, Night Fighter, Return Fire, Saddle Shot, Sniper, Swift Hunter, Targeteer
 * Possible Skills: Gunsmithing 4D, General Skills 4D, Survival 3D; Rifle 4D
 * Starting Connections: None
 * Starting Assets: ammo bandolier, and a rifle (heavy) or rifle (repeating) (with powder and 10 ammo)
@@ -797,7 +797,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Ryssovass
 
-* Possible Perks: Blade Shield (Nyss Great Sword), Cleave, Defender, Defensive Line, Fearless, Load Bearing, Precision Strike, Relentless Charge, Renowned, Retaliatory Strike, Set Defense, Specialization (Nyss Great Sword)
+* Possible Abilities: Blade Shield (Nyss Great Sword), Cleave, Defender, Defensive Line, Fearless, Load Bearing, Precision Strike, Relentless Charge, Renowned, Retaliatory Strike, Set Defense, Specialization (Nyss Great Sword)
 * Possible Skills: Command 4D, General Skills 4D, Survival 3D, Metalworking 4D; Great Weapon 4D, Unarmed Combat 3D
 * Starting Connections: Nyss Shard
 * Starting Assets: Nyss Great Sword, Ryssovass Plate Armor
@@ -805,7 +805,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Scout (Pyg Burrower)
 
-* Possible Perks: Battle Plan: Reconnaissance, Battle Plan: Shadow, Camouflage, Disease Resistance, Expert Rider, Fast Reload, Go to Ground, Knife Thrower, Light Cavalry, Night Fighter, Pathfinder, Prowl, Pursuit, Signal Language, Skilled Trapper, Specialization (Slug Gun), Survivalist, Swift Hunter, Swift Rider, Traceless Path, Tunneling
+* Possible Abilities: Battle Plan: Reconnaissance, Battle Plan: Shadow, Camouflage, Disease Resistance, Expert Rider, Fast Reload, Go to Ground, Knife Thrower, Light Cavalry, Night Fighter, Pathfinder, Prowl, Pursuit, Signal Language, Skilled Trapper, Specialization (Slug Gun), Survivalist, Swift Hunter, Swift Rider, Traceless Path, Tunneling
 * Possible Skills: Command 3D, Cryptography 1D, General Skills 4D, Search 3D, Healing 3D, Nagivation 4D, Rope Use 4D, Sneak 4D, Survival 4D, Tracking 4D, Any Craft 2D; Archery 3D, Crossbow 3D, Hand Weapon 3D, Pistol 3D, Rifle 3D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: Custom Battle Armor, Pickaxe or Shovel
@@ -813,7 +813,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Scout
 
-* Possible Perks: Battle Plan: Reconnaissance, Battle Plan: Shadow, Camouflage, Disease Resistance, Expert Rider, Fast Reload, Knife Thrower, Light Cavalry, Night Fighter, Pathfinder, Prowl, Pursuit, Signal Language, Skilled Trapper, Survivalist, Swift Hunter, Swift Rider, Traceless Path
+* Possible Abilities: Battle Plan: Reconnaissance, Battle Plan: Shadow, Camouflage, Disease Resistance, Expert Rider, Fast Reload, Knife Thrower, Light Cavalry, Night Fighter, Pathfinder, Prowl, Pursuit, Signal Language, Skilled Trapper, Survivalist, Swift Hunter, Swift Rider, Traceless Path
 * Possible Skills: Command 3D,Any Craft(any) 2D, Cryptography 1D, General Skills 4D, Search 3D, Healing 3D, Nagivation 4D, Rope Use 4D, Sneak 4D, Survival 4D, Tracking 4D; Archery 3D, Crossbow 3D, Hand Weapon 3D, Pistol 3D, Rifle 3D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: None
@@ -822,7 +822,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Scrutator
 
 * Restrictions: Allegiant (Order of the Fist), Investigator, Military Officer, Priest (Menoth), Warcaster, Warcaster (Protectorate)
-* Possible Perks: Authority, Battle Plan: Call of Action, Dominating Presence, Iron Will, Language, Natural Leader, Rallying Cry, Torture
+* Possible Abilities: Authority, Battle Plan: Call of Action, Dominating Presence, Iron Will, Language, Natural Leader, Rallying Cry, Torture
 * Possible Skills: Command 4D, General Skills 4D, Interrogation 4D, Law 4D, Healing 2D, Persuasion 4D, Oratory 4D; Great Weapon 3D, Hand Weapon 3D
 * Starting Connections: Temple of Menoth
 * Starting Assets: Scrutator's masked helm, a Wrack
@@ -830,7 +830,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Searforge Trader
 
-* Possible Perks: Always a Deal to be Made, Appraise, Conniver, Counter Offer, Language, Port of Call, Silver Tongued
+* Possible Abilities: Always a Deal to be Made, Appraise, Conniver, Counter Offer, Language, Port of Call, Silver Tongued
 * Possible Skills: Bribery 4D, Command 2D, Deception 4D, Etiquette 4D General Skills 4D, Law 4D, Nagivation 4D, Persuasion 4D, Oratory 3D, Survival 2D; Hand Weapon 3D, Pistol 3D
 * Starting Connections: Searforge Commission
 * Starting Assets: 50gc per month income
@@ -838,15 +838,15 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Seeker
 
-* Possible Perks: Advisor, Cover Identity, Instructor, Iron Will, Language, Power of Truth, Team Leader, Team Player, University Education
-* Possible Skills: Bribery 3D, Cryptography 4D, Deception 4D, Disguise 2D, Etiquette 4D, General Skills 4D, Healing 2D, Nagivation 4D, Oratory 4D, Search [Research] 4D, Streetwise 2D, Survival 2D; Hand Weapon 2D, Pistol 2D
+* Possible Abilities: Advisor, Cover Identity, Instructor, Iron Will, Language, Power of Truth, Team Leader, Team Player, University Education
+* Possible Skills: Bribery 3D, Cryptography 4D, Deception 4D, Disguise 2D, Etiquette 4D, General Skills 4D, Healing 2D, Nagivation 4D, Oratory 4D, Research 4D, Streetwise 2D, Survival 2D; Hand Weapon 2D, Pistol 2D
 * Starting Connections: Seekers
 * Starting Assets: None
 * Starting Money: 100
 
 ### Shaman (Devourer Wurm)
 
-* Possible Perks: Aegis, Blood Trade, Disease Resistance, Flesh of Steel, Gift of the Beast, Poison Resistance, Staredown, Survivalist
+* Possible Abilities: Aegis, Blood Trade, Disease Resistance, Flesh of Steel, Gift of the Beast, Poison Resistance, Staredown, Survivalist
 * Possible Skills: Command 3D, Deception 4D, Disguise 3D, Escape Artist 3D, General Skills 4D, Interrogation 3D, Healing 2D, Nagivation 3D, Persuasion 2D, Oratory 2D, Sneak 3D, Survival 3D; Great Weapon 3D, Hand Weapon 3D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -854,7 +854,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Shaman (Dhunia)
 
-* Possible Perks: Balm of Dhunia, Charmer, Dispel, Fate Blessed, Natural Leader
+* Possible Abilities: Balm of Dhunia, Charmer, Dispel, Fate Blessed, Natural Leader
 * Possible Skills: Command 3D, General Skills 4D, Healing 3D, Persuasion 4D, Oratory 4D, Survival 2D, Stoneworking 4D; Great Weapon 3D, Hand Weapon 3D
 * Starting Connections: Character's Tribe
 * Starting Assets: None
@@ -863,7 +863,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Skinwalker
 
 * Restrictions: Berserker, Chieftan, Scout, Shaman (Devourer), Warlock (Circle), Warrior, Wolf of Orboros, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm)
-* Possible Perks: Fearless, Hunting Howl, Hyper Regeneration, Jaws of the Beast, Life Drinker, Load Bearing, Pursuit, Relentless Advance, Retaliatory Strike, Warpborn
+* Possible Abilities: Fearless, Hunting Howl, Hyper Regeneration, Jaws of the Beast, Life Drinker, Load Bearing, Pursuit, Relentless Advance, Retaliatory Strike, Warpborn
 * Possible Skills: General Skills 4D, Survival 4D, Tracking 4D; Great Weapon 4D, Unarmed Combat 4D
 * Starting Connections: Choose One: Connections (Circle Orboros), Connections (Human Tribe), Connections (Wolves Of Orboros)
 * Starting Assets: Skinwalker Full Plate
@@ -871,7 +871,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Slaughterhouser
 
-* Possible Perks: Broad Stroke, Cleave, Fearless, Finisher, Gang, Hack, Load Bearing, Precision Strike, Relentless Charge, Specialization (Halberd)
+* Possible Abilities: Broad Stroke, Cleave, Fearless, Finisher, Gang, Hack, Load Bearing, Precision Strike, Relentless Charge, Specialization (Halberd)
 * Possible Skills: Command 3D, General Skills 4D, Survival 3D; Great Weapon 4D, Unarmed Combat 3D
 * Starting Connections: Thornfall Alliance
 * Starting Assets: Halberd, Full Plate Armor
@@ -879,7 +879,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Soldier (Marine)
 
-* Possible Perks: 'Jack Marshall, Cautious Advance, Cavalry Charge, Disease Resistance, Fast Reload, Find Cover, Grenadier, Hit the Deck!, Language, Ride-By Attack, Roll With It, Saddle Shot, Sentry, Specilization (Cutlass), Specialization (Gaff Spear)
+* Possible Abilities: 'Jack Marshall, Cautious Advance, Cavalry Charge, Disease Resistance, Fast Reload, Find Cover, Grenadier, Hit the Deck!, Language, Ride-By Attack, Roll With It, Saddle Shot, Sentry, Specilization (Cutlass), Specialization (Gaff Spear)
 * Possible Skills: Command 3D, General Skills 4D, Healing 3D, Nagivation 2D, Sneak 2D, Sailing 3D, Survival 3D; Crossbow 3D, Great Weapon 4D, Light Artillery 3D, Hand Weapon 3D, Pistol 3D, Rifle 4D, Shield 2D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: None
@@ -887,7 +887,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Soldier
 
-* Possible Perks: 'Jack Marshall, Cautious Advance, Cavalry Charge, Disease Resistance, Fast Reload, Find Cover, Grenadier, Hit the Deck!, Language, Ride-By Attack, Roll With It, Saddle Shot, Sentry
+* Possible Abilities: 'Jack Marshall, Cautious Advance, Cavalry Charge, Disease Resistance, Fast Reload, Find Cover, Grenadier, Hit the Deck!, Language, Ride-By Attack, Roll With It, Saddle Shot, Sentry
 * Possible Skills: Command 3D, General Skills 4D, Healing 3D, Nagivation 2D, Sneak 2D, Survival 3D; Crossbow 3D, Great Weapon 4D, Light Artillery 3D, Hand Weapon 3D, Pistol 3D, Rifle 4D, Shield 2D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: None
@@ -895,7 +895,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Sorcerer (Fire)
 
-* Possible Perks: Camouflage, Dodger, Elemental Mastery, Immunity (Fire), Traceless Path
+* Possible Abilities: Camouflage, Dodger, Elemental Mastery, Immunity (Fire), Traceless Path
 * Possible Skills: General Skills 4D, Sneak 3D, Survival 3D; Archery 3D, Crossbow 3D, Hand Weapon 3D, Throwing 2D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: None
@@ -903,7 +903,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Sorcerer (Ice)
 
-* Possible Perks: Camouflage, Dodger, Elemental Mastery, Immunity (Cold), Traceless Path
+* Possible Abilities: Camouflage, Dodger, Elemental Mastery, Immunity (Cold), Traceless Path
 * Possible Skills: General Skills 4D, Sneak 3D, Survival 3D; Archery 3D, Crossbow 3D, Hand Weapon 3D, Throwing 2D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: None
@@ -911,7 +911,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Sorcerer (Stone)
 
-* Possible Perks: Camouflage, Dodger, Elemental Mastery, Traceless Path
+* Possible Abilities: Camouflage, Dodger, Elemental Mastery, Traceless Path
 * Possible Skills: General Skills 4D, Sneak 3D, Survival 3D; Archery 3D, Crossbow 3D, Hand Weapon 3D, Throwing 2D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: None
@@ -920,7 +920,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Sorcerer (Storm)
 
-* Possible Perks: Camouflage, Dodger, Elemental Mastery, Traceless Path
+* Possible Abilities: Camouflage, Dodger, Elemental Mastery, Traceless Path
 * Possible Skills: General Skills 4D, Sneak 3D, Survival 3D; Archery 3D, Crossbow 3D, Hand Weapon 3D, Throwing 2D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: None
@@ -929,7 +929,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Spy
 
-* Possible Perks: Battle Plan: Shadow, Cover Identity, Iron Will, Language, Poison Resistance, Prowl, Signal Language, Truth Reader, Waylay
+* Possible Abilities: Battle Plan: Shadow, Cover Identity, Iron Will, Language, Poison Resistance, Prowl, Signal Language, Truth Reader, Waylay
 * Possible Skills: Bribery 4D, Command 3D, Cryptography 4D, Deception 4D, Disguise 4D, Escape Artist 4D, Etiquette 4D, Forgery 4D, General Skills 4D, Interrogation 4D, Law 4D, Lock Picking 2D, Persuasion 4D, Seduction 4D, Sneak 4D, Streetwise 4D; Hand Weapon 3D, Pistol 3D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: Intelligence Network
 * Starting Assets: forged identity papers
@@ -938,7 +938,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Stormblade
 
 * Restrictions: Aristocrat, Knight, Man-at-Arms, Military Officer, Soldier, Warcaster, Warcaster (Cygnaran)
-* Possible Perks: 'Jack Marshall, Blaster, Close Shot, Load Bearing, Quick Work, Relentless Charge, Specialization (Storm Glaive)
+* Possible Abilities: 'Jack Marshall, Blaster, Close Shot, Load Bearing, Quick Work, Relentless Charge, Specialization (Storm Glaive)
 * Possible Skills: Command 4D, Etiquette 2D, General Skills 4D, Healing 2D; Great Weapon 4D
 * Starting Connections: Cygnarian Military
 * Starting Assets: Storm Glaive and Storm Knight armor
@@ -946,7 +946,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Stormsmith
 
-* Possible Perks: Electromancer, Eye of the Storm, Hit the Deck!, Maestro, Specialization (Stormcaller and Lightning Rod), Storm Booster, Weatherman, Weather Vane
+* Possible Abilities: Electromancer, Eye of the Storm, Hit the Deck!, Maestro, Specialization (Stormcaller and Lightning Rod), Storm Booster, Weatherman, Weather Vane
 * Possible Skills: Command 4D, General Skills 4D, Mechanikal Engineering 3D, Stormsmithing 4D; Great Weapon 2D, Hand Weapon 2D
 * Starting Connections: Cygnaran military
 * Starting Assets: Stormsmith armor, Stormcaller and Lightning rod
@@ -954,15 +954,15 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Thamarite Advocate
 
-* Possible Perks: Black Tongue, Corruptor, Dark Scribe, Ghost Shield, Grave Man, Haruspex, Imbue Weapon, Inscribe Thrall Rune, Iron Will, Language, Necromancer, Shadow Magic, Soul Taker, Soul Thief
-* Possible Skills: Bribery 4D, Craft Thrall) 4D, Cryptography 4D, Deception 4D, Disguise 4D, Etiquette 3D, General Skills 4D, Interrogation 2D, Law 4D, Healing 2D, Persuasion 4D, Oratory 4D, Search [Research] 4D, Seduction 4D, Sneak 3D, Streetwise 3D,; Hand Weapon 3D, Pistol 3D
+* Possible Abilities: Black Tongue, Corruptor, Dark Scribe, Ghost Shield, Grave Man, Haruspex, Imbue Weapon, Inscribe Thrall Rune, Iron Will, Language, Necromancer, Shadow Magic, Soul Taker, Soul Thief
+* Possible Skills: Bribery 4D, Craft Thrall) 4D, Cryptography 4D, Deception 4D, Disguise 4D, Etiquette 3D, General Skills 4D, Interrogation 2D, Law 4D, Healing 2D, Persuasion 4D, Oratory 4D, Research 4D, Seduction 4D, Sneak 3D, Streetwise 3D,; Hand Weapon 3D, Pistol 3D
 * Starting Connections: None
 * Starting Assets: None
 * Starting Money: 100
 
 ### Thief
 
-* Possible Perks: Appraise, Camouflage, Card Sharp, Conniver, Dodger, Fleet Foot, Get Away, Language (Five Cant), Parry, Prowl, Traceless Path
+* Possible Abilities: Appraise, Camouflage, Card Sharp, Conniver, Dodger, Fleet Foot, Get Away, Language (Five Cant), Parry, Prowl, Traceless Path
 * Possible Skills: Bribery 4D, Any Craft 2D, Deception 4D, Disguise 4D, Escape Artist 4D, Etiquette 1D, Forgery 4D, General Skills 4D, Law 2D, Lock Picking 4D, Persuasion 4D, Pick Pocket 4D, Sneak 4D, Streetwise 4D; Hand Weapon 3D, Pistol 2D, Throwing 3D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: thief's tools
@@ -970,7 +970,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Tinker
 
-* Possible Perks: Appraise, Conniver, Demolish, Jury Rig, Scavenger, Scrapper, Tinkering
+* Possible Abilities: Appraise, Conniver, Demolish, Jury Rig, Scavenger, Scrapper, Tinkering
 * Possible Skills: Deception 4D, General Skills 4D, Persuasion 4D, Streetwise 4D, Survival 2D, Any Craft 4D; Hand Weapon 2D, Pistol 3D
 * Starting Connections: None
 * Starting Assets: Tinker's Kit
@@ -978,7 +978,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Trapper
 
-* Possible Perks: Astute, Brutal Trapper, Camouflage, Cautious Advance, Cautious Trapper, Hidden Traps, Prowl, Skilled Trapper
+* Possible Abilities: Astute, Brutal Trapper, Camouflage, Cautious Advance, Cautious Trapper, Hidden Traps, Prowl, Skilled Trapper
 * Possible Skills: General Skills 4D, Rope Use 4D, Sneak 2D, Survival 4D; Archery 3D, Hand Weapon 2D, Rifle 3D
 * Starting Connections: None
 * Starting Assets: None
@@ -987,7 +987,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Trencher
 
 * Restrictions: Military Officer, Ranger, Rifleman, Soldier, Warcaster, Artillerist
-* Possible Perks: 'Jack Marshall, Anatomical Precision, Bayonet Charge, Bomber, Dig In, Fire in the Hole!, Grenadier, Hit the Deck!, Relentless Charge, Specialization (Bayonet)
+* Possible Abilities: 'Jack Marshall, Anatomical Precision, Bayonet Charge, Bomber, Dig In, Fire in the Hole!, Grenadier, Hit the Deck!, Relentless Charge, Specialization (Bayonet)
 * Possible Skills: Command 3D, General Skills 4D, Interrogation 3D, Healing 3D, Sneak 3D, Survival 3D; Great Weapon 3D, Light Artillery 4D, Hand Weapon 3D, Pistol 3D, Rifle 4D, Throwing 4D, Unarmed Combat 3D
 * Starting Connections: Cygnarian Military
 * Starting Assets: ammo bandolier, bayonet (rifle), entrenching spade, rifle (military), 3 smoke grenades, trencher medium infantry armor
@@ -995,7 +995,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Urban Nomad
 
-* Possible Perks: Adaptable (Urban), Archer, Crackshot, Fast Reload, Keen Eyed, Marksman, Night Fighter, Roll With It, Signal Language, Street Survivor, Swift Hunter, Targeteer
+* Possible Abilities: Adaptable (Urban), Archer, Crackshot, Fast Reload, Keen Eyed, Marksman, Night Fighter, Roll With It, Signal Language, Street Survivor, Swift Hunter, Targeteer
 * Possible Skills: Bribery 4D, Escape Artist 4D, General Skills 4D, Nagivation 2D, Sneak 4D, Survival 4D; Archery 4D, Great Weapon 4D, Hand Weapon 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: Nyss Claymore, Nyss Bow
@@ -1004,7 +1004,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Warcaster (Cygnaran)
 
 * Restrictions: Arcane Mechanik, Arcanist, Field Mechanik, Knight, Mant-at-Arms, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Stormblade, Trencher, Gun Mage, Gun Mage (Arcane Tempest), Aristocrat, Horseman, Military Officer, Pistoleer, Ranger, Rifleman, Soldier
-* Possible Perks: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Possible Abilities: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
 * Possible Skills: Command 4D, General Skills 4D; Great Weapon 3D, Hand Weapon 3D, Pistol 3D, Unarmed Combat 2D
 * Starting Connections: Cygnaran military
 * Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
@@ -1012,8 +1012,8 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Warcaster (Cyriss)
 
-* Possible Perks: Blaster, Bond,Clockwork Transcendence, Convergence Warcaster, Field Marshal: Celestial Harmony, Field Marshal: Magical Attack, Field Marshal: Shield Guard, Overpower, Vessel Upgrade
-* Possible Skills: Command 3D, Any Craft 3D, General Skills 4D, Mechanikal Engineering 3D, Search [Research] 3D; Great Weapon 3D, Hand Weapon 3D
+* Possible Abilities: Blaster, Bond,Clockwork Transcendence, Convergence Warcaster, Field Marshal: Celestial Harmony, Field Marshal: Magical Attack, Field Marshal: Shield Guard, Overpower, Vessel Upgrade
+* Possible Skills: Command 3D, Any Craft 3D, General Skills 4D, Mechanikal Engineering 3D, Research 3D; Great Weapon 3D, Hand Weapon 3D
 * Starting Connections: Convergence of Cyriss
 * Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon, or mechanika hand cannon.  Item starts Bonded.
 * Starting Money: 0
@@ -1021,7 +1021,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Warcaster (Khadoran)
 
 * Restrictions: Arcanist (Greylord), Alchemist, Arcane Mechanik, Aristocrat, Explorer, Horseman, Investigator, Military Officer, Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Spy, Assault Kommando, Iron Fang, Soldier
-* Possible Perks: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Possible Abilities: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
 * Possible Skills: Command 4D, General Skills 4D; Great Weapon 3D, Hand Weapon 3D, Pistol 3D, Unarmed Combat 2D
 * Starting Connections: Khadoran Military
 * Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
@@ -1029,7 +1029,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Warcaster (Llaelese)
 
-* Possible Perks: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Possible Abilities: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
 * Possible Skills: Command 4D, General Skills 4D; Great Weapon 3D, Hand Weapon 3D, Pistol 3D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
@@ -1038,7 +1038,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Warcaster (Ordic)
 
 * Restrictions: Arcane Mechanik, Arcanist, Aristocrat, Artillerist, Duelist, Explorer, Field Mechanik, Horseman, Man-at-Arms, Military Officer, Pirate, Priest (Morrow), Soldier, Soldier (Marine), Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm)
-* Possible Perks: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Possible Abilities: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
 * Possible Skills: Command 4D, General Skills 4D; Great Weapon 3D, Hand Weapon 3D, Pistol 3D, Unarmed Combat 2D
 * Starting Connections: Ordic Military
 * Starting Assets: Choose one: Suit of Warcaster Armor (light), Warcaster Armor (medium) or Warcaster Armor (Naval), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
@@ -1047,7 +1047,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Warcaster (Protectorate)
 
 * Restrictions: Allegiant (Order of the Fist), Cutthroat, Duelist, Exemplar, Field Mechanik, Paladin (Order of the Wall), Priest (Menoth), Reclaimer, Scrutator
-* Possible Perks: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Possible Abilities: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
 * Possible Skills: Command 4D, General Skills 4D; Great Weapon 3D, Hand Weapon 3D, Pistol 3D, Unarmed Combat 2D
 * Starting Connections: Protectorate Military
 * Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
@@ -1055,7 +1055,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Warcaster (Rhulic)
 
-* Possible Perks: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader, Rhulic Warcaster
+* Possible Abilities: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader, Rhulic Warcaster
 * Possible Skills: Command 4D, General Skills 4D; Great Weapon 3D, Hand Weapon 3D, Pistol 3D, Unarmed Combat 2D
 * Starting Connections: Dwarven Clan
 * Starting Assets: Choose one: Suit of Warcaster Armor (light or medium), mechanika hand weapon, or mechanika hand cannon.  Item starts Bonded.
@@ -1063,7 +1063,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Warcaster
 
-* Possible Perks: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
+* Possible Abilities: Bond, Field Marshal: Magical Attack, Field Marshal: Relentless Charge, Field Marshal: Shield Guard, Natural Leader
 * Possible Skills: Command 4D, General Skills 4D; Great Weapon 3D, Hand Weapon 3D, Pistol 3D, Unarmed Combat 2D
 * Starting Connections: None
 * Starting Assets: Choose one: Suit of Warcaster Armor (light) or Warcaster Armor (medium), mechanika hand weapon or great weapon, or mechanika pistol or hand cannon.  Item starts Bonded.
@@ -1071,7 +1071,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Warlock (Circle)
 
-* Possible Perks: Beast Handler, Calm, Earth Magic, Empower Weapon, Field Marshal: Magical Weapon, Field Marshal: Relentless Charge, Pack Hunter, Pathfinder, Resonance: Devourer Warbeast, Resonance: Wold, Stone Warder, Warlock Bond, Wold Mastery
+* Possible Abilities: Beast Handler, Calm, Earth Magic, Empower Weapon, Field Marshal: Magical Weapon, Field Marshal: Relentless Charge, Pack Hunter, Pathfinder, Resonance: Devourer Warbeast, Resonance: Wold, Stone Warder, Warlock Bond, Wold Mastery
 * Possible Skills: Command 3D, General Skills 4D, Sneak 3D, Survival 3D; Great Weapon 3D, Hand Weapon 3D, Unarmed Combat 3D
 * Starting Connections: Character's Tribe
 * Starting Assets: medium-based Devourer warbeast or medium-based Wold
@@ -1079,7 +1079,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Warlock (Farrow)
 
-* Possible Perks: Empower Weapon, Field Marshal: Counter Charge, Field Marshal: Hog Wild, Goad, Maltreatment, Resonance: Farrow Warbeast, Souie!, Warlock Bond
+* Possible Abilities: Empower Weapon, Field Marshal: Counter Charge, Field Marshal: Hog Wild, Goad, Maltreatment, Resonance: Farrow Warbeast, Souie!, Warlock Bond
 * Possible Skills: Command 3D, Deception 3D, General Skills 4D, Persuasion 3D, Streetwise 3D, Survival 3D; Great Weapon 3D, Hand Weapon 3D, Pistol 3D, Rifle 3D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: medium-based Farrow warbeast or two razor boar warbeasts
@@ -1087,7 +1087,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Warlock (Swamp)
 
-* Possible Perks: Empower Weapon, Field Marshal: Counter Charge, Field Marshal: Magical Attack, Field Marshal: Poltergeist, Maltreatment, Resonance: Swamp Warbeast, Spirit Eater, Warlock Bond
+* Possible Abilities: Empower Weapon, Field Marshal: Counter Charge, Field Marshal: Magical Attack, Field Marshal: Poltergeist, Maltreatment, Resonance: Swamp Warbeast, Spirit Eater, Warlock Bond
 * Possible Skills: Command 3D, General Skills 4D, Survival 3D; Great Weapon 3D, Hand Weapon 3D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: medium-based Swamp warbeast
@@ -1095,7 +1095,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Warlock (Trollkin)
 
-* Possible Perks: Empower Weapon, Field Marshal: Regenerate, Field Marshal: Relentless Charge, Field Marshal: Unyielding, Goad, Resonance: Trollblood Warbeast, Troll Speaker, Warlock Bond
+* Possible Abilities: Empower Weapon, Field Marshal: Regenerate, Field Marshal: Relentless Charge, Field Marshal: Unyielding, Goad, Resonance: Trollblood Warbeast, Troll Speaker, Warlock Bond
 * Possible Skills: Command 4D, General Skills 4D, Survival 3D; Great Weapon 3D, Hand Weapon 3D, Throwing 3D, Unarmed Combat 3D
 * Starting Connections: Character's Tribe
 * Starting Assets: medium-based Trollblood warbeast
@@ -1103,7 +1103,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Warrior
 
-* Possible Perks: Cautious Advance, Cavalry Charge, Crossbowman, Fast Draw, Fast Reload, Find Cover, Gunner, Head-Butt, Knife Thrower, Load Bearing, Quick Work, Roll with It, Sentry, Shield Guard, Shootist, Specialization (any), Two-Weapon Fighting
+* Possible Abilities: Cautious Advance, Cavalry Charge, Crossbowman, Fast Draw, Fast Reload, Find Cover, Gunner, Head-Butt, Knife Thrower, Load Bearing, Quick Work, Roll with It, Sentry, Shield Guard, Shootist, Specialization (any), Two-Weapon Fighting
 * Possible Skills: Command 3D,Any Craft(any) 3D, General Skills 4D, Interrogation 3D, Healing 3D, Persuasion 3D, Survival 3D; Archery 3D, Crossbow 4D, Great Weapon 4D, Hand Weapon 4D, Light Artillery 3D, Pistol 3D, Rifle 3D, Shield 3D, Throwing 3D, Unarmed Combat 4D
 * Starting Connections: None
 * Starting Assets: None
@@ -1111,7 +1111,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 
 ### Wolf Rider
 
-* Possible Perks: Beast Handler, Expert Rider, Light Cavalry, Mount Attack (Duskwolf), Scent, Signal Howls, Swift Rider, Trained Rider (Duskwolf), Wolf Protector
+* Possible Abilities: Beast Handler, Expert Rider, Light Cavalry, Mount Attack (Duskwolf), Scent, Signal Howls, Swift Rider, Trained Rider (Duskwolf), Wolf Protector
 * Possible Skills: General Skills 4D, Survival 4D, Tracking 4D; Great Weapon 4D, Hand Weapon 4D, Throwing 4D, Unarmed Combat 3D
 * Starting Connections: None
 * Starting Assets: duskwolf with tack
@@ -1120,7 +1120,7 @@ Character begins with the Arcane Background Perk of his/her choice and one of th
 ### Wolf of Orboros
 
 * Restrictions: Bone Grinder, Brigand, Chieftan, Monster Hunter, Scout, Shaman (Devourer), Sorcerer (Fire), Sorcerer (Ice), Sorcerer (Stone), Sorcerer (Storm), Warlock (Circle), Warrior, Wolf Rider
-* Possible Perks: Battle Plan: Brutal Charge, Bayonet Charge, Cleave, Crossbowman, Dual Shot (Crossbow), Fast Reload, Hunter, Load Bearing, Pathfinder, Precision Strike, Set Defense, Specialization (Cleft Weapon)
+* Possible Abilities: Battle Plan: Brutal Charge, Bayonet Charge, Cleave, Crossbowman, Dual Shot (Crossbow), Fast Reload, Hunter, Load Bearing, Pathfinder, Precision Strike, Set Defense, Specialization (Cleft Weapon)
 * Possible Skills: Command 3D, General Skills 4D, Nagivation 3D, Sneak 3D, Survival 3D, Tracking 3D; Crossbow 4D, Great Weapon 4D, Hand Weapon 4D
 * Starting Connections: Wolves Of Orboros
 * Starting Assets: Full Plate Armor, Wolf Pelt, Cleft Spear or Dual Crossbow with a Quiver of 10 Bolts
@@ -1159,9 +1159,9 @@ Two additional skills don't conform to any existing skill set:
 * Command: May be rolled to exert military authority in and out of combad. Adds (die type / 2) to a character's command radius.
 
 
-## Perks and Hinderances
+## Abilities and Hinderances
 
-### Abilities as Perks
+### Abilities as Abilities
 
 * Abomination: The Character provokes a Terror check in battle at a -2 penalty. This Terror affect both friendly and enemy chars. Can reroll Intimidation rolls, can only reroll once as a result of Abomination.
 * Ace Commander: This character can drive a 'jack as a free action.
@@ -1602,7 +1602,7 @@ Two additional skills don't conform to any existing skill set:
 ### Hinderances
 
 * Jingoistic (Minor/Major): The character with this Hindrance dislikes people from other cultures and believes his own culture to be vastly superior. He can’t help belittling other cultures and praising the virtues of his own at every opportunity.
-A character taking the Minor version of this Hindrance has a –2 Charisma among cultures other than his own. The penalty increases to –4 for the Major Hindrance. In both cases, the character may not use Leadership Perks with “foreigners” unless he has worked with them for at least one week and succeeded at a Persuasion check. (May repeat the check once per week until successful.)
+A character taking the Minor version of this Hindrance has a –2 Charisma among cultures other than his own. The penalty increases to –4 for the Major Hindrance. In both cases, the character may not use Leadership Abilities with “foreigners” unless he has worked with them for at least one week and succeeded at a Persuasion check. (May repeat the check once per week until successful.)
 * Cultural Enmity (Minor): The character was raised in an environment that fostered a long-standing enmity with some other culture or locale. Whenever dealing with someone from that locale, both individuals suffers –2 penalty to their Charisma scores due to these deep-rooted and long-standing prejudices.
 * Disowned (Minor): Your hero did something disgraceful or scandalous in the past, bringing shame or embarrassment on your family. As a result, you have been disowned and your family refuses to acknowledge you. Your hero’s starting Status is modified by –1 and starting funds are reduced by half. If also suffering from the Poverty Hindrance, your hero receives only 25% starting funds. (Only if you use the Status rules) 
 
